@@ -1,0 +1,82 @@
+<head>
+    <meta charset="utf-8">
+    <title>{{ .Title }} | {{ .Site.Params.author }}</title>
+
+    <!-- General Meta tags -->
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, user-scalable=1">
+
+    <meta name="google-site-verification" content="LNA1eqUlseTxa5TMDHg9VrZ7EzTqEP65cYoL3c4oWqk" />
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
+
+    <link rel="canonical" href="{{ .Site.BaseURL }}">
+    <link rel="alternate" href="/atom.xml" title="{{ .Title }}" type="application/atom+xml" hreflang="en-gb">
+
+    <script type="application/ld+json" async>
+      {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "{{ .Site.Params.author }}",
+        "url": "{{ .Site.BaseURL }}",
+        "image" : "{{ .Site.BaseURL }}images/profile/chris-gibbons.jpg",
+        "sameAs" : [
+            "https://twitter.com/{{ .Site.Params.twitter }}",
+            "http://uk.linkedin.com/in/{{ .Site.Params.linkedin }}",
+            "https://github.com/{{ .Site.Params.github }}"
+        ]
+      }
+    </script>
+
+    <meta name="description" content="{{ .Site.Params.metaDescription }}">
+    <meta name="keywords" content="{{ .Site.Params.metaKeywords }}" />
+    <meta name="author" content="{{ .Site.Params.author }}" />
+    <meta name="copyright" content="{{ .Site.Params.author }}" />
+
+    <!-- handheld support -->
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta property="og:title" content="{{ .Title }} | {{ .Site.Params.author }}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ .Site.BaseURL }}">
+    <meta property="og:image" content="{{ .Site.BaseURL }}images/profile/chris-gibbons.jpg">
+    <meta property="og:description" content="{{ .Site.Params.author }} &mdash; {{ .Site.Params.metaDescription }}">
+    <meta property="og:locale" content="en_GB">
+    <meta property="article:author" content="{{ .Site.Params.author }}">
+    <meta property="og:site_name" content="{{ .Site.Params.author }} &mdash; {{ .Site.Params.metaDescription }}">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="{{ .Site.Params.twitter }}">
+    <meta name="twitter:creator" content="{{ .Site.Params.twitter }}">
+    <meta name="twitter:url" content="{{ .Site.BaseURL }}">
+    <meta name="twitter:domain" content="{{ .Site.BaseURL }}">
+    <meta name="twitter:title" content="{{ .Title }} | {{ .Site.Params.author }}">
+    <meta name="twitter:description" content="{{ .Site.Params.author }} &mdash; {{ .Site.Params.metaDescription }}">
+    <meta name="twitter:image" content="{{ .Site.BaseURL }}/images/profile/chris-gibbons.jpg">
+
+    <link rel="stylesheet" href="/css/styles.css">
+    <!-- Webfont loading code from Google -->
+    <script type="text/javascript">
+      WebFontConfig = {
+        google: { families: [ 'Montserrat:400,700:latin', 'Crimson+Text:400,700italic,400italic:latin' ] }
+      };
+      (function() {
+        var wf = document.createElement('script');
+        wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+        '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+        wf.type = 'text/javascript';
+        wf.async = 'true';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(wf, s);
+      })();
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-31834421-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+  </head>

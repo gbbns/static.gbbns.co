@@ -1,0 +1,49 @@
+<footer class="site-footer">
+  <!--<h2 class="footer-heading">{{ .Site.Params.Title }}</h2>-->
+
+    <div class="wrapper">
+      <!--<li>{{ .Site.Params.Title }}</li>-->
+      <p><a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a></p>
+
+        <ul class="social-mediaList">
+          <li class="social-item">
+            <a href="https://github.com/{{ .Site.Params.github }}">
+              <i class="fa fa-github"></i>
+              <span class="username">{{ .Site.Params.github }}</span>
+            </a>
+          </li>
+
+          <li class="social-item">
+            <a href="https://twitter.com/{{ .Site.Params.twitter }}">
+              <i class="fa fa-twitter"></i>
+              <span class="username">{{ .Site.Params.twitter }}</span>
+            </a>
+          </li>
+
+          <li class="social-item">
+            <a href="http://uk.linkedin.com/in/{{ .Site.Params.linkedin }}">
+              <i class="fa faLinkedin"></i>
+              <span class="username">{{ .Site.Params.linkedin }}</span>
+            </a>
+          </li>
+
+          <li class="social-item">
+            <a href="http://insta.com/{{ .Site.Params.insta }}">
+              <i class="fa fa-insta"></i>
+              <span class="username">{{ .Site.Params.insta }}</span>
+            </a>
+          </li>
+
+          <li class="social-item">
+            <a href="http://500px.com/{{ .Site.Params.fiveHundredPx }}">
+              <i class="fa fa-500px"></i>
+              <span class="username">{{ .Site.Params.fiveHundredPx }}</span>
+            </a>
+          </li>
+
+        </ul>
+
+        <p class="text">&copy; 2017. {{ .Site.Params.description }} - All rights reserved.</p>
+    </div>
+
+</footer>

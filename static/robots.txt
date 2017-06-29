@@ -1,0 +1,4 @@
+User-agent:*
+Allow:*
+
+Sitemap: http://www.gbbns.co/sitemap.xml
