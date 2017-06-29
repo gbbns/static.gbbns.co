@@ -1,31 +1,35 @@
-baseURL             = "http://www.chrisgibbons.co.uk"
-disablePathToLower  = false
-languageCode        = "en"
-title               = "gbbns.co"
-metaDataFormat      = "yaml"
-enableRobotsTXT     = true
-watch               = true
-buildDrafts         = true
-buildFuture         = true
+baseURL                 = "https://www.gbbns.co"
+disablePathToLower      = false
+languageCode            = "en"
+title                   = "gbbns.co"
+metaDataFormat          = "yaml"
+enableRobotsTXT         = true
+watch                   = true
+buildDrafts             = true
+buildFuture             = true
 
 [permalinks]
-  articles = "/article/:year/:month/:day/:slug/"
+    articles            = "/article/:year/:month/:day/:slug/"
+
+[taxonomies]
+    tag                 = "tags"
+    topic               = "topics"
 
 # Site settings
 [params]
-  title           = "UX Engineer"
-  subTitle        = "Front end meets UX"
-  email           = "chris@gbbns.co"
-  description     = "Chris Gibbons // Front End Web Developer from Lancashire, UK."
-  author          = "Chris Gibbons"
-  metaDescription = "Chris is a senior front end, UX developer based in Blackpool, Lancashire &amp; Manchester, UK. He build's flexible responsive websites for the all users of the web and bakes a smashing cake."
-  metaTitle       = "Chris Gibbons // Friendly front end web developer based in Manchester in the North West of England"
-  metaKeywords    = "Chris Gibbons, chris, gibbons, gbbns, blackpool, lancashire,england, uk, united kingdom, html, css, xhtml, web standards, accessibility, javascript"
-  twitter         = "_gbbns"
-  github          = "gbbns"
-  linkedin        = "cdgibbons"
-  lastfm          = "jibubo"
-  flickr          = "jibubo"
-  insta           = "gbbns.co"
-  vsco            = "jibubo"
-  fiveHundredPx   = "jibubo"
+    title               = "UX Engineer"
+    subTitle            = "Front end meets UX"
+    email               = "chris@gbbns.co"
+    description         = "Chris Gibbons // Front End Web Developer from Lancashire, UK."
+    author              = "Chris Gibbons"
+    metaDescription     = "Chris is a senior front end, UX developer based in Blackpool, Lancashire &amp; Manchester, UK. He build's flexible responsive websites for the all users of the web and bakes a smashing cake."
+    metaTitle           = "Chris Gibbons // Friendly front end web developer based in Manchester in the North West of England"
+    metaKeywords        = "Chris Gibbons, chris, gibbons, gbbns, blackpool, lancashire,england, uk, united kingdom, html, css, xhtml, web standards, accessibility, javascript"
+    twitter             = "_gbbns"
+    github              = "gbbns"
+    linkedin            = "cdgibbons"
+    lastfm              = "jibubo"
+    flickr              = "jibubo"
+    insta               = "gbbns.co"
+    vsco                = "jibubo"
+    fiveHundredPx       = "jibubo"

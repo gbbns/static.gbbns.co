@@ -1,14 +1,13 @@
----
-series: ""
-categories: ""
-tags: []
-draft: true
-title: "Now"
-date: 2017-06-29T08:16:12+01:00
-description: ""
-type: "static"
-page: "static/single.html"
----
++++
+topics = "now"
+tags = ["now"]
+draft = true
+title = "Now"
+date = 2017-06-29T08:16:12+01:00
+description = ""
+type = "static"
+layout = "single"
++++
 <h1>What I’m doing now</h1>
 
 Life is hectic. To help distill things, these are what I am currently focussing my efforts on:

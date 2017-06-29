@@ -1,12 +1,11 @@
----
-series: ""
-categories: ""
-tags: []
-draft: false
-title: "Moving To Hugo"
-date: 2017-06-29T07:53:30+01:00
-description: ""
----
++++
+topics = "coding"
+tags = ["hugo", "jekyll"]
+draft = false
+title = "Moving To Hugo"
+date = 2017-06-29T07:53:30+01:00
+description = "Sorry Jekyll, it's not you, it's me"
++++
 
 ## Moving my site from Jekyll to Hugo
 

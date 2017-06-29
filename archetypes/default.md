@@ -1,6 +1,5 @@
 ---
-series: ""
-categories: ""
+topics: ""
 tags: []
 draft: true
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
