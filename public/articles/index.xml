@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on UX Engineer</title>
+    <link>http://www.chrisgibbons.co.uk/articles/</link>
+    <description>Recent content in Articles on UX Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Jun 2017 07:53:30 +0100</lastBuildDate>
+    
+	<atom:link href="http://www.chrisgibbons.co.uk/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Moving To Hugo</title>
+      <link>http://www.chrisgibbons.co.uk/article/2017/06/29/moving-to-hugo/</link>
+      <pubDate>Thu, 29 Jun 2017 07:53:30 +0100</pubDate>
+      
+      <guid>http://www.chrisgibbons.co.uk/article/2017/06/29/moving-to-hugo/</guid>
+      <description>Moving my site from Jekyll to Hugo I had my site on Jekyll, it&amp;rsquo;s now on Hugo.
+This article will aim to document my early learnings.</description>
+    </item>
+    
+  </channel>
+</rss>

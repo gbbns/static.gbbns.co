@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.chrisgibbons.co.uk/now/</loc>
+    <lastmod>2017-06-29T08:16:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.chrisgibbons.co.uk/article/2017/06/29/moving-to-hugo/</loc>
+    <lastmod>2017-06-29T07:53:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.chrisgibbons.co.uk/categories/</loc>
+    <lastmod>2017-06-29T08:16:12+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.chrisgibbons.co.uk/articles/</loc>
+    <lastmod>2017-06-29T07:53:30+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.chrisgibbons.co.uk/categories/</loc>
+    <lastmod>2017-06-29T08:16:12+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.chrisgibbons.co.uk/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.chrisgibbons.co.uk/tags/test/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.chrisgibbons.co.uk/</loc>
+    <lastmod>2017-06-29T08:16:12+01:00</lastmod>
+  </url>
+  
+</urlset>
