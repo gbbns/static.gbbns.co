@@ -5,8 +5,8 @@ title                   = "gbbns.co"
 metaDataFormat          = "yaml"
 enableRobotsTXT         = true
 watch                   = true
-buildDrafts             = true
-buildFuture             = true
+buildDrafts             = false
+buildFuture             = false
 
 [permalinks]
     articles            = "/article/:year/:month/:day/:slug/"
