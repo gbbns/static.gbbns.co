@@ -3,14 +3,12 @@
 
   {{ partial "head.html" . }}
 
-  <body data-page-wrapper>
+  <body>
 
     {{ partial "header.html" . }}
 
     <main>
-      <div class="page__content content container wrapper">
         {{ .Content }}
-      </div>
     </main>
 
     {{ partial "footer.html" . }}
