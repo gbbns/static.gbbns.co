@@ -9,7 +9,7 @@ buildDrafts             = false
 buildFuture             = false
 
 [permalinks]
-    articles            = "/article/:year/:month/:day/:slug/"
+    articles            = "/articles/:year/:month/:day/:slug/"
 
 [taxonomies]
     tag                 = "tags"
