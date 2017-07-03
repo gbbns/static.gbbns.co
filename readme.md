@@ -16,6 +16,6 @@
 
 This is the source code for the personal site of Chris Gibbons, Front End developer from just outside the seaside town of [Blackpool](http://en.wikipedia.org/wiki/Blackpool)
 
-My [previous site](http://www.chrisgibbons.co.uk) was built using [Jekyll](https://jekyllrb.com/).
+My [previous site](https://github.com/gbbns/gbbns.github.io) was built using [Jekyll](https://jekyllrb.com/).
 
 [This site](https://gbbns.co) is now built using [Hugo](https://gohugo.io/), is open sourced on [GitHub](https://github.com/gbbns/gbbns.co) and hosted on [Netlify](https://www.netlify.com/)
