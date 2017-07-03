@@ -1,7 +1,7 @@
 +++
 topics = "personal"
 tags = ["personal"]
-draft = true
+draft = false
 title = "Colopohon"
 date = 2017-07-03T08:30:00+01:00
 description = ""
