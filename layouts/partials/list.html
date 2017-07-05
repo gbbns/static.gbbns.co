@@ -1,11 +1,13 @@
+{{ $paginator := .Paginate (where .Data.Pages "Type" "article") }}
 
 <section class="grid home">
   <article class="col content__main clearfix">
     <ul class="post__list">
-     {{ range (.Paginator 5).Pages }}
+     {{ range $paginator.Pages }}
         <li>
           <a class="post__link" href="{{ .RelPermalink }}">
             <h2 class="content__title--secondary post__header">{{ .Title }}</h2>
+            <p>{{ .Summary }}</p>
           </a>
         </li>
       {{ end }}

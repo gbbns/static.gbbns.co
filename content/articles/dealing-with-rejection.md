@@ -5,6 +5,7 @@ draft = false
 title = "Dealing with rejection"
 date = 2016-07-12T08:30:00+01:00
 description = ""
+type = "article"
 +++
 
 "A rejection is nothing more than a necessary step in the pursuit of success" - Bo Bennett.

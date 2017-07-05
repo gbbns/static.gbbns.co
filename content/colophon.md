@@ -5,6 +5,7 @@ draft = false
 title = "Colopohon"
 date = 2017-07-03T08:30:00+01:00
 description = ""
+type = "page"
 +++
 
 This site ~~is built using [Atom](http://atom.io), generated with [Jekyll](http://jekyllrb.com/) and hosted on [GitHub Pages](http://pages.github.com).~~ is built using [Visual Studio Code](https://code.visualstudio.com/), now generated with [Hugo](https://gohugo.io/), hosted on [GitHub](https://github.com/gbbns/gbbns.co) and published on [Netlify](https://www.netlify.com/), phew.

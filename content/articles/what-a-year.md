@@ -5,6 +5,7 @@ draft = false
 title = "What a year"
 date = 2016-02-04T08:30:00+01:00
 description = ""
+type = "article"
 +++
 
 It's now February 2016, almost a year to the day that Samuel was born, and things are only just beginning to slow down enough to actually gather my thoughts from the last 12 months.

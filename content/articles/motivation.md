@@ -5,6 +5,7 @@ draft = false
 title = "Motivation"
 date = 2016-02-19T08:30:00+01:00
 description = ""
+type = "article"
 +++
 
 When it's **not** there, life is tough, **everything** is a struggle, things you once enjoyed start to become a chore. Sound familiar to anyone?

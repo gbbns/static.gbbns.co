@@ -5,8 +5,8 @@ draft = false
 title = "Working redesign"
 date = 2016-01-28T07:00:00+01:00
 description = ""
+type = "article"
 +++
-
 I've never _truly_ been happy with my site, it's always been in a state of redesign, typical for a UI dev, eh?!
 
 After installing [Jekyll](http://jekyllrb.com/) early last year I finally felt that I had the beginnings of something I was beginning to like and _actually_ enjoy using.

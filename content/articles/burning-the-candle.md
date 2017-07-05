@@ -5,6 +5,7 @@ draft = false
 title = "Burning the candle"
 date = 2016-04-06T12:30:00+01:00
 description = ""
+type = "article"
 +++
 
 The great thing about [Marc's](https://twitter.com/marcjenkins)['30 day writing challenge'](https://marcjenkins.co.uk/the-30-day-writing-challenge/) is reading such a great cross section of varied content, as well as gaining _a lot_ of inspiration.

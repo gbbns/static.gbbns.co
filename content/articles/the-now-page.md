@@ -5,6 +5,7 @@ draft = false
 title = "The now page"
 date = 2016-04-01T11:00:00+01:00
 description = ""
+type = "article"
 +++
 
 I like the idea of a now page. It's got a point. It's not on the site to bullshit, it's there to tell people what you, or I, are doing _now_.
