@@ -1,11 +1,13 @@
----
-topics: ""
-tags: []
-draft: true
-title: "About"
-date: 2017-07-03T13:28:21+01:00
-description: "About me"
----
++++
+topics = ""
+tags = []
+draft = true
+title = "About"
+date = 2017-07-03T13:28:21+01:00
+description = "About me"
+type = "static"
+layout = "single"
++++
 # Who is Chris?
 
 Chris is an experienced digital developer specialising in front-end development, with a mild obsession for well written &amp; clean code.
@@ -16,4 +18,4 @@ He lives close to the seaside resort of [Blackpool](http://en.wikipedia.org/wiki
 
 A dabbler of HTML5, CSS3, JS; Tinkerer of mobile first &amp; RWD; Drinker of coffee; Maker of cakes; Not necessarily in that order.
 
-Specialties: Front-end development, UI/UX, Mobile, Responsive, HTML5, CSS3, Sass, JavaScript (jQuery), Grunt, Gulp, basic Node.js, SEO, Web Standards, Cross browser testing, A/B testing.
+Specialties = Front-end development, UI/UX, Mobile, Responsive, HTML5, CSS3, Sass, JavaScript (jQuery), Grunt, Gulp, basic Node.js, SEO, Web Standards, Cross browser testing, A/B testing.
