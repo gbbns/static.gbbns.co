@@ -15,6 +15,36 @@ buildFuture             = false
     tag                 = "tags"
     topic               = "topics"
 
+[[menu.main]]
+  name   = "Home"
+  url    = "/"
+  weight = 1
+
+[[menu.main]]
+  name   = "About"
+  url    = "/about/"
+  weight = 5
+
+[[menu.main]]
+  name   = "Now"
+  url    = "/now/"
+  weight = 5
+
+[[menu.main]]
+  name   = "Articles"
+  url    = "/articles/"
+  weight = 10
+
+[[menu.footer]]
+  name   = "Categories"
+  url    = "/categories/"
+  weight = 20
+
+[[menu.footer]]
+  name   = "Tags"
+  url    = "/tags/"
+  weight = 30
+
 # Site settings
 [params]
     title               = "UX Engineer"
