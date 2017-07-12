@@ -13,8 +13,6 @@ The great thing about [Marc's](https://twitter.com/marcjenkins)['30 day writing 
 
 One of the themes I've enjoyed the most so far has been around people's morning &amp; evening routines.
 
-<!--more-->
-
 Some people get up early and write, others check emails, whilst some use their &ldquo;spare time&rdquo; to exercise &mdash; the reason for the quotes is that this is very much dependent on peoples individual set of circumstances, I know in my life at present the very concept of spare time is but a dream and it irks me when people comment or question other peoples dedication to things without knowing the set of circumstances surrounding the person(s).
 
 Don't get me wrong, I'd love nothing more than to be able to set the alarm earlier and dedicate some time to write, or catchup on emails/events, or just to have a coffee in peace, but that's not going to happen, well at least not for the minute (or the next 10-15 years...)
