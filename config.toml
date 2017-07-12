@@ -9,7 +9,7 @@ buildDrafts             = false
 buildFuture             = false
 
 [permalinks]
-    articles            = "/articles/:year/:month/:day/:slug/"
+    articles            = "/writing/:year/:month/:day/:slug/"
 
 [taxonomies]
     tag                 = "tags"
@@ -31,8 +31,8 @@ buildFuture             = false
   weight = 5
 
 [[menu.main]]
-  name   = "Articles"
-  url    = "/articles/"
+  name   = "Writing"
+  url    = "/writing/"
   weight = 10
 
 [[menu.footer]]
