@@ -1,6 +1,6 @@
 +++
-categories = ""
-tags = []
+categories = "about"
+tags = ["about", "personal"]
 draft = false
 title = "About"
 date = 2017-07-03T13:28:21+01:00
