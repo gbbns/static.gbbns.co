@@ -1,5 +1,5 @@
 +++
-topics = ""
+categories = ""
 tags = []
 draft = false
 title = "About"

@@ -1,9 +1,9 @@
 +++
-topics = "now"
+categories = "now"
 tags = ["now"]
 draft = false
 title = "What I'm doing now"
-date = 2017-06-30T08:30:00+01:00
+date = 2017-07-12T08:30:00+01:00
 description = ""
 type = "static"
 layout = "single"

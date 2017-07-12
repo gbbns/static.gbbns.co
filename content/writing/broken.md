@@ -1,6 +1,6 @@
 +++
-topics = "personal"
-tags = ["work", "personal", "motivation"]
+categories = "personal"
+tags = ["personal", "motivation"]
 draft = false
 title = "Broken"
 date = 2016-08-25T08:30:00+01:00

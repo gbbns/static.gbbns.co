@@ -1,5 +1,5 @@
 +++
-topics = "personal"
+categories = "personal"
 tags = ["work", "personal"]
 draft = false
 title = "Working redesign"

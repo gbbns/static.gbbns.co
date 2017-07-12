@@ -1,6 +1,6 @@
 +++
-topics = "personal"
-tags = ["work", "personal", "motivation"]
+categories = "personal"
+tags = ["preview", "personal"]
 draft = false
 title = "A belated preview"
 date = 2016-03-06T08:30:00+01:00

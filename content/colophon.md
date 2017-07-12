@@ -1,5 +1,5 @@
 +++
-topics = "personal"
+categories = "personal"
 tags = ["personal"]
 draft = false
 title = "Colopohon"
@@ -8,6 +8,7 @@ description = ""
 type = "page"
 +++
 
+# Colophon
 This site ~~is built using [Atom](http://atom.io), generated with [Jekyll](http://jekyllrb.com/) and hosted on [GitHub Pages](http://pages.github.com).~~ is built using [Visual Studio Code](https://code.visualstudio.com/), now generated with [Hugo](https://gohugo.io/), hosted on [GitHub](https://github.com/gbbns/gbbns.co) and published on [Netlify](https://www.netlify.com/), phew.
 
 Currently all pages are stripped right back to the bare bones -- and if they aren't they will be soon -- to enable me to get to grips with Hugo.

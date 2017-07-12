@@ -1,5 +1,5 @@
 +++
-topics = "personal"
+categories = "personal"
 tags = ["work", "personal", "motivation"]
 draft = false
 title = "The 30 day writing challenge"

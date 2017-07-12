@@ -1,16 +1,19 @@
 +++
-topics = "personal"
+categories = "personal"
 tags = ["work", "personal", "motivation"]
 draft = false
 title = "Burning the candle"
 date = 2016-04-06T12:30:00+01:00
 description = ""
 type = "article"
+summary = "Burning the candle..."
 +++
 
 The great thing about [Marc's](https://twitter.com/marcjenkins)['30 day writing challenge'](https://marcjenkins.co.uk/the-30-day-writing-challenge/) is reading such a great cross section of varied content, as well as gaining _a lot_ of inspiration.
 
 One of the themes I've enjoyed the most so far has been around people's morning &amp; evening routines.
+
+<!--more-->
 
 Some people get up early and write, others check emails, whilst some use their &ldquo;spare time&rdquo; to exercise &mdash; the reason for the quotes is that this is very much dependent on peoples individual set of circumstances, I know in my life at present the very concept of spare time is but a dream and it irks me when people comment or question other peoples dedication to things without knowing the set of circumstances surrounding the person(s).
 

@@ -14,7 +14,7 @@ buildFuture             = false
 
 [taxonomies]
     tag                 = "tags"
-    topic               = "topics"
+    category            = "categories"
 
 [[menu.main]]
   name   = "About"
@@ -37,16 +37,22 @@ buildFuture             = false
   weight = 4
 
 
+[[menu.footer]]
+  name   = "Colophon"
+  url    = "/colophon/"
+  weight = 1
 
 [[menu.footer]]
   name   = "Categories"
   url    = "/categories/"
-  weight = 20
+  weight = 2
 
 [[menu.footer]]
   name   = "Tags"
   url    = "/tags/"
-  weight = 30
+  weight = 3
+
+
 
 # Site settings
 [params]

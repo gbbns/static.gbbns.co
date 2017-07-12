@@ -1,5 +1,5 @@
 +++
-topics = "coding"
+categories = "coding"
 tags = ["hugo", "jekyll"]
 draft = false
 title = "Moving To Hugo"

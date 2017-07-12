@@ -1,5 +1,5 @@
 +++
-topics = "personal"
+categories = "personal"
 tags = ["jekyll", "update", "hello"]
 draft = false
 title = "Welcome"

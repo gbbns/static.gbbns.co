@@ -1,5 +1,5 @@
 +++
-topics = "personal"
+categories = "personal"
 tags = ["work", "personal", "motivation", "mentalhealth"]
 draft = false
 title = "You"
