@@ -1,10 +1,12 @@
 {{ template "partials/header.html" . }}
-<section id="main">
+
+<section>
     <div>
-     <h1 id="title">{{ .Title }}</h1>
-      {{ range .Data.Pages }}
-          {{ .Render "summary"}}
-      {{ end }}
+        <h1>{{ .Title }}</h1>
+        {{ range .Data.Pages }}
+            {{ .Summary }}
+        {{ end }}
     </div>
-  </section>
+</section>
+
 {{ template "partials/footer.html" . }}

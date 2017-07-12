@@ -1,17 +1,16 @@
 {{ $paginator := .Paginate (where .Data.Pages "Type" "note") 5 }}
 
-<section class="grid home">
-  <article class="col content__main clearfix">
-    <ul class="post__list">
-     {{ range $paginator.Pages }}
-        <li>
-          <a class="post__link" href="{{ .RelPermalink }}">
-            <h2 class="content__title--secondary post__header">{{ .Title }}</h2>
-            <p>{{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day}}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }} {{ .Date.Format "January 2006" }}</p>
-          </a>
-        </li>
-      {{ end }}
-    </ul>
-  </article>
-
+<section>
+    <article>
+        <ul>
+            {{ range $paginator.Pages }}
+            <li>
+                <a href="{{ .RelPermalink }}">
+                    <h2>{{ .Title }}</h2>
+                    <p>{{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day}}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }} {{ .Date.Format "January 2006" }}</p>
+                </a>
+            </li>
+            {{ end }}
+        </ul>
+    </article>
 </section>
