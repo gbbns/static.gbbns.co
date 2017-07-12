@@ -10,30 +10,33 @@ buildFuture             = false
 
 [permalinks]
     articles            = "/writing/:year/:month/:day/:slug/"
+    notes               = "notes/:slug"
 
 [taxonomies]
     tag                 = "tags"
     topic               = "topics"
 
 [[menu.main]]
-  name   = "Home"
-  url    = "/"
-  weight = 1
-
-[[menu.main]]
   name   = "About"
   url    = "/about/"
-  weight = 5
+  weight = 1
 
 [[menu.main]]
   name   = "Now"
   url    = "/now/"
-  weight = 5
+  weight = 2
+
+[[menu.main]]
+  name   = "Notes"
+  url    = "/notes/"
+  weight = 3
 
 [[menu.main]]
   name   = "Writing"
   url    = "/writing/"
-  weight = 10
+  weight = 4
+
+
 
 [[menu.footer]]
   name   = "Categories"
