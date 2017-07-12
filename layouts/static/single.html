@@ -10,7 +10,7 @@
         <main>
             {{ .Content }}
 
-            {{ partial "last-update.html" }}
+            <p><em>This page was last updated on {{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day}}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }} {{ .Date.Format "January 2006" }}</em></p>
         </main>
 
     {{ partial "footer.html" . }}
