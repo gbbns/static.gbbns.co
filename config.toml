@@ -58,6 +58,7 @@ buildFuture             = false
 [params]
     title               = "UX Engineer"
     subTitle            = "Front end meets UX"
+    siteTitle           = "Front end developer based in Blackpool // Manchester"
     email               = "chris@gbbns.co"
     description         = "Chris Gibbons // Front End Web Developer from Lancashire, UK."
     author              = "Chris Gibbons"
