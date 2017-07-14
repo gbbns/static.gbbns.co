@@ -51,6 +51,7 @@
                             </a>
                         </h3>
                         <p>{{ if isset .Params "excerpt" }}{{ .Params.excerpt }}{{ else }}{{ .Summary }}{{ end }}</p>
+                        <p>{{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day}}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }} {{ .Date.Format "January 2006" }}</p>
                     {{ end }}
                 </article>
 
@@ -66,6 +67,7 @@
                                 <a href="{{ .Permalink }}">
                                     {{ .Title }}
                                 </a>
+                                <p>{{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day}}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }} {{ .Date.Format "January 2006" }}</p>
                             </li>
                         {{ end }}
                         </ul>
