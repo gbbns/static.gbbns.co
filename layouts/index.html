@@ -10,7 +10,73 @@
         <main>
             {{ .Content }}
 
-            {{ partial "list.html" . }}
+            <section>
+                <h2>Articles</h2>
+
+                <article>
+                    {{ range first 1 (where .Data.Pages "Type" "article") }}
+                    <h3 class="stripe-blog-headline">
+                        <a href="{{ .Permalink }}">
+                            {{ .Title }}
+                        </a>
+                    </h3>
+                    <p>{{ if isset .Params "excerpt" }}{{ .Params.excerpt }}{{ else }}{{ .Summary }}{{ end }}</p>
+                    <p>{{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day}}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }} {{ .Date.Format "January 2006" }}</p>
+                    {{ end }}
+                </article>
+
+                <article>
+                    <h3>Still fresh</h3>
+                    <ul>
+                        {{ range first 4 (after 1 (where .Data.Pages "Type" "article")) }}
+                        <li class="stripe-blog-recently-item">
+                            <a href="{{ .Permalink }}">
+                                {{ .Title }}
+                            </a>
+                            <p>{{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day}}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }} {{ .Date.Format "January 2006" }}</p>
+                        </li>
+                        {{ end }}
+                    </ul>
+                </article>
+
+            </section>
+
+            <section class="stripe stripe-blog">
+                <h3>Latest notes</h3>
+                <article class="stripe-blog-latest">
+                    {{ range first 1 (where .Data.Pages "Type" "note") }}
+                        <h3 class="stripe-blog-headline">
+                            <a href="{{ .Permalink }}">
+                                {{ .Title }}
+                            </a>
+                        </h3>
+                        <p>{{ if isset .Params "excerpt" }}{{ .Params.excerpt }}{{ else }}{{ .Summary }}{{ end }}</p>
+                    {{ end }}
+                </article>
+
+                {{ $notes := where .Data.Pages "Type" "note" }}
+
+
+                {{ if gt 1 (len $notes) }}
+                    <article class="stripe-blog-recently">
+                        <h3>Still fresh</h3>
+                        <ul class="stripe-blog-recently-list">
+                        {{ range first 4 (after 1 (where .Data.Pages "Type" "note")) }}
+                            <li class="stripe-blog-recently-item">
+                                <a href="{{ .Permalink }}">
+                                    {{ .Title }}
+                                </a>
+                            </li>
+                        {{ end }}
+                        </ul>
+                    </article>
+                    {{ else }}
+
+                    <article class="stripe-blog-recently">
+                        <p>That's your lot for now!</p>
+                    </article>
+                {{ end }}
+            </section>
         </main>
 
         {{ partial "footer.html" . }}
