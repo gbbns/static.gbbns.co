@@ -15,7 +15,7 @@
 
                 <article>
                     {{ range first 1 (where .Data.Pages "Type" "article") }}
-                    <h3 class="stripe-blog-headline">
+                    <h3>
                         <a href="{{ .Permalink }}">
                             {{ .Title }}
                         </a>
@@ -29,7 +29,7 @@
                     <h3>Still fresh</h3>
                     <ul>
                         {{ range first 4 (after 1 (where .Data.Pages "Type" "article")) }}
-                        <li class="stripe-blog-recently-item">
+                        <li>
                             <a href="{{ .Permalink }}">
                                 {{ .Title }}
                             </a>
@@ -41,11 +41,11 @@
 
             </section>
 
-            <section class="stripe stripe-blog">
+            <section>
                 <h3>Latest notes</h3>
-                <article class="stripe-blog-latest">
+                <article>
                     {{ range first 1 (where .Data.Pages "Type" "note") }}
-                        <h3 class="stripe-blog-headline">
+                        <h3>
                             <a href="{{ .Permalink }}">
                                 {{ .Title }}
                             </a>
@@ -59,11 +59,11 @@
 
 
                 {{ if gt 1 (len $notes) }}
-                    <article class="stripe-blog-recently">
+                    <article>
                         <h3>Still fresh</h3>
-                        <ul class="stripe-blog-recently-list">
+                        <ul>
                         {{ range first 4 (after 1 (where .Data.Pages "Type" "note")) }}
-                            <li class="stripe-blog-recently-item">
+                            <li>
                                 <a href="{{ .Permalink }}">
                                     {{ .Title }}
                                 </a>
@@ -74,7 +74,7 @@
                     </article>
                     {{ else }}
 
-                    <article class="stripe-blog-recently">
+                    <article>
                         <p>That's your lot for now!</p>
                     </article>
                 {{ end }}
