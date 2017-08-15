@@ -30,7 +30,9 @@ Until recently (the last 3 or so years) I've never really done things via the co
 ## Desk Setup
 I'm yet to find a desk I truly love -- either to buy or to build -- so in the meantime I have the [IKEA Malm desk with pull out panel](http://www.ikea.com/gb/en/products/desks/desk-computer-desks/malm-desk-with-pull-out-panel-oak-veneer-art-00214181/)
 
-I sit on [an IKEA Markus](http://www.ikea.com/gb/en/products/chairs-stools-benches/office-chairs/markus-swivel-chair-glose-black-art-20103101/) which I was lucky enough to get free in an office clearance.
+I sit on [an IKEA MARKUS](http://www.ikea.com/gb/en/products/chairs-stools-benches/office-chairs/markus-swivel-chair-glose-black-art-20103101/) which I was lucky enough to get free in an office clearance.
+
+The other chair in my office is the [iconic IKEA POÄNG](http://www.ikea.com/gb/en/products/sofas-armchairs/armchairs/po%C3%A4ng-armchair-birch-veneer-finnsta-grey-spr-59090452/) this is my 'go-to' for relaxing/reading/playing video games.
 
 ## Other gear
 
