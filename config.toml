@@ -43,14 +43,19 @@ buildFuture             = false
   weight = 1
 
 [[menu.footer]]
+  name   = "Uses"
+  url    = "/uses/"
+  weight = 2
+
+[[menu.footer]]
   name   = "Categories"
   url    = "/categories/"
-  weight = 2
+  weight = 3
 
 [[menu.footer]]
   name   = "Tags"
   url    = "/tags/"
-  weight = 3
+  weight = 4
 
 
 
