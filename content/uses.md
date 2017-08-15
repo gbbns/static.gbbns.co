@@ -30,16 +30,16 @@ Until recently (the last 3 or so years) I've never really done things via the co
 ## Desk Setup
 I'm yet to find a desk I truly love -- either to buy or to build -- so in the meantime I have the [IKEA Malm desk with pull out panel](http://www.ikea.com/gb/en/products/desks/desk-computer-desks/malm-desk-with-pull-out-panel-oak-veneer-art-00214181/)
 
-I sit on [an IKEA MARKUS](http://www.ikea.com/gb/en/products/chairs-stools-benches/office-chairs/markus-swivel-chair-glose-black-art-20103101/) which I was lucky enough to get free in an office clearance.
+I sit on an [IKEA MARKUS](http://www.ikea.com/gb/en/products/chairs-stools-benches/office-chairs/markus-swivel-chair-glose-black-art-20103101/) which I was lucky enough to get free in an office clearance.
 
-The other chair in my office is the [iconic IKEA POÄNG](http://www.ikea.com/gb/en/products/sofas-armchairs/armchairs/po%C3%A4ng-armchair-birch-veneer-finnsta-grey-spr-59090452/) this is my 'go-to' for relaxing/reading/playing video games.
+The other chair in my office is the iconic [IKEA POÄNG](http://www.ikea.com/gb/en/products/sofas-armchairs/armchairs/po%C3%A4ng-armchair-birch-veneer-finnsta-grey-spr-59090452/) this is my 'go-to' for relaxing/reading/playing video games.
 
 ## Other gear
 
 ### Stationary
-Currently rocking the [Nock Brasstown](http://nockco.com/cases/brasstown) pencil case. It's amazing. It wasn't cheap (as I had to get it imported, then had to pay import duty on it :() but it's totally worth it.
+Currently rocking the [Nock Brasstown](http://nockco.com/cases/brasstown) pencil case. It's amazing. It wasn't cheap -- as I had to get it imported, then had to pay import duty on it :( -- but it's totally worth it, and always gets noticed.
 
-I love to write in [Leuchtturm 1917](https://www.leuchtturm1917.co.uk/notebooks/) notepads. I used to use [Moleskines](http://www.moleskine.com/gb/), but the Leuchtturm has fainter lines on the paper, which I like.
+I love to write in the superb [Leuchtturm 1917](https://www.leuchtturm1917.co.uk/notebooks/) notepads. I used to use [Moleskines](http://www.moleskine.com/gb/), but the Leuchtturm has fainter lines on the paper, which I like.
 
 I write with either [Pilot G-tec C4](https://www.amazon.co.uk/Pilot-Microtip-Rollerball-Black-Pack/dp/B008LUQX9S) or the [Muji gel ink pens](https://www.muji.eu/pages/online.asp?Sec=13&Sub=52) though my ultimate goal is a [Mont Blanc](http://www.montblanc.com/en-gb/home.html)
 
