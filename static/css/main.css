@@ -543,22 +543,6 @@ template {
    Author's custom styles
    ========================================================================== */
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* ==========================================================================
    Helper classes
    ========================================================================== */
@@ -739,4 +723,13 @@ template {
     h3 {
         page-break-after: avoid;
     }
+}
+
+
+/* This is going to change and will be in Sass, soon */
+
+body {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 0 calc(3% - 2px);
 }
