@@ -13,7 +13,7 @@ Sometimes I get asked what 'what make is that', 'where did you get that from' or
 ## Editor + Terminal
 Currently using [VS Code](https://code.visualstudio.com/), yes I have tried [Sublime](https://www.sublimetext.com/3), [Atom](https://atom.io/) et al. but I keep finding myself heading back to VS Code. I love the speed of it, I love the extensions, but overall after 8+ years of using the [grown up Visual Studio](https://www.visualstudio.com/) it feels very familiar.
 
-Until recently (the last 3 or so years) I've never really done things via the command line, however I now use [iTerm 3](https://www.iterm2.com/version3.html) with [Oh My ZSH](http://ohmyz.sh/)
+Until recently (the last 3 or so years) I've never really done things via the command line, however I now use [iTerm2](https://www.iterm2.com/) with [Oh My ZSH](http://ohmyz.sh/)
 
 ## Desktop Apps
 
