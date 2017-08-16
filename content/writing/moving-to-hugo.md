@@ -8,11 +8,11 @@ description = "Sorry Jekyll, it's not you, it's me"
 type = "article"
 +++
 
-If I was to look at the [wayback when machine]() I could hand on heart say I've never had a personal website I've ever really been happy with.
+If I was to look at the [internet archive wayback machine](https://web.archive.org/web/*/http://www.chrisgibbons.co.uk) I could hand on heart say I've never had a personal website I've ever really been happy with.
 
 I'm not a designer, and I'm fine with that. Aside from that I've never really found a platform that I gel with. I had static html and I liked it, but with all developers I didn't like the manual process of FTP'ing to a server, along with maintaining links, URL's etc. So I did nothing.
 
-Enter the wonderful world of [static site generators](), this changed the way I thought about my personal online presence.
+Enter the wonderful world of [Static Site Generators](https://www.staticgen.com/), this changed the way I thought about my personal online presence.
 
 ### Jekyll
 I tried a couple of SSG but always found the barrier of entry much lower for Jekyll. I had a Mac, it had Ruby, so far so good. The docs are pretty comprehensive and there's a raft of templates ready to use.
@@ -22,7 +22,7 @@ There was no real need to move away from Jekyll, only my own desire to play with
 
 The one thing I can say is that the learning curve for Hugo is a lot steeper, but boy is it worth the investment.
 
-It's fast, and by fast I mean [crazy fast](link to Hugo speed?).
+It's super fast.
 
 ### Plans
 My aim is to document my journey onto Hugo, in the meantime [drop me a line](mailto:chris@gbbns.co) with any questions and I'll do my best to answer any questions.
