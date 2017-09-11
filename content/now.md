@@ -13,7 +13,7 @@ layout = "single"
 Life is a hectic affair; To help keep me sane and to give me some guidance, these are my current areas of focus:
 
 ## Photography
-Improving my photography [Instagram](https://www.instagram.com/gbbns.co/) with my [new(ish) toy](http://www.fujifilm.com/products/digital_cameras/x/fujifilm_x_t1/)
+Improving my photography [Instagram](https://www.instagram.com/_gbbns) with my [new(ish) toy](http://www.fujifilm.com/products/digital_cameras/x/fujifilm_x_t1/)
 
 ## Work
 * Devoting time out to meetup regularly with my mentor(s) for a coffee

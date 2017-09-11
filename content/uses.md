@@ -36,7 +36,7 @@ The other chair in my office is the iconic [IKEA POÄNG](http://www.ikea.com/gb/
 
 ## Other gear
 
-### Stationary
+### Stationery
 Currently rocking the [Nock Brasstown](http://nockco.com/cases/brasstown) pencil case. It's amazing. It wasn't cheap -- as I had to get it imported, then had to pay import duty on it :( -- but it's totally worth it, and always gets noticed.
 
 I love to write in the superb [Leuchtturm 1917](https://www.leuchtturm1917.co.uk/notebooks/) notepads. I used to use [Moleskines](http://www.moleskine.com/gb/), but the Leuchtturm has fainter lines on the paper, which I like.
