@@ -3,7 +3,7 @@ categories = "other"
 tags = ["uses", "other"]
 draft = false
 title = "Uses"
-date = 2017-08-14T13:50:02+01:00
+date = 2017-09-15T09:00:02+01:00
 description = "What tools I use on a day to day basis"
 type = "page"
 layout = "single"
@@ -35,6 +35,11 @@ I sit on an [IKEA MARKUS](http://www.ikea.com/gb/en/products/chairs-stools-bench
 The other chair in my office is the iconic [IKEA POÄNG](http://www.ikea.com/gb/en/products/sofas-armchairs/armchairs/po%C3%A4ng-armchair-birch-veneer-finnsta-grey-spr-59090452/) this is my 'go-to' for relaxing/reading/playing video games.
 
 ## Other gear
+
+### Tech
+Due to the fact that I have a 4hr commute (~2hrs each way) I like to keep a charge on me all the time, enter the [Anker PowerCore 20100](https://www.amazon.co.uk/Anker-PowerCore-20100-Capacity-Technology-Black/dp/B00VJSGT2A) it suits my requirements to the ground, gives me numerous charges for my various devices and weighs pretty much nothing.
+
+Keeping on the commute subject, I try to dip into reading when I can-or when I get motivated- so the obvious choice, aside from physical books, was to get an [Amazon Kindle Paperwhite](https://www.amazon.co.uk/Amazon-Kindle-Paperwhite-6-Inch-4GB-E-Reader/dp/B00QJDO0QC/ref=sr_1_1?s=electronics&ie=UTF8&qid=1505463193&sr=1-1&keywords=kindle+paperwhite)
 
 ### Stationery
 Currently rocking the [Nock Brasstown](http://nockco.com/cases/brasstown) pencil case. It's amazing. It wasn't cheap -- as I had to get it imported, then had to pay import duty on it :( -- but it's totally worth it, and always gets noticed.
