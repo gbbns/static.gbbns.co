@@ -28,5 +28,4 @@ Tweaking, improving, and growing my new online home.
 ## Hopes, dreams and ambitions
 Keeping my dream of going to Australia alive.
 
-
 Inspired by [Derik Sivers](https://sivers.org/nowff), via [Marc Jenkins](https://marcjenkins.co.uk/now/), [amongst others](https://nownownow.com).
