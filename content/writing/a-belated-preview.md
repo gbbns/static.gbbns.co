@@ -21,7 +21,7 @@ I&rsquo;ve a long list of skills I wish to develop:
 * JavaScript. Not jQuery, but pure unadulterated JavaScript.
 * FE workflow = Grunt//Gulp
 
-Trying to keep up to date with new tech, as well as ensure your key skills don&rsquo;t suffer, is such a difficult balance to strike. Everytime I load up [Twitter](http://twitter.com/jibubo) a new technology or technique seems to be mentioned &mdash; probably more than I could ever wish to learn in two lifetimes.
+Trying to keep up to date with new tech, as well as ensure your key skills don&rsquo;t suffer, is such a difficult balance to strike. Everytime I load up [Twitter](http://twitter.com/_gbbns) a new technology or technique seems to be mentioned &mdash; probably more than I could ever wish to learn in two lifetimes.
 
 It&rsquo;s only when I look at the list again that I realise there is a lot there; Maybe I&rsquo;ll trim it down, maybe I won&rsquo;t.
 
