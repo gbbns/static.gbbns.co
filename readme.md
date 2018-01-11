@@ -8,7 +8,7 @@
 * Twitter: [@_gbbns](https://twitter.com/_gbbns)
 * Email: [chris@gbbns.co](mailto:chris@gbbns.co)
 * Trello Life List [http://bit.ly/gbbns-life-list](http://bit.ly/gbbns-life-list)
-* Instagram: [gbbns.co](http://instagram.com/gbbns.co)
+* Instagram: [_gbbns](http://instagram.com/_gbbns)
 
 ***
 
