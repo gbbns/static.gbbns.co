@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on UX Engineer</title>
+    <link>https://www.gbbns.co/tags/hugo/</link>
+    <description>Recent content in Hugo on UX Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 15 Aug 2017 20:05:30 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.gbbns.co/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Moving To Hugo</title>
+      <link>https://www.gbbns.co/writing/moving-to-hugo/</link>
+      <pubDate>Tue, 15 Aug 2017 20:05:30 +0100</pubDate>
+      
+      <guid>https://www.gbbns.co/writing/moving-to-hugo/</guid>
+      <description>If I was to look at the internet archive wayback machine I could hand on heart say I&amp;rsquo;ve never had a personal website I&amp;rsquo;ve ever really been happy with.
+I&amp;rsquo;m not a designer, and I&amp;rsquo;m fine with that. Aside from that I&amp;rsquo;ve never really found a platform that I gel with. I had static html and I liked it, but with all developers I didn&amp;rsquo;t like the manual process of FTP&amp;rsquo;ing to a server, along with maintaining links, URL&amp;rsquo;s etc.</description>
+    </item>
+    
+  </channel>
+</rss>

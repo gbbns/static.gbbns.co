@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on UX Engineer</title>
+    <link>https://www.gbbns.co/categories/about/</link>
+    <description>Recent content in About on UX Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 03 Jul 2017 13:28:21 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.gbbns.co/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://www.gbbns.co/about/</link>
+      <pubDate>Mon, 03 Jul 2017 13:28:21 +0100</pubDate>
+      
+      <guid>https://www.gbbns.co/about/</guid>
+      <description>Who is Chris Gibbons? Chris Gibbons is an experienced digital developer specialising in front-end development, with a mild obsession for well written &amp;amp; clean code.
+After working with the amazing guys at Code Computerlove for 7.5 years, working his way up to Snr. Front End developer. Chris then spent the next 12 months working as a UI engineer at Zuto where he enjoyed the challenge of trying to build a bridge between front-end and UX.</description>
+    </item>
+    
+  </channel>
+</rss>
