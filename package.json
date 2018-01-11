@@ -1,0 +1,27 @@
+{
+  "name": "gbbns.co",
+  "version": "0.0.1",
+  "description": "Asset pipeline for gbbns.co",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbbns/gbbns.co.git"
+  },
+  "author": "Chris Gibbons",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gbbns/gbbns.co/issues"
+  },
+  "homepage": "https://github.com/gbbns/gbbns.co#readme",
+  "dependencies": {
+    "autoprefixer": "^7.2.4",
+    "lost": "^8.2.0",
+    "node-sass": "^4.7.2",
+    "postcss-cli": "^4.1.1",
+    "postcss-import": "^10.0.0",
+    "purify-css": "^1.2.6"
+  }
+}
