@@ -16,15 +16,18 @@ Life is a hectic affair; To help keep me sane and to give me some guidance, thes
 <a href="https://www.instagram.com/_gbbns" rel="noopener">Improving my photography</a>, [with my new(ish) toy](http://www.fujifilm.com/products/digital_cameras/x/fujifilm_x_t1/)
 
 ## Work
-* Starting an &ldquo;Inclusive Design Guild&rdquo; with an awesome colleague
+* Continuing to promote and improve both of the guilds I&lsqo;ve setup &ndash; the <abbr title"Inclusive Design Guild">IDG</abbr> &amp; the <abbr title"Front End">FE</abbr> guild
 * Devoting time out to meetup regularly with my mentor(s) for a coffee
 * Making a better effort to attend more local industry events &amp; meetups such as <a href="https://nuxuk.org/" rel="noopener">NUX</a>, <a href="https://www.meetup.com/McrUXD/" rel="noopener">UX&amp;D</a> as well as the great events being run within <a href="https://www.autotrader.co.uk/" rel="noopener">Auto Trader</a>
 
 ## Reading
-Trying (and failing) to take part in <a href="https://www.goodreads.com/user_challenges/4380722" rel="noopener">GoodRead's reading challenge</a>.
+Taking part in <a href="https://www.goodreads.com/user_challenges/10861757" rel="noopener">GoodRead's reading challenge</a>.
 
 ## This site
-Tweaking, improving, and growing my new online home.
+Tweaking, improving, and growing my online home.
+
+## Other
+Build both my photography, and my bucket list sites.
 
 ## Hopes, dreams and ambitions
 Keeping my dream of going to Australia alive.
