@@ -8,11 +8,18 @@ description = ""
 type = ""
 +++
 
-I think it's been happening for a while, the slow realisation that age is creeping up on me.
+I think it's been happening for a while, the slow realisation that age is _actually_ creeping up on me.
 
-Everytime I go for a haircut it appears there are more grey's than previous.
+Every time I go for a haircut I notice more grey hairs than the month before.
+
+I feel the aches in my back a little more than a used to.
+
+My knees make more noises than they did last year.
+
+I could go on, but I'm sure you get the idea by now.
 
 Then, suddenly I found myself googling ["when does a mid-life crisis start"](http://...)
+
 [Content to flesh out why I feel 'old']
 
 [What has this lead me to]
@@ -26,7 +33,7 @@ At a guess, I'd say that everyone has some kind of list in their heads -- whethe
 
 I'm no different, for instance those close to me know that it's a life long ambition to live & work in Australia, I'd also love to go travelling [define travelling in context of this and my age.]
 
-## 40befo.re
+## 40before
 [Public site]
 
 [list of current '40']
