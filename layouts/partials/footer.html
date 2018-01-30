@@ -19,15 +19,15 @@
         </li>
     </ul>
 
-    <nav role="navigation">
-            <ul>
-                {{ range .Site.Menus.footer }}
-                <li>
-                    <a href="{{ .URL }}">{{ .Name }}</a>
-                </li>
-                {{ end }}
-            </ul>
-        </nav>
+    <nav>
+        <ul>
+            {{ range .Site.Menus.footer }}
+            <li>
+                <a href="{{ .URL }}">{{ .Name }}</a>
+            </li>
+            {{ end }}
+        </ul>
+    </nav>
 
     <p>&copy; {{ .Date.Format "2006" }} {{ .Site.Params.Author }} - All rights reserved.</p>
 </footer>
