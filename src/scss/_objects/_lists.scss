@@ -6,6 +6,7 @@
 
     &__item {
             display: inline-block;
+            list-style: none;
 
             & + & {
                 margin-left: 16px;
@@ -17,8 +18,9 @@
 .v-list {
 
     &__item {
-        margin-bottom: 16px / 2;
+        margin-bottom: calc(16px / 2);
         margin-top: 0;
+        list-style: none;
 
         &:last-of-type {
             margin-bottom: 0;

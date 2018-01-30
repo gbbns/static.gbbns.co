@@ -27,9 +27,9 @@
 
                 <article>
                     <h3>Still fresh</h3>
-                    <ul>
+                    <ul class="v-list">
                         {{ range first 4 (after 1 (where .Data.Pages "Type" "article")) }}
-                        <li>
+                        <li class="v-list__item">
                             <a href="{{ .Permalink }}">
                                 {{ .Title }}
                             </a>
@@ -61,9 +61,9 @@
                 {{ if gt 1 (len $notes) }}
                     <article>
                         <h3>Still fresh</h3>
-                        <ul>
+                        <ul class="v-list">
                         {{ range first 4 (after 1 (where .Data.Pages "Type" "note")) }}
-                            <li>
+                            <li class="v-list__item">
                                 <a href="{{ .Permalink }}">
                                     {{ .Title }}
                                 </a>
