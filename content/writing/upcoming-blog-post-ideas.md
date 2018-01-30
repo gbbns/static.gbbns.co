@@ -1,7 +1,7 @@
 +++
 categories = "blog"
 tags = ["blog", "future", "plans"]
-draft = true
+draft = false
 title = "Upcoming Blog Post Ideas"
 date = 2018-01-16T08:08:01Z
 description = ""
