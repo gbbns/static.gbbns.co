@@ -1,7 +1,7 @@
 <nav>
-    <ul>
+    <ul class="h-list">
         {{ range .Site.Menus.main }}
-        <li>
+        <li class="h-list__item">
             <a href="{{ .URL }}">{{ .Name }}</a>
         </li>
         {{ end }}

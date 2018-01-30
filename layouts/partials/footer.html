@@ -1,28 +1,28 @@
 <footer>
     <p><a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a></p>
 
-    <ul>
-        <li>
+    <ul class="h-list">
+        <li class="h-list__item">
             <a href="https://github.com/{{ .Site.Params.github }}">GitHub</a>
         </li>
-        <li>
+        <li class="h-list__item">
             <a href="https://www.instagram.com/{{ .Site.Params.insta }}">Instagram</a>
         </li>
-        <li>
+        <li class="h-list__item">
             <a href="https://twitter.com/{{ .Site.Params.twitter }}">Twitter</a>
         </li>
-        <li>
+        <li class="h-list__item">
             <a href="http://uk.linkedin.com/in/{{ .Site.Params.linkedin }}">LinkedIn</a>
         </li>
-        <li>
+        <li class="h-list__item">
             <a href="http://500px.com/{{ .Site.Params.fiveHundredPx }}">500px</a>
         </li>
     </ul>
 
     <nav>
-        <ul>
+        <ul class="h-list">
             {{ range .Site.Menus.footer }}
-            <li>
+            <li class="h-list__item">
                 <a href="{{ .URL }}">{{ .Name }}</a>
             </li>
             {{ end }}
