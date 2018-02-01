@@ -7,7 +7,7 @@
 
         {{ partial "header.html" . }}
 
-        <main>
+        <main role="main">
             <h1>{{ .Title }}</h1>
             {{ .Content }}
             <p><em>This page was last updated on {{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day}}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }} {{ .Date.Format "January 2006" }}</em></p>
