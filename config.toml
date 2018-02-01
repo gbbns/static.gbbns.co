@@ -66,7 +66,7 @@ buildFuture             = false
 
 # Site settings
 [params]
-    title               = "UX Engineer"
+    title               = "UX Technologist"
     subTitle            = "Front end meets UX"
     siteTitle           = "Front end developer based in Blackpool // Manchester"
     email               = "chris@gbbns.co"
