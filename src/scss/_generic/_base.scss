@@ -11,4 +11,8 @@ body {
 ul {
     margin: 0;
     padding: 0;
+
+    ul, ol {
+        margin-left: 32px;
+    }
 }
