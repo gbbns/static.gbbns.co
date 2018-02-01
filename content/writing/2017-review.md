@@ -11,9 +11,9 @@ Christmas is officially over; The decorations are now down and all safely tucked
 
 I'm a little late with this review and no doubt by now many people have written down long lists of unachievable things they want to stop, or start, doing this year. As for me I stopped doing resolutions a few years back mainly as I just didn't stick to them - they're usually out of the window before January has finished, instead I like to set goals for the year, mainly as I feel they're not only more achieveable but also easier to manage and work towards over the course of 12 months.
 
-[WHY?]
+## Why?
 
-[2017 goals]
+### 2017 goals
 At the start of 2017 I purposefully left my goals a little light, in part due to starting a new role at Auto Trader in late 2016, with my main professional one to do some form of "speaking" either internally at Auto Trader, or at a local meetup.
 
 * Where does this stem from?
@@ -22,12 +22,13 @@ At the start of 2017 I purposefully left my goals a little light, in part due to
 [Actual 2017]
 When I started to reflect on what actually went on during 2017 it left me in little wonder as to why I was pretty exhausted!
 
-## Professional achievments
+## Achievments
+### Professional
 * 1 year anniversary at Auto Trader
 * Started to get Accessibility talked about
     * Ran workshops
-        * This checks off a personal goal of wanting to do some kind of public speaking.
-        * Submitted proposal for external talk
+    * This checks off a personal goal of wanting to do some kind of public speaking.
+    * Submitted proposal for external talk
         * Hopefully going to get more involved with speaking
     * Started a guild, in fact, started two!
         * FE guild
@@ -58,7 +59,7 @@ When I started to reflect on what actually went on during 2017 it left me in lit
     * Front-enders
     * Hoping to get to attend the accessibility meet ups in London and tie in with working down there
 
-## Personal
+### Personal
 * Moved house
 * Still no closer to visiting Australia 😔 but working towards this as my long term ("5yr") goal
 * No holiday
