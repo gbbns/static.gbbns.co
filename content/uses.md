@@ -3,7 +3,7 @@ categories = "other"
 tags = ["uses", "other"]
 draft = false
 title = "Uses"
-date = 2017-09-15T09:00:02+01:00
+date = 2018-02-01T09:00:02+01:00
 description = "What tools I use on a day to day basis"
 type = "page"
 layout = "single"
@@ -37,6 +37,18 @@ The other chair in my office is the iconic [IKEA POÄNG](http://www.ikea.com/gb/
 ## Other gear
 
 ### Tech
+I've finally got back into the world of console gaming and now have a [Sony PlayStation 4 Pro 1 TB, White](https://www.amazon.co.uk/dp/B0776Y3WBV?tag=amz-mkt-chr-uk-21&ascsubtag=1ba00-01000-a0049-mac00-other-nomod-uk000-pcomp-feature-scomp&ref=bit_scomp_sav0).
+Given the fact I've not been in the gaming arena for quite a few years I have quite an exhaustive back catalogue of games to get through.
+
+My current list is:
+
+* [Uncharted: The Nathan Drake Collection](https://www.amazon.co.uk/Uncharted-Nathan-Drake-Collection-PS4/dp/B00KJFDSJQ)
+* [Gran Turismo: Sport](https://www.amazon.co.uk/PlayStation-9827450-Gran-Turismo-Sport/dp/B00ZG1SVA4)
+* [Ratchet and Clank](https://www.amazon.co.uk/PlayStation-3392406-Ratchet-and-Clank/dp/B00ZG1TE1Y)
+* [Horizon: Zero Dawn Standard Edition](https://www.amazon.co.uk/Horizon-Zero-Dawn-Standard-Edition/dp/B00ZG1S88E/)
+* [The Last of Us Remastered](https://www.amazon.co.uk/Last-Us-Remastered-PS4/dp/B00JK00S0S/)
+* [Tomb Raider Definitive Edition](https://www.amazon.co.uk/Tomb-Raider-Definitive-Edition-PS4/dp/B00H8IVL6O/)
+
 Due to the fact that I have a 4hr commute (~2hrs each way) I like to keep a charge on me all the time, enter the [Anker PowerCore 20100](https://www.amazon.co.uk/Anker-PowerCore-20100-Capacity-Technology-Black/dp/B00VJSGT2A) it suits my requirements to the ground, gives me numerous charges for my various devices and weighs pretty much nothing.
 
 Keeping on the commute subject, I try to dip into reading when I can-or when I get motivated- so the obvious choice, aside from physical books, was to get an [Amazon Kindle Paperwhite](https://www.amazon.co.uk/Amazon-Kindle-Paperwhite-6-Inch-4GB-E-Reader/dp/B00QJDO0QC/ref=sr_1_1?s=electronics&ie=UTF8&qid=1505463193&sr=1-1&keywords=kindle+paperwhite)
