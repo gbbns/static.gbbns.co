@@ -11,41 +11,37 @@ Christmas is officially over; The decorations are now down and all safely tucked
 
 I'm a little late with this review and no doubt by now many people have written down long lists of unachievable things they want to stop, or start, doing this year. As for me I stopped doing resolutions a few years back mainly as I just didn't stick to them - they're usually out of the window before January has finished, instead I like to set goals for the year, mainly as I feel they're not only more achieveable but also easier to manage and work towards over the course of 12 months.
 
-## Why?
-
-### 2017 goals
+## 2017 goals
 At the start of 2017 I purposefully left my goals a little light, in part due to starting a new role at Auto Trader in late 2016, with my main professional one to do some form of "speaking" either internally at Auto Trader, or at a local meetup.
 
 * Where does this stem from?
 * Why do I want to do it?
 
-[Actual 2017]
+## Actual 2017 achievments
 When I started to reflect on what actually went on during 2017 it left me in little wonder as to why I was pretty exhausted!
 
-## Achievments
 ### Professional
 * 1 year anniversary at Auto Trader
-* Started to get Accessibility talked about
-    * Ran workshops
+* Started to get Accessibility talked about, a lot
+* Ran workshops
     * This checks off a personal goal of wanting to do some kind of public speaking.
-    * Submitted proposal for external talk
-        * Hopefully going to get more involved with speaking
-    * Started a guild, in fact, started two!
-        * FE guild
-            * To promote FE/UX conversations across the business (Retail & Consumer)
-        * Inclusive design guild
-            * Natural evolution from the accessibility workshops
-            * Promoting talk across all areas of the business
-            * Not just digitally
-    * Route to principal
-        * Still seem to be no closer
-            * Seeking clarity in context to FE developer
-            * Expectations vs. what I've been doing etc.
+* Submitted proposal for external talk
+    * Hopefully going to get more involved with speaking
+* Started a guild, in fact, started two!
+    * FE guild
+        * To promote FE/UX conversations across the business (Retail & Consumer)
+    * Inclusive design guild
+        * Natural evolution from the accessibility workshops
+        * Promoting talk across all areas of the business
+        * Not just digitally
+* Route to principal
+    * Still seem to be no closer
+        * Seeking clarity in context to FE developer
+        * Expectations vs. what I've been doing etc.
         * Just got to keep on going
-            * Like Jason said, "Rome wasn't built in a day..."
 * Conferences attended
     * euroIA - Highlight of the year!
-	* Why was it the highlight?
+	* [Why was it the highlight?]
         * Need to do a brown bag session on the discovery phase!
         * Need to write a blog post?
     * NUX6 - Volunteered 😃
@@ -69,7 +65,7 @@ When I started to reflect on what actually went on during 2017 it left me in lit
 * Photography
     * New camera
         * Canon 40D to Fuji X-T1
-    * Workshop with Mark
+    * Workshop with [Mark Gilligan](https://www.wastwaterphotography.co.uk)
         * Awesome day!
     * Plans for photography site
         * Itakepictur.es
