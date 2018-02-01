@@ -4,12 +4,8 @@ html {
 
 body {
     font-size: 16px;
-}
-
-body {
-    max-width: 1300px;
+    width: calc(100vw - 10vw);
     margin: 0 auto;
-    padding: 0 calc(3% - 2px);
 }
 
 ul {
@@ -23,4 +19,16 @@ ul {
 
 h1, h2, h3, h4, h5 {
     font-weight: 900;
+}
+
+a {
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: underline;
+    }
+
+    &:focus {
+        outline: 1px solid;
+    }
 }
