@@ -11,6 +11,8 @@ layout = "single"
 # Speaking
 
 ## Upcoming talks
-No currently scheduled talks. Please send me an email if you’d like me to speak at your event.
 
-## Previous talks (slides/transcripts)
+* <a href="https://www.wearesigma.com/campdigital/2018/chris-gibbons/" rel="noopener">Camp Digital May 2018 - Manchester: TBC</a>
+
+<a href="mailto:chris@gbbns.co" rel="noopener">Please send me an email if you’d like me to speak at your event.</a>
+
