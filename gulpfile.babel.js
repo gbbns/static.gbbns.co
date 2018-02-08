@@ -77,11 +77,11 @@ gulp.task('sass', () => {
     .pipe($.autoprefixer(['ie >= 10', 'last 2 versions']))
     // .pipe(hash())
     // .pipe(gulp.dest("static/css"))
-    .pipe($.stylelint({
-        reporters: [
-          {formatter: 'string', console: true, save: 'gbbns-co-errors.txt'}
-        ]
-      }))
+    // .pipe($.stylelint({
+    //     reporters: [
+    //       {formatter: 'string', console: true, save: 'gbbns-co-errors.txt'}
+    //     ]
+    //   }))
     // .pipe(hash.manifest("hash.json"))
     // .pipe(gulp.dest("data/styles"))
     // .pipe($.size({ gzip: true, showFiles: true }))
