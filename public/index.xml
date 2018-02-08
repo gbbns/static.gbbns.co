@@ -1,20 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on UX Engineer</title>
+    <title>Home on gbbns.co</title>
     <link>https://www.gbbns.co/</link>
-    <description>Recent content in Home on UX Engineer</description>
+    <description>Recent content in Home on gbbns.co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 Sep 2017 09:00:02 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2018 08:30:00 +0100</lastBuildDate>
     
 	<atom:link href="https://www.gbbns.co/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>What I&#39;m doing now</title>
+      <link>https://www.gbbns.co/now/</link>
+      <pubDate>Tue, 06 Feb 2018 08:30:00 +0100</pubDate>
+      
+      <guid>https://www.gbbns.co/now/</guid>
+      <description>What I’m doing now Life is a hectic affair; To help keep me sane and to give me some guidance, these are my current areas of focus:
+Photography Improving my photography, with my new(ish) toy
+Work  Continuing to promote and improve both of the guilds I&amp;lsqo;ve setup &amp;ndash; the IDG &amp;amp; the FE guild Devoting time out to meetup regularly with my mentor(s) for a coffee Making a better effort to attend more local industry events &amp;amp; meetups such as NUX, UX&amp;amp;D as well as the great events being run within Auto Trader  Reading Taking part in GoodRead&amp;rsquo;s reading challenge.</description>
+    </item>
+    
+    <item>
       <title>Uses</title>
       <link>https://www.gbbns.co/uses/</link>
-      <pubDate>Fri, 15 Sep 2017 09:00:02 +0100</pubDate>
+      <pubDate>Thu, 01 Feb 2018 09:00:02 +0100</pubDate>
       
       <guid>https://www.gbbns.co/uses/</guid>
       <description>Sometimes I get asked what &amp;lsquo;what make is that&amp;rsquo;, &amp;lsquo;where did you get that from&amp;rsquo; or just what tools etc. I use day to day, and after reading the page of at Wes Bos&amp;rsquo; site I thought I&amp;rsquo;d shamelessly copy the format :)
@@ -22,14 +33,34 @@ Editor + Terminal Currently using VS Code, yes I have tried Sublime, Atom et al.
     </item>
     
     <item>
-      <title>What I&#39;m doing now</title>
-      <link>https://www.gbbns.co/now/</link>
-      <pubDate>Fri, 15 Sep 2017 08:30:00 +0100</pubDate>
+      <title>Upcoming Blog Post Ideas</title>
+      <link>https://www.gbbns.co/writing/upcoming-blog-post-ideas/</link>
+      <pubDate>Tue, 16 Jan 2018 08:08:01 +0000</pubDate>
       
-      <guid>https://www.gbbns.co/now/</guid>
-      <description>What I’m doing now Life is a hectic affair; To help keep me sane and to give me some guidance, these are my current areas of focus:
-Photography Improving my photography, with my new(ish) toy
-Work  Starting an &amp;ldquo;Inclusive Design Guild&amp;rdquo; with an awesome colleague Devoting time out to meetup regularly with my mentor(s) for a coffee Making a better effort to attend more local industry events &amp;amp; meetups such as NUX, UX&amp;amp;D as well as the great events being run within Auto Trader  Reading Trying (and failing) to take part in GoodRead&amp;rsquo;s reading challenge.</description>
+      <guid>https://www.gbbns.co/writing/upcoming-blog-post-ideas/</guid>
+      <description> My hope is that this page will serve as an ongoing scratchpad for future blog posts ideas.
+Initial topics include:  End of year &amp;ndash; 2017 &amp;ndash; review Goals and plans for 2018 Accessibility at Auto Trader Breaking into public speaking Digital detox - My &amp;ldquo;dry&amp;rdquo; january Benefits of having a mentor, or being a mentor  Shorter posts/notes:  Starting a guild and keeping the momentum Levelling up - skills you pickup as you climb the ladder Retros  </description>
+    </item>
+    
+    <item>
+      <title>2017 Review</title>
+      <link>https://www.gbbns.co/writing/2017-review/</link>
+      <pubDate>Thu, 11 Jan 2018 09:42:32 +0000</pubDate>
+      
+      <guid>https://www.gbbns.co/writing/2017-review/</guid>
+      <description>Christmas is officially over; The decorations are now down and all safely tucked away in the attic until the mega marketing machine rolls around next time.
+I&amp;rsquo;m a little late with this review and no doubt by now many people have written down long lists of unachievable things they want to stop, or start, doing this year. As for me I stopped doing resolutions a few years back mainly as I just didn&amp;rsquo;t stick to them - they&amp;rsquo;re usually out of the window before January has finished, instead I like to set goals for the year, mainly as I feel they&amp;rsquo;re not only more achieveable but also easier to manage and work towards over the course of 12 months.</description>
+    </item>
+    
+    <item>
+      <title>2018 Preview</title>
+      <link>https://www.gbbns.co/writing/2018-preview/</link>
+      <pubDate>Thu, 11 Jan 2018 09:42:32 +0000</pubDate>
+      
+      <guid>https://www.gbbns.co/writing/2018-preview/</guid>
+      <description>My initial thought, on the face of it, is that 2018 promises a lot.
+I&amp;rsquo;m working hard on getting that &amp;lsquo;principal&amp;rsquo; moniker in my title; It&amp;rsquo;s something to strive for, even though I&amp;rsquo;m not looking for something to hang my hat off. Coupled with that is looking at running some form of external workshop - accessibility related - and hopefully speaking at a conference and/or meet up(s)
+Goals for 2018  Principal FE promotion Take at least one holiday, either in the UK or abroad Write more: Aim to publish at least 6 main blog posts in the year, as well as 12 shorter posts in the &amp;lsquo;latest notes&amp;rsquo; section Speak at at least one of the following: a local (Manchester) meetup, speak at a (UK) meetup, or speak at a conference Keep my website up to date Start my bucket list website  And with that thank you, 2017, you&amp;rsquo;ve been a blast, here&amp;rsquo;s to 2018.</description>
     </item>
     
     <item>
@@ -43,22 +74,25 @@ I&amp;rsquo;m not a designer, and I&amp;rsquo;m fine with that. Aside from that 
     </item>
     
     <item>
+      <title>40 Before. Or I think my mid-life crisis has started</title>
+      <link>https://www.gbbns.co/writing/40-before/</link>
+      <pubDate>Tue, 15 Aug 2017 08:11:35 +0100</pubDate>
+      
+      <guid>https://www.gbbns.co/writing/40-before/</guid>
+      <description>I think it&amp;rsquo;s been happening for a while, the slow realisation that age is actually creeping up on me.
+Every time I go for a haircut I notice more grey hairs than the month before.
+I feel the aches in my back a little more than a used to.
+My knees make more noises than they did last year.
+I could go on, but I&amp;rsquo;m sure you get the idea by now.</description>
+    </item>
+    
+    <item>
       <title>Today I Learnt</title>
       <link>https://www.gbbns.co/notes/today-i-learnt/</link>
       <pubDate>Wed, 02 Aug 2017 18:22:41 +0100</pubDate>
       
       <guid>https://www.gbbns.co/notes/today-i-learnt/</guid>
       <description>As hard and fast as modern life is, I think that it&amp;rsquo;s important to take time out of your schedule and make sure that you keep regular contact with friends. I like to think that I&amp;rsquo;m better than most at this. I do overthink the reasons why people don&amp;rsquo;t reciprocate this, but hey. People.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://www.gbbns.co/about/</link>
-      <pubDate>Mon, 03 Jul 2017 13:28:21 +0100</pubDate>
-      
-      <guid>https://www.gbbns.co/about/</guid>
-      <description>Who is Chris Gibbons? Chris Gibbons is an experienced digital developer specialising in front-end development, with a mild obsession for well written &amp;amp; clean code.
-After working with the amazing guys at Code Computerlove for 7.5 years, working his way up to Snr. Front End developer. Chris then spent the next 12 months working as a UI engineer at Zuto where he enjoyed the challenge of trying to build a bridge between front-end and UX.</description>
     </item>
     
     <item>

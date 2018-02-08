@@ -1,24 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Personal on UX Engineer</title>
+    <title>Personal on gbbns.co</title>
     <link>https://www.gbbns.co/tags/personal/</link>
-    <description>Recent content in Personal on UX Engineer</description>
+    <description>Recent content in Personal on gbbns.co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Jul 2017 13:28:21 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2018 08:30:21 +0100</lastBuildDate>
     
 	<atom:link href="https://www.gbbns.co/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About</title>
+      <title>About Chris Gibbons</title>
       <link>https://www.gbbns.co/about/</link>
-      <pubDate>Mon, 03 Jul 2017 13:28:21 +0100</pubDate>
+      <pubDate>Tue, 16 Jan 2018 08:30:21 +0100</pubDate>
       
       <guid>https://www.gbbns.co/about/</guid>
       <description>Who is Chris Gibbons? Chris Gibbons is an experienced digital developer specialising in front-end development, with a mild obsession for well written &amp;amp; clean code.
 After working with the amazing guys at Code Computerlove for 7.5 years, working his way up to Snr. Front End developer. Chris then spent the next 12 months working as a UI engineer at Zuto where he enjoyed the challenge of trying to build a bridge between front-end and UX.</description>
+    </item>
+    
+    <item>
+      <title>Speaking events</title>
+      <link>https://www.gbbns.co/speaking/</link>
+      <pubDate>Tue, 16 Jan 2018 08:30:21 +0100</pubDate>
+      
+      <guid>https://www.gbbns.co/speaking/</guid>
+      <description>Speaking Upcoming talks  Camp Digital May 2018 - Manchester: TBC  Please send me an email if you’d like me to speak at your event.</description>
+    </item>
+    
+    <item>
+      <title>2017 Review</title>
+      <link>https://www.gbbns.co/writing/2017-review/</link>
+      <pubDate>Thu, 11 Jan 2018 09:42:32 +0000</pubDate>
+      
+      <guid>https://www.gbbns.co/writing/2017-review/</guid>
+      <description>Christmas is officially over; The decorations are now down and all safely tucked away in the attic until the mega marketing machine rolls around next time.
+I&amp;rsquo;m a little late with this review and no doubt by now many people have written down long lists of unachievable things they want to stop, or start, doing this year. As for me I stopped doing resolutions a few years back mainly as I just didn&amp;rsquo;t stick to them - they&amp;rsquo;re usually out of the window before January has finished, instead I like to set goals for the year, mainly as I feel they&amp;rsquo;re not only more achieveable but also easier to manage and work towards over the course of 12 months.</description>
+    </item>
+    
+    <item>
+      <title>2018 Preview</title>
+      <link>https://www.gbbns.co/writing/2018-preview/</link>
+      <pubDate>Thu, 11 Jan 2018 09:42:32 +0000</pubDate>
+      
+      <guid>https://www.gbbns.co/writing/2018-preview/</guid>
+      <description>My initial thought, on the face of it, is that 2018 promises a lot.
+I&amp;rsquo;m working hard on getting that &amp;lsquo;principal&amp;rsquo; moniker in my title; It&amp;rsquo;s something to strive for, even though I&amp;rsquo;m not looking for something to hang my hat off. Coupled with that is looking at running some form of external workshop - accessibility related - and hopefully speaking at a conference and/or meet up(s)
+Goals for 2018  Principal FE promotion Take at least one holiday, either in the UK or abroad Write more: Aim to publish at least 6 main blog posts in the year, as well as 12 shorter posts in the &amp;lsquo;latest notes&amp;rsquo; section Speak at at least one of the following: a local (Manchester) meetup, speak at a (UK) meetup, or speak at a conference Keep my website up to date Start my bucket list website  And with that thank you, 2017, you&amp;rsquo;ve been a blast, here&amp;rsquo;s to 2018.</description>
     </item>
     
     <item>

@@ -3,13 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.gbbns.co/uses/</loc>
-    <lastmod>2017-09-15T09:00:02+01:00</lastmod>
+    <loc>https://www.gbbns.co/now/</loc>
+    <lastmod>2018-02-06T08:30:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gbbns.co/now/</loc>
-    <lastmod>2017-09-15T08:30:00+01:00</lastmod>
+    <loc>https://www.gbbns.co/uses/</loc>
+    <lastmod>2018-02-01T09:00:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gbbns.co/writing/upcoming-blog-post-ideas/</loc>
+    <lastmod>2018-01-16T08:08:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gbbns.co/about/</loc>
+    <lastmod>2018-01-16T08:30:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gbbns.co/speaking/</loc>
+    <lastmod>2018-01-16T08:30:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gbbns.co/writing/2017-review/</loc>
+    <lastmod>2018-01-11T09:42:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gbbns.co/writing/2018-preview/</loc>
+    <lastmod>2018-01-11T09:42:32+00:00</lastmod>
   </url>
   
   <url>
@@ -18,13 +43,13 @@
   </url>
   
   <url>
-    <loc>https://www.gbbns.co/notes/today-i-learnt/</loc>
-    <lastmod>2017-08-02T18:22:41+01:00</lastmod>
+    <loc>https://www.gbbns.co/writing/40-before/</loc>
+    <lastmod>2017-08-15T08:11:35+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gbbns.co/about/</loc>
-    <lastmod>2017-07-03T13:28:21+01:00</lastmod>
+    <loc>https://www.gbbns.co/notes/today-i-learnt/</loc>
+    <lastmod>2017-08-02T18:22:41+01:00</lastmod>
   </url>
   
   <url>
@@ -93,26 +118,44 @@
   </url>
   
   <url>
-    <loc>https://www.gbbns.co/tags/about/</loc>
-    <lastmod>2017-07-03T13:28:21+01:00</lastmod>
+    <loc>https://www.gbbns.co/categories/about/</loc>
+    <lastmod>2018-01-16T08:30:21+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gbbns.co/categories/about/</loc>
-    <lastmod>2017-07-03T13:28:21+01:00</lastmod>
+    <loc>https://www.gbbns.co/tags/about/</loc>
+    <lastmod>2018-01-16T08:30:21+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gbbns.co/categories/blog/</loc>
+    <lastmod>2018-01-16T08:08:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gbbns.co/tags/blog/</loc>
+    <lastmod>2018-01-16T08:08:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gbbns.co/categories/</loc>
-    <lastmod>2017-07-03T13:28:21+01:00</lastmod>
+    <lastmod>2018-01-16T08:30:21+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gbbns.co/categories/coding/</loc>
     <lastmod>2017-08-15T20:05:30+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gbbns.co/tags/future/</loc>
+    <lastmod>2018-01-16T08:08:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -124,7 +167,7 @@
   
   <url>
     <loc>https://www.gbbns.co/</loc>
-    <lastmod>2017-09-15T09:00:02+01:00</lastmod>
+    <lastmod>2018-02-06T08:30:00+01:00</lastmod>
   </url>
   
   <url>
@@ -146,6 +189,18 @@
   </url>
   
   <url>
+    <loc>https://www.gbbns.co/categories/mid-life/</loc>
+    <lastmod>2017-08-15T08:11:35+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gbbns.co/tags/mid-life/</loc>
+    <lastmod>2017-08-15T08:11:35+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.gbbns.co/tags/motivation/</loc>
     <lastmod>2016-10-04T08:30:00+01:00</lastmod>
     <priority>0</priority>
@@ -158,68 +213,86 @@
   </url>
   
   <url>
-    <loc>https://www.gbbns.co/tags/notes/</loc>
-    <lastmod>2017-08-02T18:22:41+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.gbbns.co/categories/notes/</loc>
     <lastmod>2017-08-02T18:22:41+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gbbns.co/tags/now/</loc>
-    <lastmod>2017-09-15T08:30:00+01:00</lastmod>
+    <loc>https://www.gbbns.co/tags/notes/</loc>
+    <lastmod>2017-08-02T18:22:41+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gbbns.co/categories/now/</loc>
-    <lastmod>2017-09-15T08:30:00+01:00</lastmod>
+    <lastmod>2018-02-06T08:30:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gbbns.co/tags/other/</loc>
-    <lastmod>2017-09-15T09:00:02+01:00</lastmod>
+    <loc>https://www.gbbns.co/tags/now/</loc>
+    <lastmod>2018-02-06T08:30:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gbbns.co/categories/other/</loc>
-    <lastmod>2017-09-15T09:00:02+01:00</lastmod>
+    <lastmod>2018-02-01T09:00:02+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gbbns.co/tags/personal/</loc>
-    <lastmod>2017-07-03T13:28:21+01:00</lastmod>
+    <loc>https://www.gbbns.co/tags/other/</loc>
+    <lastmod>2018-02-01T09:00:02+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gbbns.co/categories/personal/</loc>
-    <lastmod>2017-07-03T08:30:00+01:00</lastmod>
+    <lastmod>2018-01-11T09:42:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gbbns.co/tags/personal/</loc>
+    <lastmod>2018-01-16T08:30:21+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gbbns.co/tags/plans/</loc>
+    <lastmod>2018-01-16T08:08:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gbbns.co/tags/preview/</loc>
-    <lastmod>2016-03-06T08:30:00+01:00</lastmod>
+    <lastmod>2018-01-11T09:42:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gbbns.co/categories/speaking/</loc>
+    <lastmod>2018-01-16T08:30:21+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gbbns.co/tags/speaking/</loc>
+    <lastmod>2018-01-16T08:30:21+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gbbns.co/tags/</loc>
-    <lastmod>2017-07-03T13:28:21+01:00</lastmod>
+    <lastmod>2018-01-16T08:30:21+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gbbns.co/tags/test/</loc>
-    <lastmod>2017-09-15T09:00:02+01:00</lastmod>
+    <lastmod>2018-02-06T08:30:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -237,7 +310,7 @@
   
   <url>
     <loc>https://www.gbbns.co/tags/uses/</loc>
-    <lastmod>2017-09-15T09:00:02+01:00</lastmod>
+    <lastmod>2018-02-01T09:00:02+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -249,7 +322,7 @@
   
   <url>
     <loc>https://www.gbbns.co/writing/</loc>
-    <lastmod>2017-08-15T20:05:30+01:00</lastmod>
+    <lastmod>2018-01-16T08:08:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
