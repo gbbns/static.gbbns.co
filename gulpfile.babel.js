@@ -66,7 +66,7 @@ gulp.task('hugo-preview', (cb) => {
 
 gulp.task('sass', () => {
 
-    del(["static/css/**/*"])
+    del(["static/assets/css/**/*"])
 
     gulp.src("src/scss/**/*.scss")
     .pipe($.plumber({ errorHandler: onError }))
@@ -85,7 +85,7 @@ gulp.task('sass', () => {
     // .pipe(hash.manifest("hash.json"))
     // .pipe(gulp.dest("data/styles"))
     // .pipe($.size({ gzip: true, showFiles: true }))
-    .pipe(gulp.dest('static/css'))
+    .pipe(gulp.dest('static/assets/css'))
     .pipe(browserSync.stream())
 })
 
