@@ -71,12 +71,17 @@ gulp.task('sass', () => {
     gulp.src("src/scss/**/*.scss")
     .pipe($.plumber({ errorHandler: onError }))
     .pipe($.print())
-    .pipe($.sassLint({configFile: '.sass-lint.yml'}))
-    .pipe($.sassLint.format())
-    .pipe($.sass({ precision: 5, importer: tildeImporter, outputStyle : "compressed"}))
+    // .pipe($.sassLint({configFile: '.sass-lint.yml'}))
+    // .pipe($.sassLint.format())
+    .pipe($.sass({ precision: 5, importer: tildeImporter}))
     .pipe($.autoprefixer(['ie >= 10', 'last 2 versions']))
     .pipe(hash())
     .pipe(gulp.dest("static/css"))
+    .pipe($.stylelint({
+        reporters: [
+          {formatter: 'string', console: true, save: 'gbbns-co-errors.txt'}
+        ]
+      }))
     .pipe(hash.manifest("hash.json"))
     .pipe(gulp.dest("data/styles"))
     .pipe($.size({ gzip: true, showFiles: true }))

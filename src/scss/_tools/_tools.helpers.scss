@@ -7,7 +7,7 @@
 //
 
 .hidden {
-    display: none !important;
+	display: none !important;
 }
 
 //
@@ -20,31 +20,29 @@
 //
 
 .visuallyhidden {
-    border: 0;
-    clip: rect(0 0 0 0);
-    clip-path: inset(50%);
-    height: 1px;
-    margin: -1px;
-    overflow: hidden;
-    padding: 0;
-    position: absolute;
-    width: 1px;
-    white-space: nowrap;
+	border: 0;
+	clip: rect(0 0 0 0);
+	clip-path: inset(50%);
+	height: 1px;
+	margin: -1px;
+	overflow: hidden;
+	padding: 0;
+	position: absolute;
+	width: 1px;
+	white-space: nowrap;
 
-    &.focusable {
-
-        &:active,
-        &:focus {
-            clip: auto;
-            clip-path: none;
-            height: auto;
-            margin: 0;
-            overflow: visible;
-            position: static;
-            width: auto;
-            white-space: inherit;
-        }
-    }
+	&.focusable {
+		&:active, &:focus {
+			clip: auto;
+			clip-path: none;
+			height: auto;
+			margin: 0;
+			overflow: visible;
+			position: static;
+			width: auto;
+			white-space: inherit;
+		}
+	}
 }
 
 //
@@ -52,97 +50,79 @@
 //
 
 .invisible {
-    visibility: hidden;
+	visibility: hidden;
 }
 
 // Clearfix: contain floats
 
 .clearfix {
+	&::before, &::after {
+		content: ' ';
+		display: table;
+	}
 
-    &::before,
-    &::after {
-        content: ' ';
-        display: table;
-    }
-
-    &::after {
-        clear: both;
-    }
+	&::after {
+		clear: both;
+	}
 }
 
 // Print styles.
 
 @media print {
-    *,
-    *::before,
-    *::after,
-    p::first-letter,
-    div::first-letter,
-    blockquote::first-letter,
-    li::first-letter,
-    p::first-line,
-    div::first-line,
-    blockquote::first-line,
-    li::first-line {
-        background: transparent !important;
-        color: #000 !important;
-        box-shadow: none !important;
-        text-shadow: none !important;
-    }
+	*, *::before *::after, p::first-letter, div::first-letter, blockquote::first-letter, li::first-letter, p::first-line, div::first-line, blockquote::first-line, li::first-line {
+		background: transparent !important;
+		color: #000 !important;
+		box-shadow: none !important;
+		text-shadow: none !important;
+	}
 
-    a,
-    a:visited {
-        text-decoration: underline;
-    }
+	a, a:visited {
+		text-decoration: underline;
+	}
 
-    a[href]:after {
-        content: " (" attr(href) ")";
-    }
+	a[href]::after {
+		content: " (" attr(href) ")";
+	}
 
-    abbr[title]:after {
-        content: " (" attr(title) ")";
-    }
+	abbr[title]::after {
+		content: " (" attr(title) ")";
+	}
 
-    //
-    // Don't show links that are fragment identifiers,
-    // or use the `javascript:` pseudo protocol
-    //
+	//
+	// Don't show links that are fragment identifiers,
+	// or use the `javascript:` pseudo protocol
+	//
 
-    a[href^="#"]:after,
-    a[href^="javascript:"]:after {
-        content: "";
-    }
+	a[href^="#"]::after, a[href^="javascript:"]::after {
+		content: "";
+	}
 
-    pre {
-        white-space: pre-wrap !important;
-    }
-    pre,
-    blockquote {
-        border: 1px solid #999;
-        page-break-inside: avoid;
-    }
+	pre {
+		white-space: pre-wrap !important;
+	}
 
-    // Printing Tables:
-    // http://css-discuss.incutio.com/wiki/Printing_Tables
+	pre, blockquote {
+		border: 1px solid #999;
+		page-break-inside: avoid;
+	}
 
-    thead {
-        display: table-header-group;
-    }
+	// Printing Tables:
+	// http://css-discuss.incutio.com/wiki/Printing_Tables
 
-    tr,
-    img {
-        page-break-inside: avoid;
-    }
+	thead {
+		display: table-header-group;
+	}
 
-    p,
-    h2,
-    h3 {
-        orphans: 3;
-        widows: 3;
-    }
+	tr, img {
+		page-break-inside: avoid;
+	}
 
-    h2,
-    h3 {
-        page-break-after: avoid;
-    }
+	p, h2, h3 {
+		orphans: 3;
+		widows: 3;
+	}
+
+	h2, h3 {
+		page-break-after: avoid;
+	}
 }
