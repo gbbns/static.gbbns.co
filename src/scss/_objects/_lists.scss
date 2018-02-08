@@ -1,20 +1,18 @@
 // Horizontal list //
 .h-list {
-
-    // this needs replacing into a theme at somepoint
     margin-top: 16px;
 
     &__item {
-            display: inline-block;
-            list-style: none;
+        display: inline-block;
+        list-style: none;
 
-            & + & {
-                margin-left: 16px;
-            }
-    }
+        & + & {
+            margin-left: 16px;
+		}
+	}
 }
 
-// Vertical list //
+//	Vertical list //
 .v-list {
 
     &__item {
@@ -25,6 +23,6 @@
 
         &:last-of-type {
             margin-bottom: 0;
-        }
-    }
+		}
+	}
 }

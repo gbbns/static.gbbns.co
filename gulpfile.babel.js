@@ -71,7 +71,7 @@ gulp.task('sass', () => {
     gulp.src("src/scss/**/*.scss")
     .pipe($.plumber({ errorHandler: onError }))
     .pipe($.print())
-    .pipe($.sassLint())
+    .pipe($.sassLint({configFile: '.sass-lint.yml'}))
     .pipe($.sassLint.format())
     .pipe($.sass({ precision: 5, importer: tildeImporter, outputStyle : "compressed"}))
     .pipe($.autoprefixer(['ie >= 10', 'last 2 versions']))

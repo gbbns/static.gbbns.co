@@ -1,23 +1,23 @@
-/* ==========================================================================
-   Helper classes
-   ========================================================================== */
+// ==========================================================================
+//   Helper classes
+// ========================================================================== */
 
-/*
- * Hide visually and from screen readers
- */
+//
+// Hide visually and from screen readers
+//
 
- .hidden {
+.hidden {
     display: none !important;
 }
 
-/*
- * Hide only visually, but have it available for screen readers:
- * https://snook.ca/archives/html_and_css/hiding-content-for-accessibility
- *
- * 1. For long content, line feeds are not interpreted as spaces and small width
- *    causes content to wrap 1 word per line:
- *    https://medium.com/@jessebeach/beware-smushed-off-screen-accessible-text-5952a4c2cbfe
- */
+//
+// Hide only visually, but have it available for screen readers:
+// https://snook.ca/archives/html_and_css/hiding-content-for-accessibility
+//
+// 1. For long content, line feeds are not interpreted as spaces and small width
+//    causes content to wrap 1 word per line:
+//    https://medium.com/@jessebeach/beware-smushed-off-screen-accessible-text-5952a4c2cbfe
+//
 
 .visuallyhidden {
     border: 0;
@@ -29,94 +29,63 @@
     padding: 0;
     position: absolute;
     width: 1px;
-    white-space: nowrap; /* 1 */
+    white-space: nowrap;
+
+    &.focusable {
+
+        &:active,
+        &:focus {
+            clip: auto;
+            clip-path: none;
+            height: auto;
+            margin: 0;
+            overflow: visible;
+            position: static;
+            width: auto;
+            white-space: inherit;
+        }
+    }
 }
 
-/*
- * Extends the .visuallyhidden class to allow the element
- * to be focusable when navigated to via the keyboard:
- * https://www.drupal.org/node/897638
- */
-
-.visuallyhidden.focusable:active,
-.visuallyhidden.focusable:focus {
-    clip: auto;
-    clip-path: none;
-    height: auto;
-    margin: 0;
-    overflow: visible;
-    position: static;
-    width: auto;
-    white-space: inherit;
-}
-
-/*
- * Hide visually and from screen readers, but maintain layout
- */
+//
+// Hide visually and from screen readers, but maintain layout
+//
 
 .invisible {
     visibility: hidden;
 }
 
-/*
- * Clearfix: contain floats
- *
- * For modern browsers
- * 1. The space content is one way to avoid an Opera bug when the
- *    `contenteditable` attribute is included anywhere else in the document.
- *    Otherwise it causes space to appear at the top and bottom of elements
- *    that receive the `clearfix` class.
- * 2. The use of `table` rather than `block` is only necessary if using
- *    `:before` to contain the top-margins of child elements.
- */
+// Clearfix: contain floats
 
-.clearfix:before,
-.clearfix:after {
-    content: " "; /* 1 */
-    display: table; /* 2 */
+.clearfix {
+
+    &::before,
+    &::after {
+        content: ' ';
+        display: table;
+    }
+
+    &::after {
+        clear: both;
+    }
 }
 
-.clearfix:after {
-    clear: both;
-}
-
-/* ==========================================================================
-   EXAMPLE Media Queries for Responsive Design.
-   These examples override the primary ('mobile first') styles.
-   Modify as content requires.
-   ========================================================================== */
-
-@media only screen and (min-width: 35em) {
-    /* Style adjustments for viewports that meet the condition */
-}
-
-@media print,
-       (min-resolution: 1.25dppx),
-       (min-resolution: 120dpi) {
-    /* Style adjustments for high resolution devices */
-}
-
-/* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+// Print styles.
 
 @media print {
     *,
-    *:before,
-    *:after,
-    p:first-letter,
-    div:first-letter,
-    blockquote:first-letter,
-    li:first-letter,
-    p:first-line,
-    div:first-line,
-    blockquote:first-line,
-    li:first-line {
+    *::before,
+    *::after,
+    p::first-letter,
+    div::first-letter,
+    blockquote::first-letter,
+    li::first-letter,
+    p::first-line,
+    div::first-line,
+    blockquote::first-line,
+    li::first-line {
         background: transparent !important;
-        color: #000 !important; /* Black prints faster:
-                                   http://www.sanbeiji.com/archives/953 */
+        color: #000 !important;
         box-shadow: none !important;
         text-shadow: none !important;
     }
@@ -134,10 +103,10 @@
         content: " (" attr(title) ")";
     }
 
-    /*
-     * Don't show links that are fragment identifiers,
-     * or use the `javascript:` pseudo protocol
-     */
+    //
+    // Don't show links that are fragment identifiers,
+    // or use the `javascript:` pseudo protocol
+    //
 
     a[href^="#"]:after,
     a[href^="javascript:"]:after {
@@ -153,10 +122,8 @@
         page-break-inside: avoid;
     }
 
-    /*
-     * Printing Tables:
-     * http://css-discuss.incutio.com/wiki/Printing_Tables
-     */
+    // Printing Tables:
+    // http://css-discuss.incutio.com/wiki/Printing_Tables
 
     thead {
         display: table-header-group;
