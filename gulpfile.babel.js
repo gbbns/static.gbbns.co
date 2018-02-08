@@ -79,7 +79,6 @@ gulp.task('sass', () => {
     .pipe(gulp.dest("static/css"))
     .pipe(hash.manifest("hash.json"))
     .pipe(gulp.dest("data/styles"))
-    .pipe($.if(isProduction, $.cssnano({ discardUnused: false, minifyFontValues: false })))
     .pipe($.size({ gzip: true, showFiles: true }))
     .pipe(gulp.dest('static/css'))
     .pipe(browserSync.stream())
