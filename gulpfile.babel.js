@@ -73,18 +73,18 @@ gulp.task('sass', () => {
     .pipe($.print())
     // .pipe($.sassLint({configFile: '.sass-lint.yml'}))
     // .pipe($.sassLint.format())
-    .pipe($.sass({ precision: 5, importer: tildeImporter}))
+    .pipe($.sass({ precision: 5, importer: tildeImporter, outputStyle: 'compressed'}))
     .pipe($.autoprefixer(['ie >= 10', 'last 2 versions']))
-    .pipe(hash())
-    .pipe(gulp.dest("static/css"))
+    // .pipe(hash())
+    // .pipe(gulp.dest("static/css"))
     .pipe($.stylelint({
         reporters: [
           {formatter: 'string', console: true, save: 'gbbns-co-errors.txt'}
         ]
       }))
-    .pipe(hash.manifest("hash.json"))
-    .pipe(gulp.dest("data/styles"))
-    .pipe($.size({ gzip: true, showFiles: true }))
+    // .pipe(hash.manifest("hash.json"))
+    // .pipe(gulp.dest("data/styles"))
+    // .pipe($.size({ gzip: true, showFiles: true }))
     .pipe(gulp.dest('static/css'))
     .pipe(browserSync.stream())
 })
