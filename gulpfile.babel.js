@@ -7,6 +7,10 @@ import gulpLoadPlugins from 'gulp-load-plugins'
 import { spawn } from "child_process"
 import tildeImporter from 'node-sass-tilde-importer'
 import hash from 'gulp-hash'
+import postcss from 'gulp-postcss'
+import reporter from 'postcss-reporter'
+import syntax_scss from 'postcss-scss'
+import stylelint from 'stylelint'
 
 const $ = gulpLoadPlugins()
 const browserSync = require('browser-sync').create()
@@ -35,7 +39,7 @@ gulp.task('init-watch', () => {
         },
         open: false
     })
-    $.watch('src/sass/**/*.scss', () => gulp.start('sass'))
+    $.watch('src/scss/**/*.scss', () => gulp.start('sass'))
     $.watch('src/js/**/*.js', () => gulp.start('js-watch'))
     $.watch('src/images/**/*', () => gulp.start('images'))
 })
@@ -65,27 +69,25 @@ gulp.task('hugo-preview', (cb) => {
 // --
 
 gulp.task('sass', () => {
+    var processors = [
+        stylelint('.stylelintrc'),
+        reporter({
+            clearMessages: true,
+            console: false
+        })
+    ];
 
-    del(["static/assets/css/**/*"])
+    del(["static/css/**/*"])
 
-    gulp.src("src/scss/**/*.scss")
+    return gulp.src([
+        'src/scss/**/*.scss'
+    ])
     .pipe($.plumber({ errorHandler: onError }))
     .pipe($.print())
-    // .pipe($.sassLint({configFile: '.sass-lint.yml'}))
-    // .pipe($.sassLint.format())
+    .pipe(postcss(processors, {syntax: syntax_scss}))
     .pipe($.sass({ precision: 5, importer: tildeImporter, outputStyle: 'compressed'}))
     .pipe($.autoprefixer(['ie >= 10', 'last 2 versions']))
-    // .pipe(hash())
-    // .pipe(gulp.dest("static/css"))
-    // .pipe($.stylelint({
-    //     reporters: [
-    //       {formatter: 'string', console: true, save: 'gbbns-co-errors.txt'}
-    //     ]
-    //   }))
-    // .pipe(hash.manifest("hash.json"))
-    // .pipe(gulp.dest("data/styles"))
-    // .pipe($.size({ gzip: true, showFiles: true }))
-    .pipe(gulp.dest('static/assets/css'))
+    .pipe(gulp.dest('static/css'))
     .pipe(browserSync.stream())
 })
 
