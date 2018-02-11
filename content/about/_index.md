@@ -8,14 +8,69 @@ description = "About me - Chris Gibbons"
 type = "static"
 layout = "single"
 +++
-# Who is Chris Gibbons?
+# Who is &lsquo;Chris Gibbons&rsquo;?
 
+### A potted history
 Chris Gibbons is an experienced digital developer specialising in front-end development, with a mild obsession for well written &amp; clean code.
 
-After working with the amazing guys at <a href="https://www.codecomputerlove.com/" rel="noopener">Code Computerlove</a> for 7.5 years, working his way up to Snr. Front End developer. Chris then spent the next 12 months working as a UI engineer at <a href="https://www.zuto.com" rel="noopener">Zuto</a> where he enjoyed the challenge of trying to build a bridge between front-end and UX. He now spends his time employed by the nice folk at <a href="https://www.autotrader.co.uk/" rel="noopener">Auto Trader</a>.
+He also hates speaking about himself in the third person.
 
-Chris lives close to the seaside resort of <a href="http://en.wikipedia.org/wiki/Blackpool" rel="noopener">Blackpool</a> and in his spare time likes to take photographs &mdash; <a href="http://www.instagram.com/_gbbns" rel="noopener">Instagram</a> &mdash; bake and support Liverpool FC.
+After working with the amazing guys at <a href="https://www.codecomputerlove.com/" rel="noopener">Code Computerlove</a> for nearly 8 years, working my way up to Snr. Front End developer, I then spent the next 12 months working as a UI engineer at <a href="https://www.zuto.com" rel="noopener">Zuto</a> where I enjoyed the challenge of trying to build a bridge between front-end and UX in the world of car finance.
 
-A dabbler of HTML5, CSS3, JS; Tinkerer of mobile first &amp; RWD; Drinker of coffee; Maker of cakes; Not necessarily in that order.
+I now spend my time happily employed by the nice folk at <a href="https://www.autotrader.co.uk/" rel="noopener">Auto Trader</a>.
 
-Specialties = Front-end development, UI/UX, Mobile, Responsive, HTML5, CSS3, Sass, JavaScript (jQuery), Grunt, Gulp, basic Node.js, SEO, Web Standards, Cross browser testing, A/B testing.
+Outside of work I live close to the seaside resort of <a href="http://en.wikipedia.org/wiki/Blackpool" rel="noopener">Blackpool</a> and, in my small amount of spare time, like to take photographs &mdash; <a href="http://www.instagram.com/_gbbns" rel="noopener">Instagram</a> &mdash; bake cakes and support Liverpool FC.
+### UX Technologist?
+UX what now?
+
+OK, so let me explain.
+
+The front end (FE) landscape has changed dramatically in the 15 years I've been in the industry. Task runners such as Grunt and Gulp weren't even twinkles in the eyes of the people who concieved the ideas..
+
+Now the parts of FE I enjoy the most is UI work, along side prototyping and discovery.
+
+In my opinion--and after doing a few Google searches it seems there are many other people thinking the same--a UX technologist works to bridge the gap between design and engineering.
+
+<a href="http://adaptivepath.org/ideas/what-makes-a-design-technologist/" rel="noopener">One of the best posts I read on this topic is from Dan Harrelson at Adaptive Path</a>.
+
+* A comfort level with front-end programming (web, desktop, mobile, device)
+* A tool belt filled with techniques for creating interactive apps
+* The ability to quickly pick up new tools
+* A itch to dive into code and &ldquo;just built it&rdquo;
+
+These all appear to reflect where I feel I add most value.
+
+But it was the following:
+
+>You also need to find that special someone who appreciates design and wants to be a member of the UX team.
+
+That _really_ sums up my current feelings to FE and my position.
+#### Footnote
+
+<div class="footnote">
+    <blockquote>
+        <p>A dabbler of HTML5, CSS3, JS; Tinkerer of mobile first &amp; RWD; Drinker of coffee; Maker of cakes; Not necessarily in that order.</p>
+    </blockquote>
+
+<h5>Specialties:</h5>
+
+<ul class="h-list">
+    <li class="h-list__item">Front-end development</li>
+    <li class="h-list__item">UI/UX</li>
+    <li class="h-list__item">Mobile</li>
+    <li class="h-list__item">Responsive</li>
+    <li class="h-list__item">HTML5</li>
+    <li class="h-list__item">CSS3</li>
+    <li class="h-list__item">Sass</li>
+    <li class="h-list__item">JavaScript (jQuery)</li>
+    <li class="h-list__item">Gulp</li>
+    <li class="h-list__item">basic Node.js</li>
+    <li class="h-list__item">SEO</li>
+    <li class="h-list__item">Web Standards</li>
+    <li class="h-list__item">Cross browser testing</li>
+    <li class="h-list__item">A/B testing</li>
+</ul>
+
+</div>
+
+</div>

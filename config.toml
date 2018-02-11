@@ -7,6 +7,8 @@ enableRobotsTXT         = true
 watch                   = true
 buildDrafts             = false
 buildFuture             = false
+[blackfriday]
+    laxHtmlBlocks       = true
 
 [permalinks]
     articles            = "/writing/:year/:month/:day/:slug/"
@@ -68,11 +70,11 @@ buildFuture             = false
 [params]
     title               = "UX Technologist"
     subTitle            = "Front end meets UX"
-    siteTitle           = "Front end developer based in Blackpool // Manchester"
+    siteTitle           = "Front end developer & UX technologisr based in Blackpool // Manchester"
     email               = "chris@gbbns.co"
-    description         = "Chris Gibbons // Front End Web Developer from Lancashire, UK."
+    description         = "Chris Gibbons // Front End Developer // UX Technologist based in Lancashire, UK."
     author              = "Chris Gibbons"
-    metaDescription     = "Chris is a senior front end, UX developer based in Blackpool, Lancashire & Manchester, UK. He build's flexible responsive websites for the all users of the web and bakes a smashing cake."
+    metaDescription     = "Chris is a Senior FE/UX developer based in Blackpool, Lancashire & Manchester, UK. He build's flexible responsive websites for the all users of the web and bakes a smashing cake."
     metaTitle           = "Chris Gibbons // Friendly front end web developer based in Manchester in the North West of England"
     metaKeywords        = "Chris Gibbons, chris, gibbons, gbbns, blackpool, lancashire,england, uk, united kingdom, html, css, xhtml, web standards, accessibility, javascript"
     twitter             = "_gbbns"
