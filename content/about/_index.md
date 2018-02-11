@@ -21,11 +21,13 @@ I now spend my time happily employed by the nice folk at <a href="https://www.au
 
 Outside of work I live close to the seaside resort of <a href="http://en.wikipedia.org/wiki/Blackpool" rel="noopener">Blackpool</a> and, in my small amount of spare time, like to take photographs &mdash; <a href="http://www.instagram.com/_gbbns" rel="noopener">Instagram</a> &mdash; bake cakes and support Liverpool FC.
 ### UX Technologist?
-UX what now?
+A UX what now?
 
 OK, so let me explain.
 
-The front end (FE) landscape has changed dramatically in the 15 years I've been in the industry. Task runners such as Grunt and Gulp weren't even twinkles in the eyes of the people who concieved the ideas..
+I've been trying to position myself within the front end (FE) world for a few years now.
+
+The FE landscape has changed dramatically in the 15 years I've been in the industry. Task runners such as Grunt and Gulp weren't even twinkles in the eyes of the people who concieved the ideas..
 
 Now the parts of FE I enjoy the most is UI work, along side prototyping and discovery.
 
