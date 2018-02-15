@@ -8,12 +8,14 @@
         {{ partial "header.html" . }}
 
         <main role="main">
-            {{ .Content }}
+            <section>
+                {{ .Content }}
+            </section>
 
             <section>
                 <h2>Articles</h2>
 
-                <article>
+                <article class="card">
                     {{ range first 1 (where .Data.Pages "Type" "article") }}
                     <h3>
                         <a href="{{ .Permalink }}">
@@ -43,7 +45,7 @@
 
             <section>
                 <h3>Latest notes</h3>
-                <article>
+                <article class="card">
                     {{ range first 1 (where .Data.Pages "Type" "note") }}
                         <h3>
                             <a href="{{ .Permalink }}">

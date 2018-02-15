@@ -6,6 +6,7 @@ body {
 	font-size: 16px;
 	width: calc(100vw - 10vw);
 	margin: 0 auto;
+	color: rgba(0, 0, 0, 0.84);
 }
 
 ul {
@@ -19,6 +20,7 @@ ul {
 
 h1, h2, h3, h4, h5 {
 	font-weight: 900;
+	margin-top: 0;
 }
 
 a {
@@ -38,4 +40,16 @@ blockquote {
 	border-left: 10px solid;
 	padding-left: 16px;
 	margin-left: 16px;
+}
+
+p {
+	&:last-of-type {
+		margin-bottom: 0;
+	}
+}
+
+section {
+	& + & {
+		margin-top: 16px;
+	}
 }
