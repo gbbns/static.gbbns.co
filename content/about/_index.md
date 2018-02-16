@@ -7,6 +7,7 @@ date = 2018-01-16T08:30:21+01:00
 description = "About me - Chris Gibbons"
 type = "static"
 layout = "single"
+excerpt = ""
 +++
 # Who is &lsquo;Chris Gibbons&rsquo;?
 
