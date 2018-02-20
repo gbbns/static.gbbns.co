@@ -6,6 +6,7 @@ title = "Dealing with rejection"
 date = 2016-07-12T08:30:00+01:00
 description = ""
 type = "article"
+author = "Chris Gibbons"
 +++
 
 "A rejection is nothing more than a necessary step in the pursuit of success" - Bo Bennett.

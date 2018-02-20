@@ -6,6 +6,7 @@ title = "Upcoming Blog Post Ideas"
 date = 2018-01-16T08:08:01Z
 description = ""
 type = "article"
+author = "Chris Gibbons"
 +++
 
 My hope is that this page will serve as an ongoing scratchpad for future blog posts ideas.

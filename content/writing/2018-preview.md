@@ -6,6 +6,7 @@ title = "2018 Preview"
 date = 2018-01-11T09:42:32Z
 description = ""
 type = "article"
+author = "Chris Gibbons"
 +++
 
 My initial thought, on the face of it, is that 2018 promises a lot.

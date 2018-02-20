@@ -6,6 +6,7 @@ title = "The 30 day writing challenge"
 date = 2016-04-01T07:00:00+01:00
 description = ""
 type = "article"
+author = "Chris Gibbons"
 +++
 
 I've known for a [while](/2016/02/19/motivation) that writing was going to be important to me this year, but as with all best laid plans...

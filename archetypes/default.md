@@ -7,4 +7,5 @@ date = {{ .Date }}
 description = ""
 type = ""
 excerpt = ""
+author = ""
 +++

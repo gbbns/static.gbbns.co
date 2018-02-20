@@ -6,6 +6,7 @@ title = "A belated preview"
 date = 2016-03-06T08:30:00+01:00
 description = ""
 type = "article"
+author = "Chris Gibbons"
 +++
 
 This blog post is by no means going to cover the entire year, in-fact it may be irrelevant before it even gets published, all I will say is that this year is shaping up to be a good one, I can feel it.

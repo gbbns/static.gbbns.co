@@ -6,6 +6,7 @@ title = "Moving To Hugo"
 date = 2017-08-15T20:05:30+01:00
 description = "Sorry Jekyll, it's not you, it's me"
 type = "article"
+author = "Chris Gibbons"
 +++
 
 If I was to look at the [internet archive wayback machine](https://web.archive.org/web/*/http://www.chrisgibbons.co.uk) I could hand on heart say I've never had a personal website I've ever really been happy with.

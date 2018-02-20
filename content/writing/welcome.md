@@ -6,6 +6,7 @@ title = "Welcome"
 date = 2016-02-02T08:30:00+01:00
 description = ""
 type = "article"
+author = "Chris Gibbons"
 +++
 
 So, after countless promises over the past few years, here we are!

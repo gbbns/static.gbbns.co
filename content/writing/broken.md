@@ -6,6 +6,7 @@ title = "Broken"
 date = 2016-08-25T08:30:00+01:00
 description = ""
 type = "article"
+author = "Chris Gibbons"
 +++
 
 I can't pinpoint _exactly_ when, but I've come to the realisation that the daily routine I've worked so hard to build is broken.

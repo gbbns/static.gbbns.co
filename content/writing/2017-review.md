@@ -6,7 +6,9 @@ title = "2017 Review"
 date = 2018-01-11T09:42:32Z
 description = ""
 type = "article"
+author = "Chris Gibbons"
 +++
+
 Christmas is officially over; The decorations are now down and all safely tucked away in the attic until the mega marketing machine rolls around next time.
 
 I'm a little late with this review and no doubt by now many people have written down long lists of unachievable things they want to stop, or start, doing this year. As for me I stopped doing resolutions a few years back mainly as I just didn't stick to them - they're usually out of the window before January has finished, instead I like to set goals for the year, mainly as I feel they're not only more achieveable but also easier to manage and work towards over the course of 12 months.
