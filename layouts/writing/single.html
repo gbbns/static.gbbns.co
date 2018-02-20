@@ -8,11 +8,26 @@
         {{ partial "header.html" . }}
 
         <main role="main">
-            <h1>{{ .Title }}</h1>
-            <p>{{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day}}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }} {{ .Date.Format "January 2006" }} &mdash; {{ .ReadingTime }} min read</p>
-            {{ .Content }}
-            <p><em>This page was last updated on {{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day}}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }} {{ .Date.Format "January 2006" }}</em></p>
+            <article>
+                    <header class="article__main-header">
+                        <h1>{{ .Title }}</h1>
+                        <p>{{ .Params.Author }} &ndash; <time datetime="{{ .Date.Format "2006-01-02 15:04" }}">{{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day}}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }} {{ .Date.Format "January 2006" }}</time> &mdash; {{ .ReadingTime }} min read</p>
+                        <ul class="h-list">
+                            <li class="h-list__item">Published in:</li>
+                            {{ range .Params.tags }}
+                                <li class="h-list__item"><a href="/tags/{{ . | urlize }}">{{ . }}</a> </li>
+                            {{ end }}
+                        </ul>
+                    </header>
 
+                    <section class="article__main-body">
+                        {{ .Content }}
+                    </section>
+
+                    <footer>
+                        <p><em>This page was last updated on {{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day}}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }} {{ .Date.Format "January 2006" }}</em></p>
+                    </footer>
+                </article>
         </main>
 
         {{ partial "footer.html" . }}
