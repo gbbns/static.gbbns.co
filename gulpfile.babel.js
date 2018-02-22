@@ -53,14 +53,22 @@ gulp.task('build-preview', () => {
 })
 
 gulp.task('hugo', (cb) => {
-    return spawn('hugo', { stdio: 'inherit' }).on('close', (code) => {
+    let baseUrl = process.env.NODE_ENV === 'production' ? process.env.URL : process.env.DEPLOY_PRIME_URL;
+    let args = baseUrl ? ['-b', baseUrl] : [];
+
+    return spawn('hugo', args, { stdio: 'inherit' }).on('close', (code) => {
         browserSync.reload()
         cb()
     })
 })
 
 gulp.task('hugo-preview', (cb) => {
-    return spawn('hugo', ['--buildDrafts', '--buildFuture'], { stdio: 'inherit' }).on('close', (code) => {
+    let args = ['--buildDrafts', '--buildFuture'];
+    if (process.env.DEPLOY_PRIME_URL) {
+        args.push('-b')
+        args.push(process.env.DEPLOY_PRIME_URL)
+    }
+    return spawn('hugo', args, { stdio: 'inherit' }).on('close', (code) => {
         browserSync.reload()
         cb()
     })
