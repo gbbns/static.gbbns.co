@@ -4,8 +4,30 @@
 }
 
 .site-info {
-	font-size: 32px;
+	font-size: 42px;
 	font-weight: 900;
 	display: inline-block;
 	text-align: center;
+
+	&__title {
+		display: block;
+		margin-right: 16px;
+		padding-right: 16px;
+		position: relative;
+
+		@media screen and (min-width: 48em) {
+			display: inline-block;
+
+			&::after {
+				content: '·';
+				display: inline-block;
+				position: absolute;
+				right: -8px;
+			}
+		}
+	}
+
+	&__sub-title {
+		display: inline;
+	}
 }
