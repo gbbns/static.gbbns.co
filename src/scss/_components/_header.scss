@@ -11,12 +11,12 @@
 
 	&__title {
 		display: block;
-		margin-right: 16px;
-		padding-right: 16px;
 		position: relative;
 
 		@media screen and (min-width: 48em) {
 			display: inline-block;
+			margin-right: 16px;
+			padding-right: 16px;
 
 			&::after {
 				content: '·';
