@@ -34,7 +34,6 @@
 	margin-left: 2px;
 }
 
-
 [role="navigation"] {
 	.h-list__item {
 		a {
@@ -44,9 +43,6 @@
 
 	.h-list__item + .h-list__item {
 		border-left: 1px solid #c1c1c1;
+		margin-left: 0;
 	}
-}
-
-[role="navigation"] .h-list__item a {
-	padding: 8px 16px;
 }
