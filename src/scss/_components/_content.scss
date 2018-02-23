@@ -8,6 +8,15 @@
 		width: 960px;
 		max-width: 100%;
 		margin: 0 auto;
+
+		p {
+
+			&:first-of-type {
+				font-size: 1.4rem;
+				font-weight: 600;
+				letter-spacing: -0.5px;
+			}
+		}
 	}
 
 	&__meta-info {
@@ -19,6 +28,25 @@
 }
 
 
+
 .article__main-header li.h-list__item + .h-list__item {
-    margin-left: 2px;
+	margin-left: 2px;
+}
+
+
+
+[role="navigation"] {
+	.h-list__item {
+		a {
+			padding: 8px 16px;
+		}
+	}
+
+	.h-list__item + .h-list__item {
+		border-left: 1px solid #c1c1c1;
+	}
+}
+
+[role="navigation"] .h-list__item a {
+	padding: 8px 16px;
 }
