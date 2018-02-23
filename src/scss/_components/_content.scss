@@ -10,12 +10,15 @@
 		margin: 0 auto;
 
 		p {
-
 			&:first-of-type {
 				font-size: 1.4rem;
 				font-weight: 600;
-				letter-spacing: -0.5px;
+				letter-spacing: -0.75px;
 			}
+		}
+
+		h2, h3 , h4 {
+			margin-top: 16px;
 		}
 	}
 
@@ -27,12 +30,9 @@
 	}
 }
 
-
-
 .article__main-header li.h-list__item + .h-list__item {
 	margin-left: 2px;
 }
-
 
 
 [role="navigation"] {
