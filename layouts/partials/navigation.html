@@ -1,9 +1,7 @@
 <nav role="navigation">
     <ul class="h-list">
         {{ range .Site.Menus.main }}
-        <li class="h-list__item">
-            <a href="{{ .URL }}">{{ .Name }}</a>
-        </li>
+        <li class="h-list__item"><a href="{{ .URL }}">{{ .Name }}</a></li>
         {{ end }}
     </ul>
 </nav>
