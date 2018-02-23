@@ -1,7 +1,8 @@
 <header class="masthead" role="banner">
     <div>
         <a href="{{ .Site.BaseURL }}" class="site-info v-list">
-            <span class="v-list__item site-info__title">{{ .Site.Params.Title }}</span><span class="v-list__item site-info__sub-title">{{ .Site.Params.author }}</span>
+			<span class="v-list__item site-info__title">{{ .Site.Params.Title }}</span>
+			<span class="v-list__item site-info__sub-title">{{ .Site.Params.author }}</span>
         </a>
 
         {{ partial "navigation.html" . }}

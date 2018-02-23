@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Motivation on gbbns.co</title>
-    <link>https://www.gbbns.co/tags/motivation/</link>
+    <link>/tags/motivation/</link>
     <description>Recent content in Motivation on gbbns.co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 04 Oct 2016 08:30:00 +0100</lastBuildDate>
     
-	<atom:link href="https://www.gbbns.co/tags/motivation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/motivation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>You</title>
-      <link>https://www.gbbns.co/writing/you/</link>
+      <link>/writing/you/</link>
       <pubDate>Tue, 04 Oct 2016 08:30:00 +0100</pubDate>
       
-      <guid>https://www.gbbns.co/writing/you/</guid>
+      <guid>/writing/you/</guid>
       <description>770.6 miles, that was what was on the car&amp;rsquo;s milometer when I pulled up on the driveway after a week away.
 The family had been to Devon, we left the previous Friday to visit the “English Riviera”. My only previous encounter with the South Coast had been a visit to the New Forest before a week on the Isle of Wight. We loved that trip and it&amp;rsquo;s safe to say we enjoyed this.</description>
     </item>
     
     <item>
       <title>Broken</title>
-      <link>https://www.gbbns.co/writing/broken/</link>
+      <link>/writing/broken/</link>
       <pubDate>Thu, 25 Aug 2016 08:30:00 +0100</pubDate>
       
-      <guid>https://www.gbbns.co/writing/broken/</guid>
+      <guid>/writing/broken/</guid>
       <description>I can&amp;rsquo;t pinpoint exactly when, but I&amp;rsquo;ve come to the realisation that the daily routine I&amp;rsquo;ve worked so hard to build is broken.
 After a coffee &amp;amp; chinwag with my good friend Dan Furze, it seems that it&amp;rsquo;s not just me, which is always reassuring.
 I&amp;rsquo;m aware that everyone has natural peaks and troughs in life - hell I&amp;rsquo;ve had enough myself - but recently it&amp;rsquo;s felt like I&amp;rsquo;ve been unable to climb out of this one.</description>
@@ -34,10 +34,10 @@ I&amp;rsquo;m aware that everyone has natural peaks and troughs in life - hell I
     
     <item>
       <title>Dealing with rejection</title>
-      <link>https://www.gbbns.co/writing/dealing-with-rejection/</link>
+      <link>/writing/dealing-with-rejection/</link>
       <pubDate>Tue, 12 Jul 2016 08:30:00 +0100</pubDate>
       
-      <guid>https://www.gbbns.co/writing/dealing-with-rejection/</guid>
+      <guid>/writing/dealing-with-rejection/</guid>
       <description>&amp;ldquo;A rejection is nothing more than a necessary step in the pursuit of success&amp;rdquo; - Bo Bennett.
 I&amp;rsquo;m not going to go into the full details, but twice in the space of 4 weeks I&amp;rsquo;ve been left having to deal with some kind of rejection.
 Now this isn&amp;rsquo;t a post wanting pity, it&amp;rsquo;s more to serve as a permanent reminder to me, personally, on how I&amp;rsquo;ve dealt with it, and also something which may help others.</description>
@@ -45,10 +45,10 @@ Now this isn&amp;rsquo;t a post wanting pity, it&amp;rsquo;s more to serve as a 
     
     <item>
       <title>Burning the candle</title>
-      <link>https://www.gbbns.co/writing/burning-the-candle/</link>
+      <link>/writing/burning-the-candle/</link>
       <pubDate>Wed, 06 Apr 2016 12:30:00 +0100</pubDate>
       
-      <guid>https://www.gbbns.co/writing/burning-the-candle/</guid>
+      <guid>/writing/burning-the-candle/</guid>
       <description>The great thing about Marc&amp;rsquo;s&amp;lsquo;30 day writing challenge&amp;rsquo; is reading such a great cross section of varied content, as well as gaining a lot of inspiration.
 One of the themes I&amp;rsquo;ve enjoyed the most so far has been around people&amp;rsquo;s morning &amp;amp; evening routines.
 Some people get up early and write, others check emails, whilst some use their &amp;ldquo;spare time&amp;rdquo; to exercise &amp;mdash; the reason for the quotes is that this is very much dependent on peoples individual set of circumstances, I know in my life at present the very concept of spare time is but a dream and it irks me when people comment or question other peoples dedication to things without knowing the set of circumstances surrounding the person(s).</description>
@@ -56,10 +56,10 @@ Some people get up early and write, others check emails, whilst some use their &
     
     <item>
       <title>The now page</title>
-      <link>https://www.gbbns.co/writing/the-now-page/</link>
+      <link>/writing/the-now-page/</link>
       <pubDate>Fri, 01 Apr 2016 11:00:00 +0100</pubDate>
       
-      <guid>https://www.gbbns.co/writing/the-now-page/</guid>
+      <guid>/writing/the-now-page/</guid>
       <description>I like the idea of a now page. It&amp;rsquo;s got a point. It&amp;rsquo;s not on the site to bullshit, it&amp;rsquo;s there to tell people what you, or I, are doing now.
 From time to time I get asked what am I doing, what am I working on and if it&amp;rsquo;s anything good, do I have any side projects on the go, how&amp;rsquo;s my photography coming on, etc&amp;hellip;
 I first came across the now page on Marc&amp;rsquo;s site and was instantly hooked on it, and as he&amp;rsquo;d handily included links to other sites where he himself had got inspiration.</description>
@@ -67,20 +67,20 @@ I first came across the now page on Marc&amp;rsquo;s site and was instantly hook
     
     <item>
       <title>The 30 day writing challenge</title>
-      <link>https://www.gbbns.co/writing/the-30-day-writing-challenge/</link>
+      <link>/writing/the-30-day-writing-challenge/</link>
       <pubDate>Fri, 01 Apr 2016 07:00:00 +0100</pubDate>
       
-      <guid>https://www.gbbns.co/writing/the-30-day-writing-challenge/</guid>
+      <guid>/writing/the-30-day-writing-challenge/</guid>
       <description>I&amp;rsquo;ve known for a while that writing was going to be important to me this year, but as with all best laid plans&amp;hellip;
 I started of on a really good footing, I quite quickly managed to rattle of more posts in a single month than I&amp;rsquo;d managed in the 5+ previous years of trying. Then things slowed down. Life kind of took over. Whilst not exactly losing interest in blogging, or writing &amp;ndash; as I&amp;rsquo;ve managed to make quite a healthy list of things I wish to write about &amp;ndash; more I lost the initial discipline that I&amp;rsquo;d been under.</description>
     </item>
     
     <item>
       <title>Motivation</title>
-      <link>https://www.gbbns.co/writing/motivation/</link>
+      <link>/writing/motivation/</link>
       <pubDate>Fri, 19 Feb 2016 08:30:00 +0100</pubDate>
       
-      <guid>https://www.gbbns.co/writing/motivation/</guid>
+      <guid>/writing/motivation/</guid>
       <description>When it&amp;rsquo;s not there, life is tough, everything is a struggle, things you once enjoyed start to become a chore. Sound familiar to anyone?
 Several years ago, I hit this very problem, and it&amp;rsquo;s taken until now for me to properly speak up about it.
 So, why now? Simple really, I&amp;rsquo;m now at the total opposite stage.
@@ -89,20 +89,20 @@ So, why now? Simple really, I&amp;rsquo;m now at the total opposite stage.
     
     <item>
       <title>Workflow happiness</title>
-      <link>https://www.gbbns.co/writing/workflow-happiness/</link>
+      <link>/writing/workflow-happiness/</link>
       <pubDate>Mon, 15 Feb 2016 08:30:00 +0100</pubDate>
       
-      <guid>https://www.gbbns.co/writing/workflow-happiness/</guid>
+      <guid>/writing/workflow-happiness/</guid>
       <description>Over the last couple of weeks I&amp;rsquo;ve had similar conversations with a few colleague &amp;amp; friends with regards website CMS&amp;rsquo; systems and workflows, which in turn lead me to reflect on my current setup.
 After looking at various CMS platforms, recently and over the past few years, the choice is staggering. Ranging from simple to the ridiculous, it is scary how many of these platforms can confuse and overwhelm the users, to the point where they actually fear using it.</description>
     </item>
     
     <item>
       <title>What a year</title>
-      <link>https://www.gbbns.co/writing/what-a-year/</link>
+      <link>/writing/what-a-year/</link>
       <pubDate>Thu, 04 Feb 2016 08:30:00 +0100</pubDate>
       
-      <guid>https://www.gbbns.co/writing/what-a-year/</guid>
+      <guid>/writing/what-a-year/</guid>
       <description>It&amp;rsquo;s now February 2016, almost a year to the day that Samuel was born, and things are only just beginning to slow down enough to actually gather my thoughts from the last 12 months.
 I always knew that 2015 was going to be a stand-out year due to the fact that fatherhood was impending&amp;hellip; But I had no idea just how much of a year it would actually be.
 January brought about a mandatory period of abstinence from alcohol, partly due to the yearly Christmas excess, but mainly due to being &amp;lsquo;on-call&amp;rsquo; for a trip to the hospital.</description>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Now on gbbns.co</title>
-    <link>https://www.gbbns.co/categories/now/</link>
+    <link>/categories/now/</link>
     <description>Recent content in Now on gbbns.co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 06 Feb 2018 08:30:00 +0100</lastBuildDate>
     
-	<atom:link href="https://www.gbbns.co/categories/now/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/now/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>What I&#39;m doing now</title>
-      <link>https://www.gbbns.co/now/</link>
+      <link>/now/</link>
       <pubDate>Tue, 06 Feb 2018 08:30:00 +0100</pubDate>
       
-      <guid>https://www.gbbns.co/now/</guid>
+      <guid>/now/</guid>
       <description>What I’m doing now Life is a hectic affair; To help keep me sane and to give me some guidance, these are my current areas of focus:
 Photography Improving my photography, with my new(ish) toy
 Work  Continuing to promote and improve both of the guilds I&amp;lsqo;ve setup &amp;ndash; the IDG &amp;amp; the FE guild Devoting time out to meetup regularly with my mentor(s) for a coffee Making a better effort to attend more local industry events &amp;amp; meetups such as NUX, UX&amp;amp;D as well as the great events being run within Auto Trader  Reading Taking part in GoodRead&amp;rsquo;s reading challenge.</description>

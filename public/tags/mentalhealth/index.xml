@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mentalhealth on gbbns.co</title>
-    <link>https://www.gbbns.co/tags/mentalhealth/</link>
+    <link>/tags/mentalhealth/</link>
     <description>Recent content in Mentalhealth on gbbns.co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 04 Oct 2016 08:30:00 +0100</lastBuildDate>
     
-	<atom:link href="https://www.gbbns.co/tags/mentalhealth/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/mentalhealth/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>You</title>
-      <link>https://www.gbbns.co/writing/you/</link>
+      <link>/writing/you/</link>
       <pubDate>Tue, 04 Oct 2016 08:30:00 +0100</pubDate>
       
-      <guid>https://www.gbbns.co/writing/you/</guid>
+      <guid>/writing/you/</guid>
       <description>770.6 miles, that was what was on the car&amp;rsquo;s milometer when I pulled up on the driveway after a week away.
 The family had been to Devon, we left the previous Friday to visit the “English Riviera”. My only previous encounter with the South Coast had been a visit to the New Forest before a week on the Isle of Wight. We loved that trip and it&amp;rsquo;s safe to say we enjoyed this.</description>
     </item>

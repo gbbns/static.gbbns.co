@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on gbbns.co</title>
-    <link>https://www.gbbns.co/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on gbbns.co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 16 Jan 2018 08:30:21 +0100</lastBuildDate>
     
-	<atom:link href="https://www.gbbns.co/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://www.gbbns.co/categories/about/</link>
+      <link>/categories/about/</link>
       <pubDate>Tue, 16 Jan 2018 08:30:21 +0100</pubDate>
       
-      <guid>https://www.gbbns.co/categories/about/</guid>
+      <guid>/categories/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blog</title>
-      <link>https://www.gbbns.co/categories/blog/</link>
+      <link>/categories/blog/</link>
       <pubDate>Tue, 16 Jan 2018 08:08:01 +0000</pubDate>
       
-      <guid>https://www.gbbns.co/categories/blog/</guid>
+      <guid>/categories/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coding</title>
-      <link>https://www.gbbns.co/categories/coding/</link>
+      <link>/categories/coding/</link>
       <pubDate>Tue, 15 Aug 2017 20:05:30 +0100</pubDate>
       
-      <guid>https://www.gbbns.co/categories/coding/</guid>
+      <guid>/categories/coding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Notes</title>
-      <link>https://www.gbbns.co/categories/notes/</link>
+      <link>/categories/notes/</link>
       <pubDate>Wed, 02 Aug 2017 18:22:41 +0100</pubDate>
       
-      <guid>https://www.gbbns.co/categories/notes/</guid>
+      <guid>/categories/notes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Now</title>
-      <link>https://www.gbbns.co/categories/now/</link>
+      <link>/categories/now/</link>
       <pubDate>Tue, 06 Feb 2018 08:30:00 +0100</pubDate>
       
-      <guid>https://www.gbbns.co/categories/now/</guid>
+      <guid>/categories/now/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Other</title>
-      <link>https://www.gbbns.co/categories/other/</link>
+      <link>/categories/other/</link>
       <pubDate>Thu, 01 Feb 2018 09:00:02 +0100</pubDate>
       
-      <guid>https://www.gbbns.co/categories/other/</guid>
+      <guid>/categories/other/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personal</title>
-      <link>https://www.gbbns.co/categories/personal/</link>
+      <link>/categories/personal/</link>
       <pubDate>Thu, 11 Jan 2018 09:42:32 +0000</pubDate>
       
-      <guid>https://www.gbbns.co/categories/personal/</guid>
+      <guid>/categories/personal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Speaking</title>
-      <link>https://www.gbbns.co/categories/speaking/</link>
+      <link>/categories/speaking/</link>
       <pubDate>Tue, 16 Jan 2018 08:30:21 +0100</pubDate>
       
-      <guid>https://www.gbbns.co/categories/speaking/</guid>
+      <guid>/categories/speaking/</guid>
       <description></description>
     </item>
     

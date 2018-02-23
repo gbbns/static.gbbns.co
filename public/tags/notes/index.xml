@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes on gbbns.co</title>
-    <link>https://www.gbbns.co/tags/notes/</link>
+    <link>/tags/notes/</link>
     <description>Recent content in Notes on gbbns.co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 02 Aug 2017 18:22:41 +0100</lastBuildDate>
     
-	<atom:link href="https://www.gbbns.co/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/notes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Today I Learnt</title>
-      <link>https://www.gbbns.co/notes/today-i-learnt/</link>
+      <link>/notes/today-i-learnt/</link>
       <pubDate>Wed, 02 Aug 2017 18:22:41 +0100</pubDate>
       
-      <guid>https://www.gbbns.co/notes/today-i-learnt/</guid>
+      <guid>/notes/today-i-learnt/</guid>
       <description>As hard and fast as modern life is, I think that it&amp;rsquo;s important to take time out of your schedule and make sure that you keep regular contact with friends. I like to think that I&amp;rsquo;m better than most at this. I do overthink the reasons why people don&amp;rsquo;t reciprocate this, but hey. People.</description>
     </item>
     

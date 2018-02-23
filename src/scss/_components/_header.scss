@@ -4,10 +4,14 @@
 }
 
 .site-info {
-	font-size: 42px;
+	font-size: 2rem;
 	font-weight: 900;
 	display: inline-block;
 	text-align: center;
+
+	@media screen and (min-width: 30em) {
+		font-size: 2.6rem;
+	}
 
 	&__title {
 		display: block;
@@ -22,7 +26,7 @@
 				content: '·';
 				display: inline-block;
 				position: absolute;
-				right: -8px;
+				right: -12px;
 			}
 		}
 	}

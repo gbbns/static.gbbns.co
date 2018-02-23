@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Update on gbbns.co</title>
-    <link>https://www.gbbns.co/tags/update/</link>
+    <link>/tags/update/</link>
     <description>Recent content in Update on gbbns.co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 02 Feb 2016 08:30:00 +0100</lastBuildDate>
     
-	<atom:link href="https://www.gbbns.co/tags/update/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/update/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome</title>
-      <link>https://www.gbbns.co/writing/welcome/</link>
+      <link>/writing/welcome/</link>
       <pubDate>Tue, 02 Feb 2016 08:30:00 +0100</pubDate>
       
-      <guid>https://www.gbbns.co/writing/welcome/</guid>
+      <guid>/writing/welcome/</guid>
       <description>So, after countless promises over the past few years, here we are!
 I&amp;rsquo;ve finally got round to sorting out my new site, it&amp;rsquo;s now running on Jekyll and is an absolute breeze to keep up to date.
 Hopefully as time progresses I&amp;rsquo;ll get round to adding a little more colour, as well as more blog posts - as I have plenty planned&amp;hellip;

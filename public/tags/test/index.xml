@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Test on gbbns.co</title>
-    <link>https://www.gbbns.co/tags/test/</link>
+    <link>/tags/test/</link>
     <description>Recent content in Test on gbbns.co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 06 Feb 2018 08:30:00 +0100</lastBuildDate>
     
-	<atom:link href="https://www.gbbns.co/tags/test/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/test/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Home</title>
-      <link>https://www.gbbns.co/</link>
+      <link>/</link>
       <pubDate>Tue, 06 Feb 2018 08:30:00 +0100</pubDate>
       
-      <guid>https://www.gbbns.co/</guid>
+      <guid>/</guid>
       <description>Hello hello. I&amp;rsquo;m Chris Gibbons, an experienced frontend developer based in Lancashire, UK. I build fast, user friendly and accessible websites for the automotive industry, with a particular passion/obsession for well written &amp;amp; clean code.
 I&amp;rsquo;ve got over a decades experience as a front end developer and have recently found a passion for UX and accessibility. My career has been spent working for some of the top businesses&amp;mdash;both agency and in-house&amp;mdash;in Manchester.</description>
     </item>
