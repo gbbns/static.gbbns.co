@@ -1,4 +1,4 @@
-baseURL                 = "https://www.gbbns.co"
+baseURL                 = "/"
 disablePathToLower      = false
 languageCode            = "en"
 title                   = "gbbns.co"
