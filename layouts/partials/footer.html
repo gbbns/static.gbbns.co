@@ -1,7 +1,17 @@
 <footer>
     <p><a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a></p>
 
-    <ul class="h-list">
+	<nav>
+		<ul class="h-list">
+			{{ range .Site.Menus.footer }}
+			<li class="h-list__item">
+				<a href="{{ .URL }}">{{ .Name }}</a>
+			</li>
+			{{ end }}
+		</ul>
+	</nav>
+
+    <ul class="h-list ">
         <li class="h-list__item">
             <a href="https://github.com/{{ .Site.Params.github }}">GitHub</a>
         </li>
@@ -18,16 +28,6 @@
             <a href="http://500px.com/{{ .Site.Params.fiveHundredPx }}">500px</a>
         </li>
     </ul>
-
-    <nav>
-        <ul class="h-list">
-            {{ range .Site.Menus.footer }}
-            <li class="h-list__item">
-                <a href="{{ .URL }}">{{ .Name }}</a>
-            </li>
-            {{ end }}
-        </ul>
-    </nav>
 
     <p>&copy; {{ .Date.Format "2006" }} {{ .Site.Params.Author }} - All rights reserved.</p>
 </footer>
