@@ -24,8 +24,8 @@ buildFuture             = false
   weight = 1
 
 [[menu.main]]
-  name   = "Now"
-  url    = "/now/"
+  name   = "Writing"
+  url    = "/writing/"
   weight = 2
 
 [[menu.main]]
@@ -34,15 +34,9 @@ buildFuture             = false
   weight = 3
 
 [[menu.main]]
-  name   = "Notes"
-  url    = "/notes/"
+  name   = "Contact"
+  url    = "/contact/"
   weight = 4
-
-[[menu.main]]
-  name   = "Writing"
-  url    = "/writing/"
-  weight = 5
-
 
 [[menu.footer]]
   name   = "Colophon"
@@ -50,19 +44,24 @@ buildFuture             = false
   weight = 1
 
 [[menu.footer]]
+  name   = "Now"
+  url    = "/now/"
+  weight = 2
+
+[[menu.footer]]
   name   = "Uses"
   url    = "/uses/"
-  weight = 2
+  weight = 3
 
 [[menu.footer]]
   name   = "Categories"
   url    = "/categories/"
-  weight = 3
+  weight = 4
 
 [[menu.footer]]
   name   = "Tags"
   url    = "/tags/"
-  weight = 4
+  weight = 5
 
 
 
