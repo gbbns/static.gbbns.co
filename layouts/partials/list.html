@@ -7,11 +7,10 @@
 				<a href="{{ .Permalink }}">
 					{{ .Title }}
 				</a>
-				<span>- {{ .Date.Format "Mon, 2 Jan, 2006" }}</span>
+				<span>- {{ .Date.Format "Mon, 2 Jan, 2006" }} [{{ .Type | humanize }}]</span>
 			</li>
 			{{ end }}
 		</ul>
-
 	{{ end }}
 
 	{{ range .Data.Pages.GroupByDate "2006" }}
@@ -23,7 +22,7 @@
 				<a href="{{ .Permalink }}">
 					{{ .Title }}
 				</a>
-				<span>- {{ .Date.Format "Mon, 2 Jan, 2006" }}</span>
+				<span>- {{ .Date.Format "Mon, 2 Jan, 2006" }} [{{ .Type | humanize }}]</span>
 			</li>
 			{{ end }}
 		</ul>
