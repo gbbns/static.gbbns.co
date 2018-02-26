@@ -1,17 +1,32 @@
-{{ $paginator := .Paginate (where .Data.Pages "Type" "article") 5 }}
-
 <section>
-    <article>
-        <ul class="v-list">
-            {{ range $paginator.Pages }}
-            <li class="v-list__item card">
-                <a href="{{ .Permalink }}" class="card__link">
-                    <h2>{{ .Title }} </h2>
-                    <p>{{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day}}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }} {{ .Date.Format "January 2006" }} &mdash; {{ .ReadingTime }} min read</p>
-                    <p>{{ .Summary }}</p>
-                </a>
-            </li>
-            {{ end }}
-        </ul>
-    </article>
+	{{ range first 1 (.Data.Pages.GroupByDate "2006") }}
+		<h2> Posted So Far in {{ .Key }}</h2>
+		<ul>
+			{{ range .Pages }}
+			<li>
+				<a href="{{ .Permalink }}">
+					{{ .Title }}
+				</a>
+				<span>- {{ .Date.Format "Mon, 2 Jan, 2006" }}</span>
+			</li>
+			{{ end }}
+		</ul>
+
+	{{ end }}
+
+	{{ range .Data.Pages.GroupByDate "2006" }}
+		{{ if ne .Key "2018" }}
+		<h3>{{ .Key }}</h3>
+		<ul>
+			{{ range .Pages }}
+			<li>
+				<a href="{{ .Permalink }}">
+					{{ .Title }}
+				</a>
+				<span>- {{ .Date.Format "Mon, 2 Jan, 2006" }}</span>
+			</li>
+			{{ end }}
+		</ul>
+		{{ end }}
+	{{ end }}
 </section>

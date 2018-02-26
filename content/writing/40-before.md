@@ -7,6 +7,7 @@ date = 2017-08-15T08:11:35+01:00
 description = ""
 type = ""
 author = "Chris Gibbons"
+section = "journal"
 +++
 
 I think it's been happening for a while, the slow realisation that age is _actually_ creeping up on me.
