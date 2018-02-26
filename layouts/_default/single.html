@@ -11,7 +11,9 @@
 
             <article>
                 <header class="article__main-header">
-                    <h1 class="heading--primary">{{ .Title }}</h1>
+					<h1 class="heading--primary">{{ .Title }}</h1>
+
+					{{ if eq .Params.Type "article" }}
                     <p>by {{ .Params.Author }} &centerdot; <time datetime="{{ .Date.Format "2006-01-02 15:04" }}">{{ .Date.Format "January 02, 2006" }}</time> &centerdot; {{ .ReadingTime }} min read</p>
 
                     <ul class="h-list article__meta-info">
@@ -19,7 +21,8 @@
 						{{ range .Params.tags }}
 							<li class="h-list__item"><a href="/tags/{{ . | urlize }}">{{ . | humanize}}</a></li>
 						{{ end }}
-                    </ul>
+					</ul>
+					{{ end }}
 
                 </header>
 
