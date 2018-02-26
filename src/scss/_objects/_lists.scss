@@ -1,13 +1,13 @@
 // Horizontal list //
 .h-list {
-	margin-top: 16px;
+	margin-top: $base-spacing * 2;
 
 	&__item {
 		display: inline-block;
 		list-style: none;
 
 		& + & {
-			margin-left: 16px;
+			margin-left: $base-spacing * 2;
 		}
 	}
 }
@@ -16,7 +16,7 @@
 .v-list {
 	&__item {
 		display: block;
-		margin-bottom: calc(16px / 2);
+		margin-bottom: calc(($base-spacing / 2) / 2);
 		margin-top: 0;
 		list-style: none;
 

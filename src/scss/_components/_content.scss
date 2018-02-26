@@ -1,7 +1,9 @@
 .article {
 	&__main-header {
 		// text-align: center;
-		margin-bottom: 16px;
+		width: 960px;
+		max-width: 100%;
+		margin: 0 auto $base-spacing * 2;
 	}
 
 	&__main-body {
@@ -18,7 +20,7 @@
 		}
 
 		h2, h3, h4 {
-			margin-top: 16px;
+			margin-top: $base-spacing * 2;
 		}
 	}
 
@@ -42,10 +44,10 @@
 
 	.h-list__item {
 		a {
-			padding: 4px 8px;
+			padding: 4px $base-spacing / 2;
 
 			@media screen and (min-width: 30em) {
-				padding: 8px 16px;
+				padding: $base-spacing / 2 $base-spacing * 2;
 			}
 		}
 	}

@@ -15,7 +15,7 @@ ul {
 	padding: 0;
 
 	ul, ol {
-		margin-left: 32px;
+		margin-left: $base-spacing * 4;
 	}
 }
 
@@ -25,15 +25,15 @@ h1, h2, h3, h4, h5 {
 }
 
 h1, h2 {
-	margin-bottom: 8px;
+	margin-bottom: $base-spacing;
 }
 
 h3, h4 {
-	margin-bottom: 4px;
+	margin-bottom: $base-spacing / 2;
 }
 
 h5 {
-	margin-bottom: 2px;
+	margin-bottom: $base-spacing / 3;
 }
 
 p {
@@ -42,7 +42,7 @@ p {
 
 ul {
 	margin-top: 0;
-	margin-bottom: 8px;
+	margin-bottom: $base-spacing;
 	padding-left: 1.25rem;
 
 	ul {
@@ -65,8 +65,8 @@ a {
 
 blockquote {
 	border-left: 6px solid;
-	padding-left: 16px;
-	margin-left: 16px;
+	padding-left: $base-spacing * 2;
+	margin-left: $base-spacing * 2;
 }
 
 p {
@@ -77,6 +77,6 @@ p {
 
 section {
 	& + & {
-		margin-top: 16px;
+		margin-top: $base-spacing * 2;
 	}
 }
