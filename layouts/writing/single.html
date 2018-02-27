@@ -15,7 +15,6 @@
 
                     <ul class="h-list">
 						<li class="h-list__item">Published in:</li>
-
                         {{ range .Params.tags }}
                             <li class="h-list__item"><a href="/tags/{{ . | urlize }}">{{ . | humanize}}</a></li>
                         {{ end }}

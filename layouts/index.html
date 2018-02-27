@@ -7,36 +7,36 @@
 
         {{ partial "header.html" . }}
 
-        <main role="main">
-            <section class="article__main-body">
+        <main role="main" class="article__main-body">
+            <section>
                 {{ .Content }}
             </section>
 
-            <section class="article__main-body">
+            <section>
 				<h2>Articles</h2>
 
                 <article class="card">
                     {{ range first 1 (where .Data.Pages "Type" "article") }}
-                    <h3>
+                    <h3 class="heading--primary">
                         <a href="{{ .Permalink }}">
                             {{ .Title }}
                         </a>
                     </h3>
-                    <p>{{ if isset .Params "excerpt" }}{{ .Params.excerpt }}{{ else }}{{ .Summary }}{{ end }}</p>
-                    <p>{{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day}}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }} {{ .Date.Format "January 2006" }}</p>
-                    {{ end }}
+					<p class="article__meta-info">by {{ .Params.Author }} &centerdot; <time datetime="{{ .Date.Format "2006-01-02 15:04" }}">{{ .Date.Format "January 02, 2006" }}</time> &centerdot; {{ .ReadingTime }} min read</p>
+					<p>{{ if isset .Params "excerpt" }}{{ .Params.excerpt }}{{ else }}{{ .Summary }}{{ end }}</p>
+					{{ end }}
                 </article>
 
                 <article>
                     <h3>Still fresh</h3>
-                    <ul class="v-list">
+                    <ul>
                         {{ range first 4 (after 1 (where .Data.Pages "Type" "article")) }}
-                        <li class="v-list__item">
+                        <li>
                             <a href="{{ .Permalink }}">
                                 {{ .Title }}
                             </a>
-                            <p>{{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day}}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }} {{ .Date.Format "January 2006" }}</p>
-                        </li>
+							<span><time datetime="{{ .Date.Format "2006-01-02 15:04" }}">{{ .Date.Format "Mon, 2 Jan, 2006" }}</time></span>
+						</li>
                         {{ end }}
                     </ul>
                 </article>
@@ -47,30 +47,29 @@
                 <h3>Latest notes</h3>
                 <article class="card">
                     {{ range first 1 (where .Data.Pages "Type" "note") }}
-                        <h3>
+                    	<h3 class="heading--primary">
                             <a href="{{ .Permalink }}">
                                 {{ .Title }}
                             </a>
-                        </h3>
-                        <p>{{ if isset .Params "excerpt" }}{{ .Params.excerpt }}{{ else }}{{ .Summary }}{{ end }}</p>
-                        <p>{{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day}}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }} {{ .Date.Format "January 2006" }}</p>
+						</h3>
+						<p class="article__meta-info">by {{ .Params.Author }} &centerdot; <time datetime="{{ .Date.Format "2006-01-02 15:04" }}">{{ .Date.Format "January 02, 2006" }}</time> &centerdot; {{ .ReadingTime }} min read</p>
+						<p>{{ if isset .Params "excerpt" }}{{ .Params.excerpt }}{{ else }}{{ .Summary }}{{ end }}</p>
                     {{ end }}
                 </article>
 
                 {{ $notes := where .Data.Pages "Type" "note" }}
 
-
                 {{ if gt 1 (len $notes) }}
                     <article>
                         <h3>Still fresh</h3>
-                        <ul class="v-list">
+                        <ul>
                         {{ range first 4 (after 1 (where .Data.Pages "Type" "note")) }}
-                            <li class="v-list__item">
+                            <li>
                                 <a href="{{ .Permalink }}">
                                     {{ .Title }}
                                 </a>
-                                <p>{{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day}}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }} {{ .Date.Format "January 2006" }}</p>
-                            </li>
+								<span><time datetime="{{ .Date.Format "2006-01-02 15:04" }}">{{ .Date.Format "Mon, 2 Jan, 2006" }}</time></span>
+							</li>
                         {{ end }}
                         </ul>
                     </article>
@@ -79,7 +78,8 @@
                     <article>
                         <p>That's your lot for now!</p>
                     </article>
-                {{ end }}
+				{{ end }}
+
             </section>
         </main>
 

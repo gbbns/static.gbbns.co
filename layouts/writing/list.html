@@ -8,8 +8,11 @@
         {{ partial "header.html" . }}
 
         <main role="main">
-            <h1>Articles</h1>
-            {{ partial "list.html" . }}
+			<header class="article__main-header">
+				<h1>Articles</h1>
+			</header>
+
+			{{ partial "list.html" . }}
 
         </main>
 
