@@ -9,4 +9,18 @@
 	&__link {
 		color: inherit;
 	}
+
+	.heading--primary {
+		font-size: 1.4rem;
+		margin-top: 0;
+		margin-bottom: $base-spacing / 2;
+	}
+
+	p {
+		&:first-of-type {
+			font-weight: 400;
+			font-size: inherit;
+			letter-spacing: inherit;
+		}
+	}
 }

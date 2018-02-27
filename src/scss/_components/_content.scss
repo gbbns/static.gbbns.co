@@ -14,21 +14,13 @@
 		padding: 2.5vw 5vw;
 		box-sizing: border-box;
 
-		p {
-			&:first-of-type {
-				font-size: 1.4rem;
-				font-weight: 600;
-				letter-spacing: -0.75px;
-			}
-		}
-
 		h2, h3, h4 {
 			margin-top: $base-spacing * 2;
 		}
 	}
 
 	&__meta-info {
-		color: hsla(0, 0, 0, 0.5);
+		color: rgba(0, 0, 0, 0.5);
 		font-size: 14px;
 		margin-top: 6px;
 		margin-bottom: 0;
