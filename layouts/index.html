@@ -8,12 +8,12 @@
         {{ partial "header.html" . }}
 
         <main role="main">
-            <section>
+            <section class="article__main-body">
                 {{ .Content }}
             </section>
 
-            <section>
-                <h2>Articles</h2>
+            <section class="article__main-body">
+				<h2>Articles</h2>
 
                 <article class="card">
                     {{ range first 1 (where .Data.Pages "Type" "article") }}

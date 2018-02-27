@@ -8,7 +8,9 @@
         {{ partial "header.html" . }}
 
         <main role="main">
-            {{ .Content }}
+			<section class="article__main-body">
+				{{ .Content }}
+			</section>
         </main>
 
         {{ partial "footer.html" . }}

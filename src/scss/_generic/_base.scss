@@ -4,10 +4,11 @@ html {
 }
 
 body {
+	background: rgba(218, 214, 214, 0.16);
 	font-size: 16px;
 	width: calc(100vw - 10vw);
 	margin: 0 auto;
-	color: rgba(0, 0, 0, 0.84);
+	color: rgba(0, 0, 0, 0.7);
 }
 
 ul {
@@ -22,6 +23,7 @@ ul {
 h1, h2, h3, h4, h5 {
 	font-weight: 900;
 	margin: 0;
+	color: rgba(0, 0, 0, 0.85);
 }
 
 h1, h2 {
@@ -64,9 +66,9 @@ a {
 }
 
 blockquote {
-	border-left: 6px solid;
-	padding-left: $base-spacing * 2;
-	margin-left: $base-spacing * 2;
+	border-left: 3px solid rgba(0, 0, 0, 0.25);
+	padding-left: $base-spacing;
+	margin-left: 0;
 }
 
 p {

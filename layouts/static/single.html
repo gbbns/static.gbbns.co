@@ -8,8 +8,10 @@
         {{ partial "header.html" . }}
 
         <main role="main">
-            {{ .Content }}
-            <p><em>This page was last updated on {{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day}}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }} {{ .Date.Format "January 2006" }}</em></p>
+			<section class="article__main-body">
+            	{{ .Content }}
+				<p><em>This page was last updated on {{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day}}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }} {{ .Date.Format "January 2006" }}</em></p>
+			</section>
         </main>
 
     {{ partial "footer.html" . }}

@@ -7,9 +7,12 @@
 	}
 
 	&__main-body {
+		background: #fff;
 		width: 960px;
 		max-width: 100%;
 		margin: 0 auto;
+		padding: 2.5vw 5vw;
+		box-sizing: border-box;
 
 		p {
 			&:first-of-type {
@@ -25,7 +28,7 @@
 	}
 
 	&__meta-info {
-		// color: rgba(0, 0, 0, 0.54);
+		color: hsla(0, 0, 0, 0.5);
 		font-size: 14px;
 		margin-top: 6px;
 		margin-bottom: 0;
