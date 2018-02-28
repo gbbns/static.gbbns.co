@@ -40,12 +40,6 @@ h5 {
 
 p {
 	margin-top: 0;
-
-	&:first-of-type {
-		font-size: 1.4rem;
-		font-weight: 600;
-		letter-spacing: -0.75px;
-	}
 }
 
 ul {
@@ -78,7 +72,7 @@ blockquote {
 
 	p {
 		font-weight: 500;
-		padding-left:$base-spacing;
+		padding-left: $base-spacing;
 		font-family: Georgia,Times,Times New Roman,serif;
 		letter-spacing: 0;
 		font-style: italic;
