@@ -2,16 +2,14 @@
 categories = "about"
 tags = ["about", "personal"]
 draft = false
-title = "About Chris Gibbons"
+title = "Who is 'Chris Gibbons'"
 date = 2018-01-16T08:30:21+01:00
 description = "About me - Chris Gibbons"
 type = "static"
 layout = "single"
 excerpt = ""
 +++
-# Who is &lsquo;Chris Gibbons&rsquo;?
-
-### A potted history
+## A potted history
 Chris Gibbons is an experienced digital developer specialising in front-end development, with a mild obsession for well written &amp; clean code.
 
 He also hates speaking about himself in the third person.

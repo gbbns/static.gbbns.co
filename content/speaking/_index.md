@@ -8,8 +8,6 @@ description = "Speaking"
 type = "static"
 layout = "single"
 +++
-# Speaking
-
 ## Upcoming talks
 * <a href="https://www.meetup.com/frontenders-valtech/events/247610703/" rel="noopener">Front Enders - Thursday 15th March - London: "TBC"</a>
 *
