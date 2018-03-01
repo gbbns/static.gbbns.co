@@ -7,6 +7,8 @@ enableRobotsTXT         = true
 watch                   = true
 buildDrafts             = false
 buildFuture             = false
+pluralizeListTitles		= false
+
 [blackfriday]
     laxHtmlBlocks       = true
 
@@ -17,6 +19,7 @@ buildFuture             = false
 [taxonomies]
     tag                 = "tags"
     category            = "categories"
+	writings			= "writing"
 
 [[menu.main]]
   name   = "About"
