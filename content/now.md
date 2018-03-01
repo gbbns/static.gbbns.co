@@ -2,13 +2,12 @@
 categories = "now"
 tags = ["now"]
 draft = false
-title = "What I'm doing now"
+title = "What I’m doing now"
 date = 2018-02-06T08:30:00+01:00
 description = ""
 type = "static"
 layout = "single"
 +++
-# What I’m doing now
 
 Life is a hectic affair; To help keep me sane and to give me some guidance, these are my current areas of focus:
 

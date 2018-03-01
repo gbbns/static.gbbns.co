@@ -2,7 +2,7 @@
 categories = "personal"
 tags = ["personal"]
 draft = false
-title = "Colophon"
+title = "Colophon: gbbns.co"
 date = 2017-07-03T08:30:00+01:00
 description = ""
 type = "page"

@@ -2,7 +2,7 @@
 categories = "personal"
 tags = ["personal"]
 draft = false
-title = "Contact"
+title = "Get in touch"
 date = 2018-02-26T09:51:49Z
 description = ""
 type = "page"
@@ -10,7 +10,6 @@ excerpt = ""
 author = "Chris Gibbons"
 +++
 
-## Get in touch
 Whether you have a question you'd like to ask, a request for me to speak at your event or you want me to help with FE or consult on your project then feel free to get in touch.
 
 I normally respond the quickest on Twitter, so I'd recommend hitting my up on there for quick questions or to chat (DM's are open).

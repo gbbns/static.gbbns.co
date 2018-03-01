@@ -2,7 +2,7 @@
 categories = "other"
 tags = ["uses", "other"]
 draft = false
-title = "Uses"
+title = "What tools I use on a day to day basis"
 date = 2018-02-01T09:00:02+01:00
 description = "What tools I use on a day to day basis"
 type = "page"
