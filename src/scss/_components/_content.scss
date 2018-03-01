@@ -1,6 +1,5 @@
 .article {
 	&__main-header {
-		// text-align: center;
 		width: 960px;
 		max-width: 100%;
 		margin: 0 auto $base-spacing * 2;
@@ -18,13 +17,12 @@
 			margin-top: $base-spacing * 2;
 		}
 
-		p {
+		p:not(.article__meta-info) {
 			&:first-of-type {
 				font-size: 1.4rem;
 				font-weight: 600;
 				letter-spacing: -0.75px;
 			}
-
 		}
 
 		.article__meta-info {
@@ -39,10 +37,6 @@
 
 	&__meta-info {
 		color: rgba(0, 0, 0, 0.5);
-		// font-size: 14px;
-		// margin-top: 6px;
-		// margin-bottom: 0;
-		// padding-left: 0;
 		font-weight: 400;
 		font-size: 0.875rem;
 		letter-spacing: inherit;
