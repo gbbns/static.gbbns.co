@@ -53,6 +53,17 @@ Due to the fact that I have a 4hr commute (~2hrs each way) I like to keep a char
 
 Keeping on the commute subject, I try to dip into reading when I can-or when I get motivated- so the obvious choice, aside from physical books, was to get an [Amazon Kindle Paperwhite](https://www.amazon.co.uk/Amazon-Kindle-Paperwhite-6-Inch-4GB-E-Reader/dp/B00QJDO0QC/ref=sr_1_1?s=electronics&ie=UTF8&qid=1505463193&sr=1-1&keywords=kindle+paperwhite)
 
+### Coffee
+Coffee has become an integral part of my day, not just because _caffeine_ but because I really enjoy it.
+
+My current kit consists of:
+
+* [Aerobie AeroPress](https://www.amazon.co.uk/Aerobie-AeroPress-80R11-Coffee-Maker/dp/B000GXZ2GS/)
+* [Porlex hand grinder](https://www.amazon.co.uk/Porlex-Mini-Hand-Coffee-Grinder/dp/B01B77O8FM)
+* [KeepCup](https://www.amazon.co.uk/KeepCup-Brew-12oz-Medium-Cocoa/dp/B01D8IPRA8/)
+
+With my coffee choices varying, but usually from either [ManCoCo](http://mancoco.co.uk/) or [Atkinsons](https://thecoffeehopper.com/).
+
 ### Stationery
 Currently rocking the [Nock Brasstown](http://nockco.com/cases/brasstown) pencil case. It's amazing. It wasn't cheap -- as I had to get it imported, then had to pay import duty on it :( -- but it's totally worth it, and always gets noticed.
 
@@ -61,7 +72,6 @@ I love to write in the superb [Leuchtturm 1917](https://www.leuchtturm1917.co.uk
 I write with either [Pilot G-tec C4](https://www.amazon.co.uk/Pilot-Microtip-Rollerball-Black-Pack/dp/B008LUQX9S) or the [Muji gel ink pens](https://www.muji.eu/pages/online.asp?Sec=13&Sub=52) though my ultimate goal is a [Mont Blanc](http://www.montblanc.com/en-gb/home.html)
 
 ### Bags
-
 * [Home of Millican](https://www.homeofmillican.com/) :
  * [Smith the roll pack - 25l](https://www.homeofmillican.com/collections/maverick-collection/products/the-mavericks-smith-the-roll-pack-25l-slate#product)
  * [Rob the traveller](https://vimeo.com/47250849)
