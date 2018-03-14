@@ -16,5 +16,5 @@ I normally respond the quickest on Twitter, so I'd recommend hitting my up on th
 
 If you want to discuss a project, me working with you, speaking, or something longer, then please email me - though don’t be offended if it takes a day or so to reply!
 
-[Twitter -  @_gbbns](https://www.twitter.com/_gbbns)
-[Email - chris@gbbns.co](chris@gbbns.co)
+* [Twitter -  @_gbbns](https://www.twitter.com/_gbbns)
+* [Email - chris@gbbns.co](mailto:chris@gbbns.co)
