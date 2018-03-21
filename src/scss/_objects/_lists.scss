@@ -14,6 +14,8 @@
 
 //	Vertical list //
 .v-list {
+	padding-left: 0;
+
 	&__item {
 		display: block;
 		margin-bottom: calc(($base-spacing / 2) / 2);

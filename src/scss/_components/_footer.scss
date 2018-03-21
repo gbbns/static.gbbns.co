@@ -1,0 +1,11 @@
+.footer {
+	&__main-content {
+		width: 960px;
+		max-width: 100%;
+		margin: 0 auto $base-spacing * 2;
+	}
+
+	.h-list {
+		padding-left: 0;
+	}
+}

@@ -32,4 +32,11 @@
 		margin-bottom: 8px;
 		padding-left: 0;
 	}
+
+	&--message {
+		background: #ffd5d1;
+		box-shadow: none;
+		border: 1px solid #c90d00;
+		margin-top: $base-spacing * 2;
+	}
 }
