@@ -8,14 +8,14 @@ description = "What tools I use on a day to day basis"
 type = "page"
 layout = "single"
 +++
-Sometimes I get asked what 'what make is that', 'where did you get that from' or just what tools etc. I use day to day, and after reading the [page of at Wes Bos' site](http://wesbos.com/uses) I thought I'd shamelessly copy the format :)
+Sometimes I get asked what 'what make is that', 'where did you get that from' or just what tools etc. I use day to day, and after reading the [uses page of at Wes Bos' site](http://wesbos.com/uses) I thought I'd shamelessly copy the format :)
 
 ## Editor + Terminal
 Currently using [VS Code](https://code.visualstudio.com/), yes I have tried [Sublime](https://www.sublimetext.com/3), [Atom](https://atom.io/) et al. but I keep finding myself heading back to VS Code. I love the speed of it, I love the extensions, but overall after 8+ years of using the [grown up Visual Studio](https://www.visualstudio.com/) it feels very familiar.
 
 Until recently (the last 3 or so years) I've never really done things via the command line, however I now use [iTerm2](https://www.iterm2.com/) with [Oh My ZSH](http://ohmyz.sh/)
 
-## Desktop Apps
+## Apps
 
 * Sketch & Zeplin
 * Spotify
@@ -24,11 +24,11 @@ Until recently (the last 3 or so years) I've never really done things via the co
 * Photoshop
 * Lightroom
 * Chrome
-* TweetDeck (OK, I know it's not strictly a desktop app...)
+* TweetDeck
 * DropBox
 
 ## Desk Setup
-I'm yet to find a desk I truly love -- either to buy or to build -- so in the meantime I have the [IKEA Malm desk with pull out panel](http://www.ikea.com/gb/en/products/desks/desk-computer-desks/malm-desk-with-pull-out-panel-oak-veneer-art-00214181/)
+I'm yet to find a desk I truly love -- either to buy or to build -- so in the meantime I have the [IKEA Malm desk with pull out panel](http://www.ikea.com/gb/en/products/desks/desk-computer-desks/malm-desk-with-pull-out-panel-oak-veneer-art-00214181/) which, I have to say, I am super impressed with.
 
 I sit on an [IKEA MARKUS](http://www.ikea.com/gb/en/products/chairs-stools-benches/office-chairs/markus-swivel-chair-glose-black-art-20103101/) which I was lucky enough to get free in an office clearance.
 
@@ -51,7 +51,7 @@ My current list is:
 
 Due to the fact that I have a 4hr commute (~2hrs each way) I like to keep a charge on me all the time, enter the [Anker PowerCore 20100](https://www.amazon.co.uk/Anker-PowerCore-20100-Capacity-Technology-Black/dp/B00VJSGT2A) it suits my requirements to the ground, gives me numerous charges for my various devices and weighs pretty much nothing.
 
-Keeping on the commute subject, I try to dip into reading when I can-or when I get motivated- so the obvious choice, aside from physical books, was to get an [Amazon Kindle Paperwhite](https://www.amazon.co.uk/Amazon-Kindle-Paperwhite-6-Inch-4GB-E-Reader/dp/B00QJDO0QC/ref=sr_1_1?s=electronics&ie=UTF8&qid=1505463193&sr=1-1&keywords=kindle+paperwhite)
+Keeping on the commute subject, I try to dip into reading when I can -- or when I get motivated _- so the obvious choice, aside from physical books, was to get an [Amazon Kindle Paperwhite](https://www.amazon.co.uk/Amazon-Kindle-Paperwhite-6-Inch-4GB-E-Reader/dp/B00QJDO0QC/ref=sr_1_1?s=electronics&ie=UTF8&qid=1505463193&sr=1-1&keywords=kindle+paperwhite)
 
 ### Coffee
 Coffee has become an integral part of my day, not just because _caffeine_ but because I really enjoy it.
@@ -72,6 +72,7 @@ I love to write in the superb [Leuchtturm 1917](https://www.leuchtturm1917.co.uk
 I write with either [Pilot G-tec C4](https://www.amazon.co.uk/Pilot-Microtip-Rollerball-Black-Pack/dp/B008LUQX9S) or the [Muji gel ink pens](https://www.muji.eu/pages/online.asp?Sec=13&Sub=52) though my ultimate goal is a [Mont Blanc](http://www.montblanc.com/en-gb/home.html)
 
 ### Bags
+
 * [Home of Millican](https://www.homeofmillican.com/) :
  * [Smith the roll pack - 25l](https://www.homeofmillican.com/collections/maverick-collection/products/the-mavericks-smith-the-roll-pack-25l-slate#product)
  * [Rob the traveller](https://vimeo.com/47250849)
