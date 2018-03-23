@@ -4,11 +4,11 @@ html {
 }
 
 body {
-	background: rgba(218, 214, 214, 0.16);
+	background: #fac800;
 	font-size: 16px;
 	width: calc(100vw - 10vw);
 	margin: 0 auto;
-	color: rgba(0, 0, 0, 0.7);
+	color: #333;
 }
 
 ul {
@@ -23,7 +23,7 @@ ul {
 h1, h2, h3, h4, h5 {
 	font-weight: 900;
 	margin: 0;
-	color: rgba(0, 0, 0, 0.85);
+	color: rgba(#333, 1);
 }
 
 h1, h2 {
@@ -53,6 +53,7 @@ ul {
 }
 
 a {
+	color: rgba(#333, 0.95);
 	text-decoration: none;
 
 	&:hover {
