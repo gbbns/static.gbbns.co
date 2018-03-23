@@ -34,9 +34,9 @@
 	}
 
 	&--message {
-		background: #ffd5d1;
+		background: rgba(#f4cf5b, 1);
 		box-shadow: none;
-		border: 1px solid #c90d00;
+		border: 1px solid #333;
 		margin-top: $base-spacing * 2;
 	}
 }
