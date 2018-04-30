@@ -1,0 +1,18 @@
+[role="navigation"] {
+	.h-list {
+		padding: 0;
+	}
+	.h-list__item {
+		a {
+			display: block;
+			padding: 3vw;
+			@media screen and (min-width: 30em) {
+				padding: $base-spacing / 2 $base-spacing * 2;
+			}
+		}
+	}
+	.h-list__item+.h-list__item {
+		// border-left: 1px solid #c1c1c1;
+		margin-left: 0;
+	}
+}
