@@ -9,7 +9,7 @@ type = "static"
 layout = "single"
 +++
 ## Upcoming talks
-* <a href="https://www.wearesigma.com/campdigital/2018/chris-gibbons/" rel="noopener">UX Scotland - 14th June 2018 - Edinburgh: "How we became accidental accessibility champions, and how you could too!"</a>
+* <a href="https://uxscotland.net/2018/sessions/index.php?session=93" rel="noopener">UX Scotland - 14th June 2018 - Edinburgh: "How we became accidental accessibility champions, and how you could too!"</a>
 
 ## Previous talks
 * <a href="https://www.meetup.com/frontenders-valtech/events/247610703/" rel="noopener">Front Enders - Thursday 15th March - London: "Our adventures with pattern libraries"</a>
