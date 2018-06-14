@@ -50,27 +50,23 @@ That _really_ sums up my current feelings to FE and my position.
 
 <div class="footnote">
     <blockquote>
-        <p>A dabbler of HTML5, CSS3, JS; Tinkerer of mobile first &amp; RWD; Drinker of coffee; Maker of cakes; Not necessarily in that order.</p>
+        <p>A dabbler of HTML, CSS, JS. Tinkerer of mobile &amp; RWD; Drinker of coffee; Baker of cakes.</p>
     </blockquote>
 
-<h5>Specialties:</h5>
+	<h5>Specialties:</h5>
 
-<ul class="h-list">
-    <li class="h-list__item">Front-end development</li>
-    <li class="h-list__item">UI/UX</li>
-    <li class="h-list__item">Mobile</li>
-    <li class="h-list__item">Responsive</li>
-    <li class="h-list__item">HTML5</li>
-    <li class="h-list__item">CSS3</li>
-    <li class="h-list__item">Sass</li>
-    <li class="h-list__item">JavaScript (jQuery)</li>
-    <li class="h-list__item">Gulp</li>
-    <li class="h-list__item">basic Node.js</li>
-    <li class="h-list__item">SEO</li>
-    <li class="h-list__item">Web Standards</li>
-    <li class="h-list__item">Cross browser testing</li>
-    <li class="h-list__item">A/B testing</li>
-</ul>
+	<ul class="h-list">
+		<li class="h-list__item">Frontend development</li>
+		<li class="h-list__item">UI/UX</li>
+		<li class="h-list__item">Mobile-first</li>
+		<li class="h-list__item">HTML</li>
+		<li class="h-list__item">CSS (Sass)</li>
+		<li class="h-list__item">Web Standards</li>
+		<li class="h-list__item">Accessibility</li>
+		<li class="h-list__item">Usability</li>
+		<li class="h-list__item">Cross browser testing</li>
+		<li class="h-list__item">A/B testing.</li>
+	</ul>
 
 </div>
 
