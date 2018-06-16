@@ -16,8 +16,8 @@ I'd love to get peoples feedback on some of the topics mentioned below; I also i
 ## Initial topics include:
 
 * Fullstack: The myth and the bullshit.
-* [End of year -- 2017 -- review](writing/2017-review/)
-* [Goals and plans for 2018](writing/2018-preview/)
+* [End of year -- 2017 -- review](/writing/2017-review)
+* [Goals and plans for 2018](/writing/2018-preview)
 * Accessibility at Auto Trader
 * Breaking into public speaking
 * Digital detox - My "dry" january
