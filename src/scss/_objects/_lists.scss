@@ -18,7 +18,7 @@
 
 	&__item {
 		display: block;
-		margin-bottom: calc(($base-spacing / 2) / 2);
+		margin-bottom: $base-spacing;
 		margin-top: 0;
 		list-style: none;
 

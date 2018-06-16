@@ -2,8 +2,8 @@
 categories = "about"
 tags = ["about", "personal"]
 draft = false
-title = "Who is 'Chris Gibbons'"
-date = 2018-06-14T08:30:21+01:00
+title = "Who is this 'Chris Gibbons' guy then?"
+date = 2018-06-16T08:30:21+01:00
 description = "About me - Chris Gibbons"
 type = "static"
 layout = "single"
@@ -46,28 +46,3 @@ But it was the following:
 >You also need to find that special someone who appreciates design and wants to be a member of the UX team.
 
 That _really_ sums up my current feelings to FE and my position.
-#### Footnote
-
-<div class="footnote">
-    <blockquote>
-        <p>A dabbler of HTML, CSS, JS. Tinkerer of mobile &amp; RWD; Drinker of coffee; Baker of cakes.</p>
-    </blockquote>
-
-	<h5>Specialties:</h5>
-
-	<ul class="h-list">
-		<li class="h-list__item">Frontend development</li>
-		<li class="h-list__item">UI/UX</li>
-		<li class="h-list__item">Mobile-first</li>
-		<li class="h-list__item">HTML</li>
-		<li class="h-list__item">CSS (Sass)</li>
-		<li class="h-list__item">Web Standards</li>
-		<li class="h-list__item">Accessibility</li>
-		<li class="h-list__item">Usability</li>
-		<li class="h-list__item">Cross browser testing</li>
-		<li class="h-list__item">A/B testing.</li>
-	</ul>
-
-</div>
-
-</div>

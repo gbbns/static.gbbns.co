@@ -11,6 +11,7 @@ import postcss from 'gulp-postcss'
 import reporter from 'postcss-reporter'
 import syntax_scss from 'postcss-scss'
 import stylelint from 'stylelint'
+import  critical from'critical'
 
 const $ = gulpLoadPlugins()
 const browserSync = require('browser-sync').create()
@@ -21,6 +22,27 @@ const onError = (err) => {
 }
 
 // --
+critical.generate({
+	base: "test/",
+	src: "index.html",
+	dest: "styles/main.css",
+	width: 1300,
+	height: 900
+});
+
+gulp.task("critical", ["build"], function(cb) {
+	critical.generate({
+		inline: true,
+		base: "dist/",
+		src: "index.html",
+		dest: "dist/index-critical.html",
+		width: 320,
+		height: 480,
+		minify: true
+	});
+});
+
+
 
 gulp.task('server', ['build'], () => {
     gulp.start('init-watch')

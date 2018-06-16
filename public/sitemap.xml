@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/writing/upcoming-blog-post-ideas/</loc>
+    <lastmod>2018-06-16T08:08:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2018-06-16T08:30:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/speaking/</loc>
+    <lastmod>2018-06-14T08:30:21+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/contact/</loc>
     <lastmod>2018-02-26T09:51:49+00:00</lastmod>
   </url>
@@ -15,21 +30,6 @@
   <url>
     <loc>/uses/</loc>
     <lastmod>2018-02-01T09:00:02+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/writing/upcoming-blog-post-ideas/</loc>
-    <lastmod>2018-01-16T08:08:01+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/speaking/</loc>
-    <lastmod>2018-01-16T08:30:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-    <lastmod>2018-01-16T08:30:21+01:00</lastmod>
   </url>
   
   <url>
@@ -119,31 +119,31 @@
   
   <url>
     <loc>/tags/about/</loc>
-    <lastmod>2018-01-16T08:30:21+01:00</lastmod>
+    <lastmod>2018-06-16T08:30:21+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/about/</loc>
-    <lastmod>2018-01-16T08:30:21+01:00</lastmod>
+    <lastmod>2018-06-16T08:30:21+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/blog/</loc>
-    <lastmod>2018-01-16T08:08:01+00:00</lastmod>
+    <lastmod>2018-06-16T08:08:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/blog/</loc>
-    <lastmod>2018-01-16T08:08:01+00:00</lastmod>
+    <lastmod>2018-06-16T08:08:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2018-01-16T08:30:21+01:00</lastmod>
+    <lastmod>2018-06-16T08:30:21+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -155,7 +155,7 @@
   
   <url>
     <loc>/tags/future/</loc>
-    <lastmod>2018-01-16T08:08:01+00:00</lastmod>
+    <lastmod>2018-06-16T08:08:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -167,7 +167,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-02-26T09:51:49+00:00</lastmod>
+    <lastmod>2018-06-16T08:08:01+00:00</lastmod>
   </url>
   
   <url>
@@ -232,7 +232,7 @@
   
   <url>
     <loc>/tags/personal/</loc>
-    <lastmod>2018-02-26T09:51:49+00:00</lastmod>
+    <lastmod>2018-06-16T08:30:21+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -244,7 +244,7 @@
   
   <url>
     <loc>/tags/plans/</loc>
-    <lastmod>2018-01-16T08:08:01+00:00</lastmod>
+    <lastmod>2018-06-16T08:08:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -256,25 +256,25 @@
   
   <url>
     <loc>/tags/speaking/</loc>
-    <lastmod>2018-01-16T08:30:21+01:00</lastmod>
+    <lastmod>2018-06-14T08:30:21+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/speaking/</loc>
-    <lastmod>2018-01-16T08:30:21+01:00</lastmod>
+    <lastmod>2018-06-14T08:30:21+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2018-01-16T08:30:21+01:00</lastmod>
+    <lastmod>2018-06-16T08:30:21+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/test/</loc>
-    <lastmod>2018-02-26T09:51:49+00:00</lastmod>
+    <lastmod>2018-06-16T08:08:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -304,7 +304,7 @@
   
   <url>
     <loc>/writing/</loc>
-    <lastmod>2018-01-16T08:08:01+00:00</lastmod>
+    <lastmod>2018-06-16T08:08:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   

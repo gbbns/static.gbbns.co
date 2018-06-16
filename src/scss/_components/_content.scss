@@ -3,14 +3,19 @@
 		width: 960px;
 		max-width: 100%;
 		margin: 0 auto $base-spacing * 2;
+
+		& ~ .article__main-body {
+			padding-top: 0;
+		}
 	}
 
 	&__main-body {
 		background: #fff;
+		border-radius: 4px;
 		width: 960px;
 		max-width: 100%;
 		margin: 0 auto;
-		padding: 2.5vw 5vw;
+		padding: $base-spacing * 3;
 		box-sizing: border-box;
 
 		h2, h3, h4 {
@@ -43,6 +48,18 @@
 		margin-top: 0;
 		margin-bottom: 8px;
 		padding-left: 0;
+	}
+
+	&__meta-tag {
+		background: #e4e4e4;
+		padding: $base-spacing / 2;
+		border-radius: 4px;
+		font-size: 0.6rem;
+		text-transform: uppercase;
+
+		&--article {
+			background: #fac800;
+		}
 	}
 
 	&__foot-note {

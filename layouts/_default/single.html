@@ -20,7 +20,9 @@
 						<ul class="h-list article__meta-info">
 							<li class="h-list__item">Published in:</li>
 							{{ range .Params.tags }}
-								<li class="h-list__item"><a href="/tags/{{ . | urlize }}">{{ . | humanize}}</a></li>
+							<li class="h-list__item">
+								<a class="article__meta-tag" href="/tags/{{ . | urlize }}">{{ . | humanize}}</a>
+							</li>
 							{{ end }}
 						</ul>
 						{{ end }}

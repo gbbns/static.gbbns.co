@@ -1,13 +1,15 @@
 <section class="article__main-body">
 	{{ range first 1 (.Data.Pages.GroupByDate "2006") }}
 		<h2> Posted So Far in {{ .Key }}</h2>
-		<ul>
+		<ul class="v-list">
 			{{ range .Pages }}
-			<li>
+			<li class="v-list__item">
 				<a href="{{ .Permalink }}">
 					{{ .Title }}
 				</a>
-				<span>- {{ .Date.Format "Mon, 2 Jan, 2006" }} [{{ .Type | humanize }}]</span>
+				<span>- {{ .Date.Format "Mon, 2 Jan, 2006" }}
+					<span class="article__meta-tag article__meta-tag--article">{{ .Type | humanize }}</span>
+				</span>
 			</li>
 			{{ end }}
 		</ul>
@@ -16,13 +18,15 @@
 	{{ range .Data.Pages.GroupByDate "2006" }}
 		{{ if ne .Key "2018" }}
 		<h3>{{ .Key }}</h3>
-		<ul>
+		<ul class="v-list">
 			{{ range .Pages }}
-			<li>
+			<li class="v-list__item">
 				<a href="{{ .Permalink }}">
 					{{ .Title }}
 				</a>
-				<span>- {{ .Date.Format "Mon, 2 Jan, 2006" }} [{{ .Type | humanize }}]</span>
+				<span>- {{ .Date.Format "Mon, 2 Jan, 2006" }}
+					<span class="article__meta-tag article__meta-tag--article">{{ .Type | humanize }}</span>
+				</span>
 			</li>
 			{{ end }}
 		</ul>

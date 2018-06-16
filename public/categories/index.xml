@@ -6,7 +6,7 @@
     <description>Recent content in Categories on gbbns.co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jan 2018 08:30:21 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 16 Jun 2018 08:30:21 +0100</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>About</title>
       <link>/categories/about/</link>
-      <pubDate>Tue, 16 Jan 2018 08:30:21 +0100</pubDate>
+      <pubDate>Sat, 16 Jun 2018 08:30:21 +0100</pubDate>
       
       <guid>/categories/about/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Blog</title>
       <link>/categories/blog/</link>
-      <pubDate>Tue, 16 Jan 2018 08:08:01 +0000</pubDate>
+      <pubDate>Sat, 16 Jun 2018 08:08:01 +0000</pubDate>
       
       <guid>/categories/blog/</guid>
       <description></description>
@@ -77,7 +77,7 @@
     <item>
       <title>Speaking</title>
       <link>/categories/speaking/</link>
-      <pubDate>Tue, 16 Jan 2018 08:30:21 +0100</pubDate>
+      <pubDate>Thu, 14 Jun 2018 08:30:21 +0100</pubDate>
       
       <guid>/categories/speaking/</guid>
       <description></description>

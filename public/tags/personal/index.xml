@@ -6,10 +6,30 @@
     <description>Recent content in Personal on gbbns.co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Feb 2018 09:51:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Jun 2018 08:30:21 +0100</lastBuildDate>
     
 	<atom:link href="/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Who is this &#39;Chris Gibbons&#39; guy then?</title>
+      <link>/about/</link>
+      <pubDate>Sat, 16 Jun 2018 08:30:21 +0100</pubDate>
+      
+      <guid>/about/</guid>
+      <description>A potted history Chris Gibbons is an experienced digital developer specialising in front-end development, with a mild obsession for well written &amp;amp; clean code.
+He also hates speaking about himself in the third person.
+After working with the amazing guys at Code Computerlove for nearly 8 years, working my way up to Snr. Front End developer, I then spent the next 12 months working as a UI engineer at Zuto where I enjoyed the challenge of trying to build a bridge between front-end and UX in the world of car finance.</description>
+    </item>
+    
+    <item>
+      <title>Speaking events</title>
+      <link>/speaking/</link>
+      <pubDate>Thu, 14 Jun 2018 08:30:21 +0100</pubDate>
+      
+      <guid>/speaking/</guid>
+      <description>Upcoming talks  UX Scotland - 14th June 2018 - Edinburgh: &amp;ldquo;How we became accidental accessibility champions, and how you could too!&amp;rdquo;  Previous talks  Front Enders - Thursday 15th March - London: &amp;ldquo;Our adventures with pattern libraries&amp;rdquo; Camp Digital - 2nd May 2018 - Manchester: &amp;ldquo;Accidentally becoming accessibility champions&amp;rdquo;  Please send me an email if you’d like me to speak at your event.</description>
+    </item>
     
     <item>
       <title>Get in touch</title>
@@ -20,26 +40,6 @@
       <description>Whether you have a question you&amp;rsquo;d like to ask, a request for me to speak at your event or you want me to help with FE or consult on your project then feel free to get in touch.
 I normally respond the quickest on Twitter, so I&amp;rsquo;d recommend hitting me up on there for quick questions or to chat (DM&amp;rsquo;s are open).
 If you want to discuss a project, me working with you, speaking, or something longer, then please email me - though don’t be offended if it takes a day or so to reply!</description>
-    </item>
-    
-    <item>
-      <title>Speaking events</title>
-      <link>/speaking/</link>
-      <pubDate>Tue, 16 Jan 2018 08:30:21 +0100</pubDate>
-      
-      <guid>/speaking/</guid>
-      <description>Upcoming talks  Front Enders - Thursday 15th March - London: &amp;ldquo;TBC&amp;rdquo; * Camp Digital - 2nd May 2018 - Manchester: &amp;ldquo;Accidentally becoming accessibility champions&amp;rdquo;  Please send me an email if you’d like me to speak at your event.</description>
-    </item>
-    
-    <item>
-      <title>Who is &#39;Chris Gibbons&#39;</title>
-      <link>/about/</link>
-      <pubDate>Tue, 16 Jan 2018 08:30:21 +0100</pubDate>
-      
-      <guid>/about/</guid>
-      <description>A potted history Chris Gibbons is an experienced digital developer specialising in front-end development, with a mild obsession for well written &amp;amp; clean code.
-He also hates speaking about himself in the third person.
-After working with the amazing guys at Code Computerlove for nearly 8 years, working my way up to Snr. Front End developer, I then spent the next 12 months working as a UI engineer at Zuto where I enjoyed the challenge of trying to build a bridge between front-end and UX in the world of car finance.</description>
     </item>
     
     <item>
