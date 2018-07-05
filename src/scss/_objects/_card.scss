@@ -34,9 +34,10 @@
 	}
 
 	&--message {
-		background: rgba(#f4cf5b, 1);
-		box-shadow: none;
-		border: 1px solid #333;
-		margin-top: $base-spacing * 2;
+		box-shadow: 0 1.2rem 3.6rem rgba(0, 0, 0, 0.2);
+		border: 1px solid rgba(0, 0, 0, 0.2);
+		border-radius: 0.6rem;
+		margin-top: $base-spacing * 3;
+		margin-bottom: $base-spacing * 4;
 	}
 }

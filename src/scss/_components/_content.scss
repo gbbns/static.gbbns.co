@@ -11,14 +11,16 @@
 
 	&__main-body {
 		background: #fff;
-		border-radius: 4px;
+		border-radius: 0.6rem;
 		width: 960px;
 		max-width: 100%;
 		margin: 0 auto;
-		padding: $base-spacing * 3;
+		padding: $base-spacing * 2 $base-spacing * 3;
 		box-sizing: border-box;
+		box-shadow: 0 1.2rem 3.6rem rgba(0, 0, 0, 0.2);
 
 		h2, h3, h4 {
+			font-weight: 800;
 			margin-top: $base-spacing * 2;
 		}
 
@@ -65,7 +67,7 @@
 	&__foot-note {
 		font-size: 0.875rem;
 		font-weight: 800;
-		margin-top: $base-spacing;
+		margin-top: $base-spacing * 3;
 	}
 }
 

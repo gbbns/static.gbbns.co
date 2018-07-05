@@ -6,7 +6,7 @@
     <description>Recent content in About on gbbns.co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 16 Jun 2018 08:30:21 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jul 2018 12:30:21 +0100</lastBuildDate>
     
 	<atom:link href="/categories/about/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,12 +14,13 @@
     <item>
       <title>Who is this &#39;Chris Gibbons&#39; guy then?</title>
       <link>/about/</link>
-      <pubDate>Sat, 16 Jun 2018 08:30:21 +0100</pubDate>
+      <pubDate>Wed, 04 Jul 2018 12:30:21 +0100</pubDate>
       
       <guid>/about/</guid>
-      <description>A potted history Chris Gibbons is an experienced digital developer specialising in front-end development, with a mild obsession for well written &amp;amp; clean code.
-He also hates speaking about himself in the third person.
-After working with the amazing guys at Code Computerlove for nearly 8 years, working my way up to Snr. Front End developer, I then spent the next 12 months working as a UI engineer at Zuto where I enjoyed the challenge of trying to build a bridge between front-end and UX in the world of car finance.</description>
+      <description>A potted history Chris Gibbons is an experienced digital developer specialising in traditional front-end development practises, UI/UX and mobile.
+He has a passion/mild obsession for well written, semantic &amp;amp; accessible code. He enjoys the challenge of learning and using new and emerging technologies to better projects, as well as delivering cross-device, compliant, usable websites.
+He also hates speaking about himself in the third person, so lets stop.
+After working with the amazing folk at Code Computerlove for nearly 8 years, working my way up to Snr.</description>
     </item>
     
   </channel>

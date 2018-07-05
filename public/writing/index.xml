@@ -6,10 +6,20 @@
     <description>Recent content in Writing on gbbns.co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 16 Jun 2018 08:08:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jul 2018 08:30:21 +0100</lastBuildDate>
     
 	<atom:link href="/writing/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Full Stack: The myth &amp; the bullshit</title>
+      <link>/writing/full-stack-the-myth/</link>
+      <pubDate>Wed, 04 Jul 2018 08:30:21 +0100</pubDate>
+      
+      <guid>/writing/full-stack-the-myth/</guid>
+      <description>WIP! My plan is to write this post in the open, in the meantime these are my current thoughts on the subject.
+Thoughts  FE is a spectrum  UX &amp;lt;&amp;mdash;-&amp;gt; HTML/CSS &amp;lt;&amp;mdash;-&amp;gt; JS/Engineering  Everyone has forgotten about standards More than just HTML  What about accessibility? Performance anyone? Cross browser testing Devices! Devices! Devices! Sass, CSS &amp;amp; pattern libraries Build tools Linting  It&amp;rsquo;s no longer about converting a design to a template, we&amp;rsquo;ve got more intelligent in our approach, the bredth of FE has grown massively So, let me ask you, are you really fullstack?</description>
+    </item>
     
     <item>
       <title>Upcoming Blog Post Ideas</title>

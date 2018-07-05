@@ -6,7 +6,7 @@
     <description>Recent content in Tags on gbbns.co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 16 Jun 2018 08:30:21 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jul 2018 12:30:21 +0100</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>About</title>
       <link>/tags/about/</link>
-      <pubDate>Sat, 16 Jun 2018 08:30:21 +0100</pubDate>
+      <pubDate>Wed, 04 Jul 2018 12:30:21 +0100</pubDate>
       
       <guid>/tags/about/</guid>
       <description></description>
@@ -26,6 +26,15 @@
       <pubDate>Sat, 16 Jun 2018 08:08:01 +0000</pubDate>
       
       <guid>/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Front End</title>
+      <link>/tags/front-end/</link>
+      <pubDate>Wed, 04 Jul 2018 08:30:21 +0100</pubDate>
+      
+      <guid>/tags/front-end/</guid>
       <description></description>
     </item>
     
@@ -113,7 +122,7 @@
     <item>
       <title>Personal</title>
       <link>/tags/personal/</link>
-      <pubDate>Sat, 16 Jun 2018 08:30:21 +0100</pubDate>
+      <pubDate>Wed, 04 Jul 2018 12:30:21 +0100</pubDate>
       
       <guid>/tags/personal/</guid>
       <description></description>
@@ -149,7 +158,7 @@
     <item>
       <title>Test</title>
       <link>/tags/test/</link>
-      <pubDate>Sat, 16 Jun 2018 08:08:01 +0000</pubDate>
+      <pubDate>Wed, 04 Jul 2018 08:30:21 +0100</pubDate>
       
       <guid>/tags/test/</guid>
       <description></description>
@@ -179,6 +188,15 @@
       <pubDate>Thu, 01 Feb 2018 09:00:02 +0100</pubDate>
       
       <guid>/tags/uses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Development</title>
+      <link>/tags/web-development/</link>
+      <pubDate>Wed, 04 Jul 2018 08:30:21 +0100</pubDate>
+      
+      <guid>/tags/web-development/</guid>
       <description></description>
     </item>
     
