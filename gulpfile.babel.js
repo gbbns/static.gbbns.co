@@ -11,7 +11,9 @@ import postcss from 'gulp-postcss'
 import reporter from 'postcss-reporter'
 import syntax_scss from 'postcss-scss'
 import stylelint from 'stylelint'
-import  critical from'critical'
+import critical from'critical'
+import autoprefixer from 'autoprefixer'
+import lost from 'lost'
 
 const $ = gulpLoadPlugins()
 const browserSync = require('browser-sync').create()
@@ -46,7 +48,10 @@ gulp.task("critical", ["build"], function(cb) {
 
 gulp.task('server', ['build'], () => {
     gulp.start('init-watch')
-    $.watch(['archetypes/**/*', 'data/**/*', 'content/**/*', 'layouts/**/*', 'static/**/*', 'config.toml'], () => gulp.start('hugo'))
+	$.watch(['archetypes/**/*', 'data/**/*', 'content/**/*', 'layouts/**/*', 'static/**/*', 'config.toml'], () => gulp.start('hugo'))
+	$.watch('src/scss/**/*.scss', () => gulp.start('sass'))
+	$.watch('src/js/**/*.js', () => gulp.start('js-watch'))
+	$.watch('src/images/**/*', () => gulp.start('images'))
 });
 
 gulp.task('server:with-drafts', ['build-preview'], () => {
@@ -99,6 +104,12 @@ gulp.task('hugo-preview', (cb) => {
 // --
 
 gulp.task('sass', () => {
+	var plugins = [
+		autoprefixer({
+			browsers: ['ie >= 10', 'last 2 versions']
+		}),
+		lost()
+	];
     var processors = [
         stylelint('.stylelintrc'),
         reporter({
@@ -114,11 +125,12 @@ gulp.task('sass', () => {
     ])
     .pipe($.plumber({ errorHandler: onError }))
     .pipe($.print())
-    .pipe(postcss(processors, {syntax: syntax_scss}))
-    .pipe($.sass({ precision: 5, importer: tildeImporter, outputStyle: 'compressed'}))
-    .pipe($.autoprefixer(['ie >= 10', 'last 2 versions']))
+	.pipe($.sass({ precision: 5, importer: tildeImporter, outputStyle: 'compressed'}))
+	.pipe(postcss(plugins, processors, {
+		syntax: syntax_scss
+	}))
     .pipe(gulp.dest('static/css'))
-    .pipe(browserSync.stream())
+    .pipe(browserSync.stream());
 })
 
 gulp.task('js-watch', ['js'], (cb) => {

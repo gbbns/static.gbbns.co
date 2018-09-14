@@ -9,6 +9,27 @@ type = "static"
 layout = "single"
 excerpt = ""
 +++
+
+## TL;DR
+### What I do & specialise in
+
+* HTML
+* CSS (Sass)
+* Responsive &amp; Mobile-first
+* UI/UX
+* JavaScript (ES5+)
+* Web Standards
+* Web Accessibility
+
+### What I don't do or don't do a lot of
+
+* Backend development
+* Design
+* Heavy JavaScript
+* OOP
+* Fix printers (or other bits of IT equipment)
+
+
 ## A potted history
 Chris Gibbons is an experienced digital developer specialising in traditional front-end development practises, UI/UX and mobile.
 

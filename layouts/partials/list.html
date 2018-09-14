@@ -4,12 +4,11 @@
 		<ul class="v-list">
 			{{ range .Pages }}
 			<li class="v-list__item">
+				<span class="article__meta-tag article__meta-tag--article">{{ .Type | humanize }}</span>
 				<a href="{{ .Permalink }}">
-					{{ .Title }}
+					<span class="article-__title">{{ .Title }}</span>
+					<span class="article__meta-info">{{ .Date.Format "Mon, 2 Jan, 2006" }}</span>
 				</a>
-				<span>- {{ .Date.Format "Mon, 2 Jan, 2006" }}
-					<span class="article__meta-tag article__meta-tag--article">{{ .Type | humanize }}</span>
-				</span>
 			</li>
 			{{ end }}
 		</ul>
@@ -21,12 +20,11 @@
 		<ul class="v-list">
 			{{ range .Pages }}
 			<li class="v-list__item">
+				<span class="article__meta-tag article__meta-tag--article">{{ .Type | humanize }}</span>
 				<a href="{{ .Permalink }}">
-					{{ .Title }}
+					<span class="article__title">{{ .Title }}</span>
+					<span class="article__meta-info">{{ .Date.Format "Mon, 2 Jan, 2006" }}</span>
 				</a>
-				<span>- {{ .Date.Format "Mon, 2 Jan, 2006" }}
-					<span class="article__meta-tag article__meta-tag--article">{{ .Type | humanize }}</span>
-				</span>
 			</li>
 			{{ end }}
 		</ul>
