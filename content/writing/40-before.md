@@ -5,7 +5,7 @@ draft = true
 title = "40 Before. Or I think my mid-life crisis has started"
 date = 2017-08-15T08:11:35+01:00
 description = ""
-type = ""
+type = "article"
 author = "Chris Gibbons"
 section = "journal"
 +++

@@ -1,8 +1,5 @@
 .article {
 	&__main-header {
-		// width: 960px;
-		// max-width: 100%;
-		// margin: 0 auto $base-spacing * 2;
 		margin: 0 0 $base-spacing * 8;
 		left: -($base-spacing * 18);
 		position: relative;
@@ -13,8 +10,6 @@
 	}
 
 	&__main-body {
-		// width: 960px;
-		// max-width: 100%;
 		margin: 0 auto;
 		padding: $base-spacing * 6 $base-spacing * 3 0 $base-spacing * 18;
 		box-sizing: border-box;
