@@ -1,85 +1,72 @@
-<!doctype html>
-<html class="no-js" lang="en-gb">
+{{ define "main" }}
 
-    {{ partial "head.html" . }}
+	<section>
+		{{ .Content }}
+	</section>
 
-    <body>
+	<section>
+		<h2>Articles</h2>
 
-        {{ partial "header.html" . }}
+		<article class="card">
+			{{ range first 1 (where .Data.Pages "Type" "article") }}
+			<h3 class="heading--primary">
+				<a href="{{ .Permalink }}">
+					{{ .Title }}
+				</a>
+			</h3>
+			<p class="article__meta-info">by {{ .Params.Author }} &centerdot; <time datetime="{{ .Date.Format "2006-01-02 15:04" }}">{{ .Date.Format "January 02, 2006" }}</time> &centerdot; {{ .ReadingTime }} min read</p>
+			<p>{{ if isset .Params "excerpt" }}{{ .Params.excerpt }}{{ else }}{{ .Summary }}{{ end }}</p>
+			{{ end }}
+		</article>
 
-		<main role="main" class="o-content__body article__main-body">
-            <section>
-                {{ .Content }}
-            </section>
-
-            <section>
-				<h2>Articles</h2>
-
-                <article class="card">
-                    {{ range first 1 (where .Data.Pages "Type" "article") }}
-                    <h3 class="heading--primary">
-                        <a href="{{ .Permalink }}">
-                            {{ .Title }}
-                        </a>
-                    </h3>
-					<p class="article__meta-info">by {{ .Params.Author }} &centerdot; <time datetime="{{ .Date.Format "2006-01-02 15:04" }}">{{ .Date.Format "January 02, 2006" }}</time> &centerdot; {{ .ReadingTime }} min read</p>
-					<p>{{ if isset .Params "excerpt" }}{{ .Params.excerpt }}{{ else }}{{ .Summary }}{{ end }}</p>
-					{{ end }}
-                </article>
-
-                <article>
-                    <h3>Still fresh</h3>
-                    <ul>
-                        {{ range first 4 (after 1 (where .Data.Pages "Type" "article")) }}
-                        <li>
-                            <a href="{{ .Permalink }}">
-                                {{ .Title }}
-                            </a>
-							<span><time datetime="{{ .Date.Format "2006-01-02 15:04" }}">{{ .Date.Format "Mon, 2 Jan, 2006" }}</time></span>
-						</li>
-                        {{ end }}
-                    </ul>
-                </article>
-
-            </section>
-
-            <section>
-                <h3>Latest notes</h3>
-                <article class="card">
-                    {{ range first 1 (where .Data.Pages "Type" "note") }}
-                    	<h3 class="heading--primary">
-                            <a href="{{ .Permalink }}">
-                                {{ .Title }}
-                            </a>
-						</h3>
-						<p class="article__meta-info">by {{ .Params.Author }} &centerdot; <time datetime="{{ .Date.Format "2006-01-02 15:04" }}">{{ .Date.Format "January 02, 2006" }}</time> &centerdot; {{ .ReadingTime }} min read</p>
-						<p>{{ if isset .Params "excerpt" }}{{ .Params.excerpt }}{{ else }}{{ .Summary }}{{ end }}</p>
-                    {{ end }}
-                </article>
-
-                {{ $notes := where .Data.Pages "Type" "note" }}
-
-                {{ if gt 1 (len $notes) }}
-                    <article>
-                        <h3>Still fresh</h3>
-                        <ul>
-                        {{ range first 4 (after 1 (where .Data.Pages "Type" "note")) }}
-                            <li>
-                                <a href="{{ .Permalink }}">
-                                    {{ .Title }}
-                                </a>
-								<span><time datetime="{{ .Date.Format "2006-01-02 15:04" }}">{{ .Date.Format "Mon, 2 Jan, 2006" }}</time></span>
-							</li>
-                        {{ end }}
-                        </ul>
-                    </article>
+		<article>
+			<h3>Still fresh</h3>
+			<ul>
+				{{ range first 4 (after 1 (where .Data.Pages "Type" "article")) }}
+				<li>
+					<a href="{{ .Permalink }}">
+						{{ .Title }}
+					</a>
+					<span><time datetime="{{ .Date.Format "2006-01-02 15:04" }}">{{ .Date.Format "Mon, 2 Jan, 2006" }}</time></span>
+				</li>
 				{{ end }}
+			</ul>
+		</article>
 
-            </section>
-        </main>
+	</section>
 
-        {{ partial "footer.html" . }}
+	<section>
+		<h3>Latest notes</h3>
+		<article class="card">
+			{{ range first 1 (where .Data.Pages "Type" "note") }}
+				<h3 class="heading--primary">
+					<a href="{{ .Permalink }}">
+						{{ .Title }}
+					</a>
+				</h3>
+				<p class="article__meta-info">by {{ .Params.Author }} &centerdot; <time datetime="{{ .Date.Format "2006-01-02 15:04" }}">{{ .Date.Format "January 02, 2006" }}</time> &centerdot; {{ .ReadingTime }} min read</p>
+				<p>{{ if isset .Params "excerpt" }}{{ .Params.excerpt }}{{ else }}{{ .Summary }}{{ end }}</p>
+			{{ end }}
+		</article>
 
-    </body>
+		{{ $notes := where .Data.Pages "Type" "note" }}
 
-</html>
+		{{ if gt 1 (len $notes) }}
+			<article>
+				<h3>Still fresh</h3>
+				<ul>
+				{{ range first 4 (after 1 (where .Data.Pages "Type" "note")) }}
+					<li>
+						<a href="{{ .Permalink }}">
+							{{ .Title }}
+						</a>
+						<span><time datetime="{{ .Date.Format "2006-01-02 15:04" }}">{{ .Date.Format "Mon, 2 Jan, 2006" }}</time></span>
+					</li>
+				{{ end }}
+				</ul>
+			</article>
+		{{ end }}
+
+	</section>
+
+{{ end }}

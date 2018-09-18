@@ -1,20 +1,19 @@
-<!doctype html>
-<html class="no-js" lang="en-gb">
+{{ define "main" }}
+	<header class="article__main-header">
+		<h1 class="heading--primary">{{ .Title }}</h1>
 
-    {{ partial "head.html" . }}
+		{{ if eq .Params.Type "article" }}
+		<p class="article__meta-info">by {{ .Params.Author }} &centerdot; <time datetime="{{ .Date.Format "2006-01-02 15:04" }}">{{ .Date.Format "January 02, 2006" }}</time> &centerdot; {{ .ReadingTime }} min read</p>
 
-    <body>
+		<ul class="h-list article__meta-info">
+			{{ range .Params.tags }}
+			<li class="h-list__item">
+				<a class="article__meta-tag" href="/tags/{{ . | urlize }}">{{ . | humanize}}</a>
+			</li>
+			{{ end }}
+		</ul>
+		{{ end }}
 
-        {{ partial "header.html" . }}
-
-        <main role="main" class="o-content__body">
-			<section class="article__main-body">
-				{{ .Content }}
-			</section>
-        </main>
-
-        {{ partial "footer.html" . }}
-
-    </body>
-
-</html>
+	</header>
+	{{ partial "list.html" . }}
+{{ end }}

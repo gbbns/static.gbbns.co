@@ -123,25 +123,25 @@
   </url>
   
   <url>
-    <loc>/categories/about/</loc>
-    <lastmod>2018-07-04T12:30:21+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/about/</loc>
     <lastmod>2018-07-04T12:30:21+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/blog/</loc>
-    <lastmod>2018-06-16T08:08:01+00:00</lastmod>
+    <loc>/categories/about/</loc>
+    <lastmod>2018-07-04T12:30:21+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/blog/</loc>
+    <lastmod>2018-06-16T08:08:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/blog/</loc>
     <lastmod>2018-06-16T08:08:01+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -159,13 +159,13 @@
   </url>
   
   <url>
-    <loc>/categories/front-end/</loc>
+    <loc>/tags/front-end/</loc>
     <lastmod>2018-07-04T08:30:21+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/front-end/</loc>
+    <loc>/categories/front-end/</loc>
     <lastmod>2018-07-04T08:30:21+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -212,20 +212,14 @@
   </url>
   
   <url>
-    <loc>/categories/notes/</loc>
-    <lastmod>2017-08-02T18:22:41+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/notes/</loc>
     <lastmod>2017-08-02T18:22:41+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/now/</loc>
-    <lastmod>2018-02-06T08:30:00+01:00</lastmod>
+    <loc>/categories/notes/</loc>
+    <lastmod>2017-08-02T18:22:41+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -236,8 +230,8 @@
   </url>
   
   <url>
-    <loc>/categories/other/</loc>
-    <lastmod>2018-02-01T09:00:02+01:00</lastmod>
+    <loc>/categories/now/</loc>
+    <lastmod>2018-02-06T08:30:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -248,14 +242,20 @@
   </url>
   
   <url>
-    <loc>/categories/personal/</loc>
-    <lastmod>2018-02-26T09:51:49+00:00</lastmod>
+    <loc>/categories/other/</loc>
+    <lastmod>2018-02-01T09:00:02+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/personal/</loc>
     <lastmod>2018-07-04T12:30:21+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/personal/</loc>
+    <lastmod>2018-02-26T09:51:49+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -272,13 +272,13 @@
   </url>
   
   <url>
-    <loc>/categories/speaking/</loc>
+    <loc>/tags/speaking/</loc>
     <lastmod>2018-06-14T08:30:21+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/speaking/</loc>
+    <loc>/categories/speaking/</loc>
     <lastmod>2018-06-14T08:30:21+01:00</lastmod>
     <priority>0</priority>
   </url>
