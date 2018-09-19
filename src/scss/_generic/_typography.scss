@@ -6,12 +6,13 @@
 		margin-bottom: 0;
 
 		@media screen and (min-width: 48em) {
-			// font-size: 6.25rem;
 			font-size: 80px;
 			letter-spacing: -4px;
-			// line-height: 0.875;
 			line-height: 1;
-			// width: calc(100% - 75px);
+		}
+
+		.article--home & {
+			letter-spacing: 0;
 		}
 	}
 }
