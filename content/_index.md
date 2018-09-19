@@ -1,10 +1,9 @@
 +++
-title = "Home"
+title = "I'm Chris Gibbons"
 description = "Welcome to the personal website of Chris Gibbons"
 tags = ["test"]
 type = "index"
 +++
-# I'm [Chris Gibbons](/about)
 An experienced frontend developer based in Lancashire [53.7632° N, 2.7044° W], UK.
 
 I build fast, user friendly and accessible websites for the automotive industry, with a particular passion/obsession for well written &amp; clean code.

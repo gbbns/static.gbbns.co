@@ -1,44 +1,15 @@
 {{ define "main" }}
-
-	<section>
+	<section class="article__main-body">
+		<header class="article__main-header">
+			<h1 class="heading--primary">{{ .Title }}</h1>
+		</header>
 		{{ .Content }}
-	</section>
 
-	<section>
-		<h2>Articles</h2>
+		<section>
+			<h2>Articles</h2>
 
-		<article class="card">
-			{{ range first 1 (where .Data.Pages "Type" "article") }}
-			<h3 class="heading--primary">
-				<a href="{{ .Permalink }}">
-					{{ .Title }}
-				</a>
-			</h3>
-			<p class="article__meta-info">by {{ .Params.Author }} &centerdot; <time datetime="{{ .Date.Format "2006-01-02 15:04" }}">{{ .Date.Format "January 02, 2006" }}</time> &centerdot; {{ .ReadingTime }} min read</p>
-			<p>{{ if isset .Params "excerpt" }}{{ .Params.excerpt }}{{ else }}{{ .Summary }}{{ end }}</p>
-			{{ end }}
-		</article>
-
-		<article>
-			<h3>Still fresh</h3>
-			<ul>
-				{{ range first 4 (after 1 (where .Data.Pages "Type" "article")) }}
-				<li>
-					<a href="{{ .Permalink }}">
-						{{ .Title }}
-					</a>
-					<span><time datetime="{{ .Date.Format "2006-01-02 15:04" }}">{{ .Date.Format "Mon, 2 Jan, 2006" }}</time></span>
-				</li>
-				{{ end }}
-			</ul>
-		</article>
-
-	</section>
-
-	<section>
-		<h3>Latest notes</h3>
-		<article class="card">
-			{{ range first 1 (where .Data.Pages "Type" "note") }}
+			<article class="card">
+				{{ range first 1 (where .Data.Pages "Type" "article") }}
 				<h3 class="heading--primary">
 					<a href="{{ .Permalink }}">
 						{{ .Title }}
@@ -46,26 +17,58 @@
 				</h3>
 				<p class="article__meta-info">by {{ .Params.Author }} &centerdot; <time datetime="{{ .Date.Format "2006-01-02 15:04" }}">{{ .Date.Format "January 02, 2006" }}</time> &centerdot; {{ .ReadingTime }} min read</p>
 				<p>{{ if isset .Params "excerpt" }}{{ .Params.excerpt }}{{ else }}{{ .Summary }}{{ end }}</p>
-			{{ end }}
-		</article>
+				{{ end }}
+			</article>
 
-		{{ $notes := where .Data.Pages "Type" "note" }}
-
-		{{ if gt 1 (len $notes) }}
 			<article>
 				<h3>Still fresh</h3>
 				<ul>
-				{{ range first 4 (after 1 (where .Data.Pages "Type" "note")) }}
+					{{ range first 4 (after 1 (where .Data.Pages "Type" "article")) }}
 					<li>
 						<a href="{{ .Permalink }}">
 							{{ .Title }}
 						</a>
 						<span><time datetime="{{ .Date.Format "2006-01-02 15:04" }}">{{ .Date.Format "Mon, 2 Jan, 2006" }}</time></span>
 					</li>
-				{{ end }}
+					{{ end }}
 				</ul>
 			</article>
-		{{ end }}
+
+		</section>
+
+		<section>
+			<h3>Latest notes</h3>
+			<article class="card">
+				{{ range first 1 (where .Data.Pages "Type" "note") }}
+					<h3 class="heading--primary">
+						<a href="{{ .Permalink }}">
+							{{ .Title }}
+						</a>
+					</h3>
+					<p class="article__meta-info">by {{ .Params.Author }} &centerdot; <time datetime="{{ .Date.Format "2006-01-02 15:04" }}">{{ .Date.Format "January 02, 2006" }}</time> &centerdot; {{ .ReadingTime }} min read</p>
+					<p>{{ if isset .Params "excerpt" }}{{ .Params.excerpt }}{{ else }}{{ .Summary }}{{ end }}</p>
+				{{ end }}
+			</article>
+
+			{{ $notes := where .Data.Pages "Type" "note" }}
+
+			{{ if gt 1 (len $notes) }}
+				<article>
+					<h3>Still fresh</h3>
+					<ul>
+					{{ range first 4 (after 1 (where .Data.Pages "Type" "note")) }}
+						<li>
+							<a href="{{ .Permalink }}">
+								{{ .Title }}
+							</a>
+							<span><time datetime="{{ .Date.Format "2006-01-02 15:04" }}">{{ .Date.Format "Mon, 2 Jan, 2006" }}</time></span>
+						</li>
+					{{ end }}
+					</ul>
+				</article>
+			{{ end }}
+
+		</section>
 
 	</section>
 
