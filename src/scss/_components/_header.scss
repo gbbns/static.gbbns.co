@@ -1,6 +1,10 @@
 .c-masthead {
 	padding: $base-spacing * 6 0 $base-spacing * 2;
-	lost-column: 4/12 0;
+	lost-column: 1/1 0;
+
+	@media (min-width: 768px) {
+		lost-column: 4/12 0;
+	}
 }
 
 .site-info {

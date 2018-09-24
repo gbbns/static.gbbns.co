@@ -1,5 +1,6 @@
 <section class="article__main-content">
-	{{ range first 1 (.Site.RegularPages.GroupByDate "2006") }}
+	{{ range $index, $value := (where .Site.RegularPages "Type" "article").GroupByDate "2006" }}
+		{{ if ge .Key now.Year }}
 		<h2>Posted So Far in {{ .Key }}</h2>
 		<ul class="v-list">
 			{{ range .Pages }}
@@ -12,10 +13,11 @@
 			</li>
 			{{ end }}
 		</ul>
+		{{end}}
 	{{ end }}
 
 	{{ range .Site.RegularPages.GroupByDate "2006" }}
-		{{ if ne .Key "2018" }}
+		{{ if lt .Key now.Year }}
 		<h3>{{ .Key }}</h3>
 		<ul class="v-list">
 			{{ range .Pages }}
