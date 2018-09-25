@@ -41,7 +41,7 @@ After working with the amazing folk at <a href="https://www.codecomputerlove.com
 
 I now spend my time happily employed by the nice folk at <a href="https://www.autotrader.co.uk/" rel="noopener">Auto Trader</a> as a Principal UX/UI developer and an advocate of accessibility &amp; inclusive design.
 
-Outside of work I live close to the seaside resort of <a href="http://en.wikipedia.org/wiki/Blackpool" rel="noopener">Blackpool</a> and, in my small amount of spare time, like to take photographs &mdash; <a href="http://www.instagram.com/_gbbns" rel="noopener">Instagram</a> &mdash; bake cakes and support Liverpool FC.
+Outside of work I live close to the seaside resort of <a href="https://en.wikipedia.org/wiki/Blackpool" rel="noopener">Blackpool</a> and, in my small amount of spare time, like to take photographs &mdash; <a href="https://www.instagram.com/_gbbns" rel="noopener">Instagram</a> &mdash; bake cakes and support Liverpool FC.
 
 ### UX Technologist?
 A UX what now?
@@ -56,7 +56,7 @@ Now the parts of FE I particularly enjoy is around the UI layer and the crafting
 
 In my opinion--and after doing a few Google searches it seems there are many other people thinking the same--a UX technologist works to bridge the gap between design and engineering.
 
-<a href="http://adaptivepath.org/ideas/what-makes-a-design-technologist/" rel="noopener">One of the best posts I read on this topic is from Dan Harrelson at Adaptive Path</a>.
+<a href="https://adaptivepath.org/ideas/what-makes-a-design-technologist/" rel="noopener">One of the best posts I read on this topic is from Dan Harrelson at Adaptive Path</a>.
 
 * A comfort level with front-end programming (web, desktop, mobile, device)
 * A tool belt filled with techniques for creating interactive apps

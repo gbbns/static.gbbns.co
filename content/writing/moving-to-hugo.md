@@ -9,7 +9,7 @@ type = "article"
 author = "Chris Gibbons"
 +++
 
-If I was to look at the [internet archive wayback machine](https://web.archive.org/web/*/http://www.chrisgibbons.co.uk) I could hand on heart say I've never had a personal website I've ever really been happy with.
+If I was to look at the [internet archive wayback machine](https://web.archive.org/web/*/https://www.chrisgibbons.co.uk) I could hand on heart say I've never had a personal website I've ever really been happy with.
 
 I'm not a designer, and I'm fine with that. Aside from that I've never really found a platform that I gel with. I had static html and I liked it, but with all developers I didn't like the manual process of FTP'ing to a server, along with maintaining links, URL's etc. So I did nothing.
 

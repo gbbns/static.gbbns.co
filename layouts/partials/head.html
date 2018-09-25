@@ -15,14 +15,14 @@
     {{ end }}
     <script type="application/ld+json" async>
         {
-            "@context": "http://schema.org",
+            "@context": "https://schema.org",
             "@type": "Person",
             "name": "{{ .Site.Params.author }}",
             "url": "{{ .Site.BaseURL }}",
             "image" : "{{ .Site.BaseURL }}/images/profile/chris-gibbons.jpg",
             "sameAs" : [
                 "https://twitter.com/{{ .Site.Params.twitter }}",
-                "http://uk.linkedin.com/in/{{ .Site.Params.linkedin }}",
+                "https://uk.linkedin.com/in/{{ .Site.Params.linkedin }}",
                 "https://github.com/{{ .Site.Params.github }}"
             ]
         }

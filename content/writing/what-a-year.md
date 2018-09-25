@@ -23,7 +23,7 @@ Then, on the morning of February 5th 2015 at 09:57am, my little boy was born, fr
 
 The other notable event that happened was my change of jobs.
 
-This was a _*huge*_ event for me -- not quite as big as becoming a dad, however -- as after being with the amazing [Code Computerlove](http://www.codecomputerlove.com) for a little over *7.5* years, I decided to accept an offer at [Zuto](http://www.zuto.com).
+This was a _*huge*_ event for me -- not quite as big as becoming a dad, however -- as after being with the amazing [Code Computerlove](https://www.codecomputerlove.com) for a little over *7.5* years, I decided to accept an offer at [Zuto](https://www.zuto.com).
 
 Still doing front end work, but now working _as_ part of a dedicated in-house team, rather than _for_ an in house team.
 

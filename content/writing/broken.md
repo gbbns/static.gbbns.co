@@ -11,7 +11,7 @@ author = "Chris Gibbons"
 
 I can't pinpoint _exactly_ when, but I've come to the realisation that the daily routine I've worked so hard to build is broken.
 
-After a coffee &amp; [chinwag](http://www.urbandictionary.com/define.php?term=chinwag&defid=5703119) with my good friend [Dan Furze](https://twitter.com/furzeface), it seems that it's not just me, which is always reassuring.
+After a coffee &amp; [chinwag](https://www.urbandictionary.com/define.php?term=chinwag&defid=5703119) with my good friend [Dan Furze](https://twitter.com/furzeface), it seems that it's not just me, which is always reassuring.
 
 I'm aware that everyone has natural peaks and troughs in life - hell I've had enough myself - but recently it's felt like I've been unable to climb out of this one.
 
@@ -51,7 +51,7 @@ For this, I can't thank Dan enough.
 
 We also agreed to [shame](https://www.youtube.com/watch?v=oJsOK9Tc60M) each other as punishment -- well maybe not _that_ bad, but the threat of a tweet, or blog post should be enough of a gee up.
 
-Dan has [already made a start on this](http://danielfurze.co.uk/blog/i-need-to-write-more/), so I suggest you head over to his [blog](http://danielfurze.co.uk/blog/) and get reading. There is some awesome content on there already and I for one can't wait to see what else he writes this year.
+Dan has [already made a start on this](https://danielfurze.co.uk/blog/i-need-to-write-more/), so I suggest you head over to his [blog](https://danielfurze.co.uk/blog/) and get reading. There is some awesome content on there already and I for one can't wait to see what else he writes this year.
 
 Also, for posterity here is the [tweet](https://twitter.com/furzeface/status/768485689268834304) that started it all.
 

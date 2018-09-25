@@ -8,12 +8,12 @@ description = "What tools I use on a day to day basis"
 type = "page"
 layout = "single"
 +++
-Sometimes I get asked what 'what make is that', 'where did you get that from' or just what tools etc. I use day to day, and after reading the [uses page of at Wes Bos' site](http://wesbos.com/uses) I thought I'd shamelessly copy the format :)
+Sometimes I get asked what 'what make is that', 'where did you get that from' or just what tools etc. I use day to day, and after reading the [uses page of at Wes Bos' site](https://wesbos.com/uses) I thought I'd shamelessly copy the format :)
 
 ## Editor + Terminal
 Currently using [VS Code](https://code.visualstudio.com/), yes I have tried [Sublime](https://www.sublimetext.com/3), [Atom](https://atom.io/) et al. but I keep finding myself heading back to VS Code. I love the speed of it, I love the extensions, but overall after 8+ years of using the [grown up Visual Studio](https://www.visualstudio.com/) it feels very familiar.
 
-Until recently (the last 3 or so years) I've never really done things via the command line, however I now use [iTerm2](https://www.iterm2.com/) with [Oh My ZSH](http://ohmyz.sh/)
+Until recently (the last 3 or so years) I've never really done things via the command line, however I now use [iTerm2](https://www.iterm2.com/) with [Oh My ZSH](https://ohmyz.sh/)
 
 ## Apps
 
@@ -28,11 +28,11 @@ Until recently (the last 3 or so years) I've never really done things via the co
 * DropBox
 
 ## Desk Setup
-I'm yet to find a desk I truly love -- either to buy or to build -- so in the meantime I have the [IKEA Malm desk with pull out panel](http://www.ikea.com/gb/en/products/desks/desk-computer-desks/malm-desk-with-pull-out-panel-oak-veneer-art-00214181/) which, I have to say, I am super impressed with.
+I'm yet to find a desk I truly love -- either to buy or to build -- so in the meantime I have the [IKEA Malm desk with pull out panel](https://www.ikea.com/gb/en/products/desks/desk-computer-desks/malm-desk-with-pull-out-panel-oak-veneer-art-00214181/) which, I have to say, I am super impressed with.
 
-I sit on an [IKEA MARKUS](http://www.ikea.com/gb/en/products/chairs-stools-benches/office-chairs/markus-swivel-chair-glose-black-art-20103101/) which I was lucky enough to get free in an office clearance.
+I sit on an [IKEA MARKUS](https://www.ikea.com/gb/en/products/chairs-stools-benches/office-chairs/markus-swivel-chair-glose-black-art-20103101/) which I was lucky enough to get free in an office clearance.
 
-The other chair in my office is the iconic [IKEA POÄNG](http://www.ikea.com/gb/en/products/sofas-armchairs/armchairs/po%C3%A4ng-armchair-birch-veneer-finnsta-grey-spr-59090452/) this is my 'go-to' for relaxing/reading/playing video games.
+The other chair in my office is the iconic [IKEA POÄNG](https://www.ikea.com/gb/en/products/sofas-armchairs/armchairs/po%C3%A4ng-armchair-birch-veneer-finnsta-grey-spr-59090452/) this is my 'go-to' for relaxing/reading/playing video games.
 
 ## Other gear
 
@@ -62,14 +62,14 @@ My current kit consists of:
 * [Porlex hand grinder](https://www.amazon.co.uk/Porlex-Mini-Hand-Coffee-Grinder/dp/B01B77O8FM)
 * [KeepCup](https://www.amazon.co.uk/KeepCup-Brew-12oz-Medium-Cocoa/dp/B01D8IPRA8/)
 
-With my coffee choices varying, but usually from either [ManCoCo](http://mancoco.co.uk/) or [Atkinsons](https://thecoffeehopper.com/).
+With my coffee choices varying, but usually from either [ManCoCo](https://mancoco.co.uk/) or [Atkinsons](https://thecoffeehopper.com/).
 
 ### Stationery
-Currently rocking the [Nock Brasstown](http://nockco.com/cases/brasstown) pencil case. It's amazing. It wasn't cheap -- as I had to get it imported, then had to pay import duty on it :( -- but it's totally worth it, and always gets noticed.
+Currently rocking the [Nock Brasstown](https://nockco.com/cases/brasstown) pencil case. It's amazing. It wasn't cheap -- as I had to get it imported, then had to pay import duty on it :( -- but it's totally worth it, and always gets noticed.
 
-I love to write in the superb [Leuchtturm 1917](https://www.leuchtturm1917.co.uk/notebooks/) notepads. I used to use [Moleskines](http://www.moleskine.com/gb/), but the Leuchtturm has fainter lines on the paper, which I like.
+I love to write in the superb [Leuchtturm 1917](https://www.leuchtturm1917.co.uk/notebooks/) notepads. I used to use [Moleskines](https://www.moleskine.com/gb/), but the Leuchtturm has fainter lines on the paper, which I like.
 
-I write with either [Pilot G-tec C4](https://www.amazon.co.uk/Pilot-Microtip-Rollerball-Black-Pack/dp/B008LUQX9S) or the [Muji gel ink pens](https://www.muji.eu/pages/online.asp?Sec=13&Sub=52) though my ultimate goal is a [Mont Blanc](http://www.montblanc.com/en-gb/home.html)
+I write with either [Pilot G-tec C4](https://www.amazon.co.uk/Pilot-Microtip-Rollerball-Black-Pack/dp/B008LUQX9S) or the [Muji gel ink pens](https://www.muji.eu/pages/online.asp?Sec=13&Sub=52) though my ultimate goal is a [Mont Blanc](https://www.montblanc.com/en-gb/home.html)
 
 ### Bags
 
@@ -81,13 +81,13 @@ I write with either [Pilot G-tec C4](https://www.amazon.co.uk/Pilot-Microtip-Rol
 I also have the [Thule Blur2](https://www.thule.com/en-gb/gb/backpacks/laptop-backpacks/thule-enroute-blur-2-_-3203402) but I'm not entirely satisfied with it. It replaced my old The North Face but has never felt as good as it.
 
 ### Photography
-This year (2017) I traded in my [Canon 40D](hhttps://en.wikipedia.org/wiki/Canon_EOS_40D) for a [pre-owned Fuji X-T1](http://www.fujifilm.com/products/digital_cameras/x/fujifilm_x_t1/)
+This year (2017) I traded in my [Canon 40D](hhttps://en.wikipedia.org/wiki/Canon_EOS_40D) for a [pre-owned Fuji X-T1](https://www.fujifilm.com/products/digital_cameras/x/fujifilm_x_t1/)
 
 Current lenses:
 
-* [18mm f2](http://www.fujifilm.com/products/digital_cameras/x/fujinon_lens_xf18mmf2_r/)
-* [35mm f2](http://www.fujifilm.com/products/digital_cameras/x/fujinon_lens_xf35mmf2_r_wr/)
-* [18-55mm f2.8-4](http://www.fujifilm.com/products/digital_cameras/x/fujinon_lens_xf18_55mmf28_4_r_lm_ois/)
+* [18mm f2](https://www.fujifilm.com/products/digital_cameras/x/fujinon_lens_xf18mmf2_r/)
+* [35mm f2](https://www.fujifilm.com/products/digital_cameras/x/fujinon_lens_xf35mmf2_r_wr/)
+* [18-55mm f2.8-4](https://www.fujifilm.com/products/digital_cameras/x/fujinon_lens_xf18_55mmf28_4_r_lm_ois/)
 
 My pictures can currently be seen over at:
 
@@ -98,4 +98,4 @@ My pictures can currently be seen over at:
 ### Other
 I'm pretty agnostic when it comes to devices. Over the years I've had all the main players, my current phone is the [One+3T](https://oneplus.net/uk/3t)
 
-If I've missed anything off the list, or you'd like to find out more then [drop me a line](mailto:chris@gbbns.co) <!--or [AMA](http://)-->
+If I've missed anything off the list, or you'd like to find out more then [drop me a line](mailto:chris@gbbns.co) <!--or [AMA](https://)-->

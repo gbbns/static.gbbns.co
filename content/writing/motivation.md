@@ -19,7 +19,7 @@ So, why now? Simple really, I'm now at the total opposite stage.
 
 I don't know when exactly, or what, triggered this. Looking back it was probably a number of things which all came together to hit me hard.
 
-The 'eureka' moment came when I attended [DDD North](http://www.dddnorth.co.uk/) one of the sessions [Burnout Is Real And It's Coming To Get You](http://www.dddnorth.co.uk/Sessions/Details/125) struck a chord and really resonated with some of the issues I'd been facing.
+The 'eureka' moment came when I attended [DDD North](https://www.dddnorth.co.uk/) one of the sessions [Burnout Is Real And It's Coming To Get You](https://www.dddnorth.co.uk/Sessions/Details/125) struck a chord and really resonated with some of the issues I'd been facing.
 
 I remember being sat next to a few developers on the day, and to say they were highly cynical of this was an understatement. It's easy to judge when you're not in that situation, the lack of empathy shown from these seasoned developers was shocking.
 
@@ -37,9 +37,9 @@ I now blog more than I've ever done, I have more thoughts/opinions on things tha
 
 Now, I don't think this is sudden influx in motivation is _entirely_ down to a move in jobs, but it's certainly helped.
 
-I attend [more](http://www.meetup.com/McrFRED/) [community](http://nuxuk.org/) [meetups](http://www.meetup.com/McrUXD/) now, all which not only help get me thinking, but get me involved and talking to likeminded people in the Manchester web community. At Christmas I bought a Kindle. Rather than sleeping or wasting my commute to work, I'm making a conscious effort to read more, to get engrossed in a book, to let my imagination run wild.
+I attend [more](https://www.meetup.com/McrFRED/) [community](https://nuxuk.org/) [meetups](https://www.meetup.com/McrUXD/) now, all which not only help get me thinking, but get me involved and talking to likeminded people in the Manchester web community. At Christmas I bought a Kindle. Rather than sleeping or wasting my commute to work, I'm making a conscious effort to read more, to get engrossed in a book, to let my imagination run wild.
 
-I've also realised that I needed to have some outlets away from the internet, enter DIY and [photography](https://www.instagram.com/_gbbns). I'm by no means great at either, but having that time away from the keyboard, away from the distractions of [Twitter](http://twitter.com/_gbbns), allows me some amazing time to think about things, to process thoughts which I'd forgotten about.
+I've also realised that I needed to have some outlets away from the internet, enter DIY and [photography](https://www.instagram.com/_gbbns). I'm by no means great at either, but having that time away from the keyboard, away from the distractions of [Twitter](https://twitter.com/_gbbns), allows me some amazing time to think about things, to process thoughts which I'd forgotten about.
 
 Put all this together, and as you can probably guess, it's really starting to have a positive impact on things.
 
