@@ -7,14 +7,14 @@
 * Issues and Suggestions: [github.com/gbbns/gbbns.co/issues](https://github.com/gbbns/gbbns.co/issues)
 * Twitter: [@_gbbns](https://twitter.com/_gbbns)
 * Email: [chris@gbbns.co](mailto:chris@gbbns.co)
-* Trello Life List [http://bit.ly/gbbns-life-list](http://bit.ly/gbbns-life-list)
-* Instagram: [_gbbns](http://instagram.com/_gbbns)
+* Trello Life List [https://bit.ly/gbbns-life-list](https://bit.ly/gbbns-life-list)
+* Instagram: [_gbbns](https://instagram.com/_gbbns)
 
 ***
 
 ## About
 
-This is the source code for the personal site of Chris Gibbons, Front End developer from just outside the seaside town of [Blackpool](http://en.wikipedia.org/wiki/Blackpool)
+This is the source code for the personal site of Chris Gibbons, Front End developer from just outside the seaside town of [Blackpool](https://en.wikipedia.org/wiki/Blackpool)
 
 My [previous site](https://github.com/gbbns/gbbns.github.io) was built using [Jekyll](https://jekyllrb.com/).
 

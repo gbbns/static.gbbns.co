@@ -12,7 +12,7 @@ layout = "single"
 Life is a hectic affair; To help keep me sane and to give me some guidance, these are my current areas of focus:
 
 ## Photography
-<a href="https://www.instagram.com/_gbbns" rel="noopener">Improving my photography</a>, [with my new(ish) toy](http://www.fujifilm.com/products/digital_cameras/x/fujifilm_x_t1/)
+<a href="https://www.instagram.com/_gbbns" rel="noopener">Improving my photography</a>, [with my new(ish) toy](https://www.fujifilm.com/products/digital_cameras/x/fujifilm_x_t1/)
 
 ## Work
 * Continuing to promote and improve both of the guilds I&lsqo;ve setup &ndash; the <abbr title"Inclusive Design Guild">IDG</abbr> &amp; the <abbr title"Front End">FE</abbr> guild
