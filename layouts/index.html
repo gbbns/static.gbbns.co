@@ -21,7 +21,7 @@
 			</article>
 
 			<article>
-				<h3>Still fresh</h3>
+				<h4>Still fresh</h4>
 				<ul>
 					{{ range first 4 (after 1 (where .Data.Pages "Type" "article")) }}
 					<li>
@@ -54,7 +54,7 @@
 
 			{{ if gt 1 (len $notes) }}
 				<article>
-					<h3>Still fresh</h3>
+					<h4>Still fresh</h4>
 					<ul>
 					{{ range first 4 (after 1 (where .Data.Pages "Type" "note")) }}
 						<li>
