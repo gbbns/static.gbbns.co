@@ -6,9 +6,233 @@
     <description>Recent content in Writing on gbbns.co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Wed, 04 Jul 2018 08:30:21 +0100</lastBuildDate>
     
 	<atom:link href="/writing/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Full Stack: The Myth &amp; the Bullshit</title>
+      <link>/writing/full-stack-the-myth/</link>
+      <pubDate>Wed, 04 Jul 2018 08:30:21 +0100</pubDate>
+      
+      <guid>/writing/full-stack-the-myth/</guid>
+      <description>WIP! My plan is to write this post in the open, in the meantime these are my current thoughts on the subject.
+Thoughts  FE is a spectrum  UX &amp;lt;&amp;mdash;-&amp;gt; HTML/CSS &amp;lt;&amp;mdash;-&amp;gt; JS/Engineering  Everyone has forgotten about standards More than just HTML  What about accessibility? Performance anyone? Cross browser testing&amp;hellip; Devices! Devices! Devices! Sass, CSS &amp;amp; pattern libraries Build tools Linting  It&amp;rsquo;s no longer about converting a design to a template, we&amp;rsquo;ve got more intelligent in our approach, the bredth of FE has grown massively So, let me ask you, are you really fullstack?</description>
+    </item>
+    
+    <item>
+      <title>Public Speaking</title>
+      <link>/writing/public-speaking/</link>
+      <pubDate>Sat, 16 Jun 2018 12:15:33 +0100</pubDate>
+      
+      <guid>/writing/public-speaking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UX Scotland 2018 Roundup</title>
+      <link>/writing/ux-scotland-2018-roundup/</link>
+      <pubDate>Sat, 16 Jun 2018 12:14:12 +0100</pubDate>
+      
+      <guid>/writing/ux-scotland-2018-roundup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Upcoming Blog Post Ideas</title>
+      <link>/writing/upcoming-blog-post-ideas/</link>
+      <pubDate>Sat, 16 Jun 2018 08:08:01 +0000</pubDate>
+      
+      <guid>/writing/upcoming-blog-post-ideas/</guid>
+      <description>My hope is that this page will serve as an ongoing scratchpad for future blog posts ideas. I have a few ideas for blog posts, some contencious, others more my own folly.
+I&amp;rsquo;d love to get peoples feedback on some of the topics mentioned below; I also intend to link to draft posts with the aim of getting constructive feedback during the writing process.
+Initial topics include:  Fullstack: The Myth and the Bullshit End of year &amp;ndash; 2017 &amp;ndash; review Goals and plans for 2018 Accessibility at Auto Trader Breaking into public speaking Digital detox - My &amp;ldquo;dry&amp;rdquo; january Benefits of having a mentor, or being a mentor Conference round ups: Camp Digital and UX Scotland Designing, and building, in the open.</description>
+    </item>
+    
+    <item>
+      <title>2017 Review</title>
+      <link>/writing/2017-review/</link>
+      <pubDate>Thu, 11 Jan 2018 09:42:32 +0000</pubDate>
+      
+      <guid>/writing/2017-review/</guid>
+      <description>Christmas is officially over; The decorations are now down and all safely tucked away in the attic until the mega marketing machine rolls around next time.
+I&amp;rsquo;m a little late with this review and no doubt by now many people have written down long lists of unachievable things they want to stop, or start, doing this year. As for me I stopped doing resolutions a few years back mainly as I just didn&amp;rsquo;t stick to them - they&amp;rsquo;re usually out of the window before January has finished, instead I like to set goals for the year, mainly as I feel they&amp;rsquo;re not only more achieveable but also easier to manage and work towards over the course of 12 months.</description>
+    </item>
+    
+    <item>
+      <title>2018 Preview</title>
+      <link>/writing/2018-preview/</link>
+      <pubDate>Thu, 11 Jan 2018 09:42:32 +0000</pubDate>
+      
+      <guid>/writing/2018-preview/</guid>
+      <description>My initial thought, on the face of it, is that 2018 promises a lot.
+I&amp;rsquo;m working hard on getting that &amp;lsquo;principal&amp;rsquo; moniker in my title; It&amp;rsquo;s something to strive for, even though I&amp;rsquo;m not looking for something to hang my hat off. Coupled with that is looking at running some form of external workshop - accessibility related - and hopefully speaking at a conference and/or meet up(s)
+Goals for 2018  Principal FE promotion Take at least one holiday, either in the UK or abroad Write more: Aim to publish at least 6 main blog posts in the year, as well as 12 shorter posts in the &amp;lsquo;latest notes&amp;rsquo; section Speak at at least one of the following: a local (Manchester) meetup, speak at a (UK) meetup, or speak at a conference Keep my website up to date Start my bucket list website  And with that thank you, 2017, you&amp;rsquo;ve been a blast, here&amp;rsquo;s to 2018.</description>
+    </item>
+    
+    <item>
+      <title>Moving To Hugo</title>
+      <link>/writing/moving-to-hugo/</link>
+      <pubDate>Tue, 15 Aug 2017 20:05:30 +0100</pubDate>
+      
+      <guid>/writing/moving-to-hugo/</guid>
+      <description>If I was to look at the internet archive wayback machine I could hand on heart say I&amp;rsquo;ve never had a personal website I&amp;rsquo;ve ever really been happy with.
+I&amp;rsquo;m not a designer, and I&amp;rsquo;m fine with that. Aside from that I&amp;rsquo;ve never really found a platform that I gel with. I had static html and I liked it, but with all developers I didn&amp;rsquo;t like the manual process of FTP&amp;rsquo;ing to a server, along with maintaining links, URL&amp;rsquo;s etc.</description>
+    </item>
+    
+    <item>
+      <title>40 Before. Or I think my mid-life crisis has started</title>
+      <link>/writing/40-before/</link>
+      <pubDate>Tue, 15 Aug 2017 08:11:35 +0100</pubDate>
+      
+      <guid>/writing/40-before/</guid>
+      <description>I think it&amp;rsquo;s been happening for a while, the slow realisation that age is actually creeping up on me.
+Every time I go for a haircut I notice more grey hairs than the month before.
+I feel the aches in my back a little more than a used to.
+My knees make more noises than they did last year.
+I could go on, but I&amp;rsquo;m sure you get the idea by now.</description>
+    </item>
+    
+    <item>
+      <title>Today I Learnt</title>
+      <link>/writing/til/</link>
+      <pubDate>Wed, 02 Aug 2017 18:22:41 +0100</pubDate>
+      
+      <guid>/writing/til/</guid>
+      <description>As hard and fast as modern life is, I think that it&amp;rsquo;s important to take time out of your schedule and make sure that you keep regular contact with friends. I like to think that I&amp;rsquo;m better than most at this. I do overthink the reasons why people don&amp;rsquo;t reciprocate this, but hey. People.</description>
+    </item>
+    
+    <item>
+      <title>You</title>
+      <link>/writing/you/</link>
+      <pubDate>Tue, 04 Oct 2016 08:30:00 +0100</pubDate>
+      
+      <guid>/writing/you/</guid>
+      <description>770.6 miles, that was what was on the car&amp;rsquo;s milometer when I pulled up on the driveway after a week away.
+The family had been to Devon, we left the previous Friday to visit the “English Riviera”. My only previous encounter with the South Coast had been a visit to the New Forest before a week on the Isle of Wight. We loved that trip and it&amp;rsquo;s safe to say we enjoyed this.</description>
+    </item>
+    
+    <item>
+      <title>Broken</title>
+      <link>/writing/broken/</link>
+      <pubDate>Thu, 25 Aug 2016 08:30:00 +0100</pubDate>
+      
+      <guid>/writing/broken/</guid>
+      <description>I can&amp;rsquo;t pinpoint exactly when, but I&amp;rsquo;ve come to the realisation that the daily routine I&amp;rsquo;ve worked so hard to build is broken.
+After a coffee &amp;amp; chinwag with my good friend Dan Furze, it seems that it&amp;rsquo;s not just me, which is always reassuring.
+I&amp;rsquo;m aware that everyone has natural peaks and troughs in life - hell I&amp;rsquo;ve had enough myself - but recently it&amp;rsquo;s felt like I&amp;rsquo;ve been unable to climb out of this one.</description>
+    </item>
+    
+    <item>
+      <title>Dealing with rejection</title>
+      <link>/writing/dealing-with-rejection/</link>
+      <pubDate>Tue, 12 Jul 2016 08:30:00 +0100</pubDate>
+      
+      <guid>/writing/dealing-with-rejection/</guid>
+      <description>&amp;ldquo;A rejection is nothing more than a necessary step in the pursuit of success&amp;rdquo; - Bo Bennett.
+I&amp;rsquo;m not going to go into the full details, but twice in the space of 4 weeks I&amp;rsquo;ve been left having to deal with some kind of rejection.
+Now this isn&amp;rsquo;t a post wanting pity, it&amp;rsquo;s more to serve as a permanent reminder to me, personally, on how I&amp;rsquo;ve dealt with it, and also something which may help others.</description>
+    </item>
+    
+    <item>
+      <title>Burning the candle</title>
+      <link>/writing/burning-the-candle/</link>
+      <pubDate>Wed, 06 Apr 2016 12:30:00 +0100</pubDate>
+      
+      <guid>/writing/burning-the-candle/</guid>
+      <description>The great thing about Marc&amp;rsquo;s&amp;lsquo;30 day writing challenge&amp;rsquo; is reading such a great cross section of varied content, as well as gaining a lot of inspiration.
+One of the themes I&amp;rsquo;ve enjoyed the most so far has been around people&amp;rsquo;s morning &amp;amp; evening routines.
+Some people get up early and write, others check emails, whilst some use their &amp;ldquo;spare time&amp;rdquo; to exercise &amp;mdash; the reason for the quotes is that this is very much dependent on peoples individual set of circumstances, I know in my life at present the very concept of spare time is but a dream and it irks me when people comment or question other peoples dedication to things without knowing the set of circumstances surrounding the person(s).</description>
+    </item>
+    
+    <item>
+      <title>The now page</title>
+      <link>/writing/the-now-page/</link>
+      <pubDate>Fri, 01 Apr 2016 11:00:00 +0100</pubDate>
+      
+      <guid>/writing/the-now-page/</guid>
+      <description>I like the idea of a now page. It&amp;rsquo;s got a point. It&amp;rsquo;s not on the site to bullshit, it&amp;rsquo;s there to tell people what you, or I, are doing now.
+From time to time I get asked what am I doing, what am I working on and if it&amp;rsquo;s anything good, do I have any side projects on the go, how&amp;rsquo;s my photography coming on, etc&amp;hellip;
+I first came across the now page on Marc&amp;rsquo;s site and was instantly hooked on it, and as he&amp;rsquo;d handily included links to other sites where he himself had got inspiration.</description>
+    </item>
+    
+    <item>
+      <title>The 30 day writing challenge</title>
+      <link>/writing/the-30-day-writing-challenge/</link>
+      <pubDate>Fri, 01 Apr 2016 07:00:00 +0100</pubDate>
+      
+      <guid>/writing/the-30-day-writing-challenge/</guid>
+      <description>I&amp;rsquo;ve known for a while that writing was going to be important to me this year, but as with all best laid plans&amp;hellip;
+I started of on a really good footing, I quite quickly managed to rattle of more posts in a single month than I&amp;rsquo;d managed in the 5+ previous years of trying. Then things slowed down. Life kind of took over. Whilst not exactly losing interest in blogging, or writing &amp;ndash; as I&amp;rsquo;ve managed to make quite a healthy list of things I wish to write about &amp;ndash; more I lost the initial discipline that I&amp;rsquo;d been under.</description>
+    </item>
+    
+    <item>
+      <title>A belated preview</title>
+      <link>/writing/a-belated-preview/</link>
+      <pubDate>Sun, 06 Mar 2016 08:30:00 +0100</pubDate>
+      
+      <guid>/writing/a-belated-preview/</guid>
+      <description>This blog post is by no means going to cover the entire year, in-fact it may be irrelevant before it even gets published, all I will say is that this year is shaping up to be a good one, I can feel it.
+Towards the end of last year I had a period of reflection. I looked back at what I had achieved during the year, as well as having an eye on what I wished to develop in the coming year &amp;mdash; both personally and professionally.</description>
+    </item>
+    
+    <item>
+      <title>Motivation</title>
+      <link>/writing/motivation/</link>
+      <pubDate>Fri, 19 Feb 2016 08:30:00 +0100</pubDate>
+      
+      <guid>/writing/motivation/</guid>
+      <description>When it&amp;rsquo;s not there, life is tough, everything is a struggle, things you once enjoyed start to become a chore. Sound familiar to anyone?
+Several years ago, I hit this very problem, and it&amp;rsquo;s taken until now for me to properly speak up about it.
+So, why now? Simple really, I&amp;rsquo;m now at the total opposite stage.
+2013 was a pretty crappy year, and to be honest so was most of 2014 &amp;ndash; for a number of different reasons &amp;ndash; and to top if off I really hit an all time low with &amp;lsquo;the internet&amp;rsquo;, to the point where I was ready to completely jack it all in and change career.</description>
+    </item>
+    
+    <item>
+      <title>Workflow happiness</title>
+      <link>/writing/workflow-happiness/</link>
+      <pubDate>Mon, 15 Feb 2016 08:30:00 +0100</pubDate>
+      
+      <guid>/writing/workflow-happiness/</guid>
+      <description>Over the last couple of weeks I&amp;rsquo;ve had similar conversations with a few colleague &amp;amp; friends with regards website CMS&amp;rsquo; systems and workflows, which in turn lead me to reflect on my current setup.
+After looking at various CMS platforms, recently and over the past few years, the choice is staggering. Ranging from simple to the ridiculous, it is scary how many of these platforms can confuse and overwhelm the users, to the point where they actually fear using it.</description>
+    </item>
+    
+    <item>
+      <title>What a year</title>
+      <link>/writing/what-a-year/</link>
+      <pubDate>Thu, 04 Feb 2016 08:30:00 +0100</pubDate>
+      
+      <guid>/writing/what-a-year/</guid>
+      <description>It&amp;rsquo;s now February 2016, almost a year to the day that Samuel was born, and things are only just beginning to slow down enough to actually gather my thoughts from the last 12 months.
+I always knew that 2015 was going to be a stand-out year due to the fact that fatherhood was impending&amp;hellip; But I had no idea just how much of a year it would actually be.
+January brought about a mandatory period of abstinence from alcohol, partly due to the yearly Christmas excess, but mainly due to being &amp;lsquo;on-call&amp;rsquo; for a trip to the hospital.</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>/writing/welcome/</link>
+      <pubDate>Tue, 02 Feb 2016 08:30:00 +0100</pubDate>
+      
+      <guid>/writing/welcome/</guid>
+      <description>So, after countless promises over the past few years, here we are!
+I&amp;rsquo;ve finally got round to sorting out my new site, it&amp;rsquo;s now running on Jekyll and is an absolute breeze to keep up to date.
+Hopefully as time progresses I&amp;rsquo;ll get round to adding a little more colour, as well as more blog posts - as I have plenty planned&amp;hellip;
+In the mean time, check out my other channels:</description>
+    </item>
+    
+    <item>
+      <title>Working redesign</title>
+      <link>/writing/working-redesign/</link>
+      <pubDate>Thu, 28 Jan 2016 07:00:00 +0100</pubDate>
+      
+      <guid>/writing/working-redesign/</guid>
+      <description>I&amp;rsquo;ve never truly been happy with my site, it&amp;rsquo;s always been in a state of redesign, typical for a UI dev, eh?!
+After installing Jekyll early last year I finally felt that I had the beginnings of something I was beginning to like and actually enjoy using.
+Fast forward a year and I find myself back at the beginning, albeit with a platform I&amp;rsquo;m still happy with.
+And so begins a new re-design/re-align.</description>
+    </item>
     
   </channel>
 </rss>
