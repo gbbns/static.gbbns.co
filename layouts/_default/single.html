@@ -6,15 +6,15 @@
 				<h1 class="heading--primary">{{ .Title }}</h1>
 			</header>
 			{{ if eq .Params.Type "article" }}
-			<p class="article__meta-info">by {{ .Params.Author }} &centerdot; <time datetime="{{ .Date.Format "2006-01-02 15:04" }}">{{ .Date.Format "January 02, 2006" }}</time> &centerdot; {{ .ReadingTime }} min read</p>
+				<p class="article__meta-info">by {{ .Params.Author }} &centerdot; <time datetime="{{ .Date.Format "2006-01-02 15:04" }}">{{ .Date.Format "January 02, 2006" }}</time> &centerdot; {{ .ReadingTime }} min read</p>
 
-			<ul class="h-list article__meta-info">
-				{{ range .Params.tags }}
-				<li class="h-list__item">
-					<a class="article__meta-tag" href="/tags/{{ . | urlize }}">{{ . | humanize}}</a>
-				</li>
-				{{ end }}
-			</ul>
+				<ul class="h-list article__meta-info">
+					{{ range .Params.tags }}
+					<li class="h-list__item">
+						<a class="article__meta-tag" href="/tags/{{ . | urlize }}">{{ . | humanize}}</a>
+					</li>
+					{{ end }}
+				</ul>
 			{{ end }}
 			{{ .Content }}
 			<footer class="article__foot-note">

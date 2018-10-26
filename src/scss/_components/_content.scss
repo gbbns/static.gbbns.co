@@ -15,7 +15,7 @@
 	&__main-body {
 		margin: 0 auto;
 		box-sizing: border-box;
-		padding: $base-spacing * 6 $base-spacing * 3;
+		padding: $base-spacing * 6 0;
 
 		@media (min-width: 768px) {
 			padding: $base-spacing * 6 $base-spacing * 3 0 $base-spacing * 18;
