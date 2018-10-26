@@ -33,9 +33,9 @@ Burnout. This is a funny one. You&rsquo;ve no doubt heard it, or at the least kn
 
 Both 2013 and 2014, for various reasons, were tough years for me, both personally and professionally. It got to the point where I&rsquo;d hit an all time low with the web industry as a whole. I was ready for a career change.
 
-I don&rsquo;t know when exactly, or what triggered these feelings, but the &ldquo;eureka&rdquo; moment which opened my eyes to things came when I attended [DDD North](http://www.dddnorth.co.uk/).
+I don&rsquo;t know when exactly, or what triggered these feelings, but the &ldquo;eureka&rdquo; moment which opened my eyes to things came when I attended [DDD North](https://www.dddnorth.co.uk/).
 
-It was one of the sessions [Burnout Is Real And it&rsquo;s Coming To Get You](http://www.dddnorth.co.uk/Sessions/Details/125) which struck a chord with me.
+It was one of the sessions [Burnout Is Real And it&rsquo;s Coming To Get You](https://www.dddnorth.co.uk/Sessions/Details/125) which struck a chord with me.
 
 When Richard began to list some of the chief causes of his own burnout:
 
