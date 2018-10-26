@@ -1,0 +1,7 @@
+.o-content__body {
+	lost-column: 1/1 0;
+
+	@media (min-width: 768px) {
+		lost-column: 8/12;
+	}
+}

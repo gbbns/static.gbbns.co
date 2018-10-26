@@ -2,7 +2,7 @@
 categories = "front end "
 tags = ["front end", "web development"]
 draft = false
-title = "Full Stack: The myth & the bullshit"
+title = "Full Stack: The Myth & the Bullshit"
 date = 2018-07-04T08:30:21+01:00
 description = ""
 type = "article"
@@ -20,7 +20,7 @@ My plan is to write this post in the open, in the meantime these are my current 
 * More than `just HTML`
 	* What about accessibility?
 	* Performance anyone?
-	* Cross browser testing
+	* Cross browser testing...
 	* Devices! Devices! Devices!
 	* Sass, CSS & pattern libraries
 	* Build tools

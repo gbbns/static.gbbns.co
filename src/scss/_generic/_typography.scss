@@ -1,11 +1,18 @@
 .heading {
 	&--primary {
-		font-size: 1.7rem;
+		color: $palette-headers;
+		font-size: 4rem;
 		line-height: 1.2;
 		margin-bottom: 0;
 
 		@media screen and (min-width: 48em) {
-			font-size: 2.6rem;
+			font-size: 80px;
+			letter-spacing: -4px;
+			line-height: 1;
+		}
+
+		.article--home & {
+			letter-spacing: 0;
 		}
 	}
 }

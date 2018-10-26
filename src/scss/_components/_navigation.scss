@@ -4,13 +4,22 @@
 	}
 
 	.h-list__item {
+		display: block;
+		text-align: left;
+
+		@media (min-width: 768px) {
+			flex: 1 1 100%;
+		}
+
 		a {
 			display: block;
-			padding: 3vw;
+			font-size: 1rem;
+			line-height: 1.5;
+			// padding: 3vw;
 
-			@media screen and (min-width: 30em) {
-				padding: $base-spacing / 2 $base-spacing * 2;
-			}
+			// @media screen and (min-width: 30em) {
+			// 	padding: $base-spacing / 2 $base-spacing * 2;
+			// }
 		}
 	}
 

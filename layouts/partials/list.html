@@ -1,32 +1,32 @@
 <section class="article__main-content">
-	{{ range first 1 (.Data.Pages.GroupByDate "2006") }}
-		<h2> Posted So Far in {{ .Key }}</h2>
+	{{ range $index, $value := (where .Site.RegularPages "Type" "article").GroupByDate "2006" }}
+		{{ if ge .Key now.Year }}
+		<h2>Posted So Far in {{ .Key }}</h2>
 		<ul class="v-list">
 			{{ range .Pages }}
 			<li class="v-list__item">
 				<a href="{{ .Permalink }}">
-					{{ .Title }}
-				</a>
-				<span>- {{ .Date.Format "Mon, 2 Jan, 2006" }}
 					<span class="article__meta-tag article__meta-tag--article">{{ .Type | humanize }}</span>
-				</span>
+					<p class="article__title">{{ .Title }}</p>
+					<span class="article__meta-info">{{ .Date.Format "Mon, 2 Jan, 2006" }}</span>
+				</a>
 			</li>
 			{{ end }}
 		</ul>
+		{{end}}
 	{{ end }}
 
-	{{ range .Data.Pages.GroupByDate "2006" }}
-		{{ if ne .Key "2018" }}
+	{{ range .Site.RegularPages.GroupByDate "2006" }}
+		{{ if lt .Key now.Year }}
 		<h3>{{ .Key }}</h3>
 		<ul class="v-list">
 			{{ range .Pages }}
 			<li class="v-list__item">
 				<a href="{{ .Permalink }}">
-					{{ .Title }}
-				</a>
-				<span>- {{ .Date.Format "Mon, 2 Jan, 2006" }}
 					<span class="article__meta-tag article__meta-tag--article">{{ .Type | humanize }}</span>
-				</span>
+					<p class="article__title">{{ .Title }}</p>
+					<span class="article__meta-info">{{ .Date.Format "Mon, 2 Jan, 2006" }}</span>
+				</a>
 			</li>
 			{{ end }}
 		</ul>
