@@ -7,6 +7,10 @@
 		display: block;
 		text-align: left;
 
+		@media (min-width: 768px) {
+			flex: 1 1 100%;
+		}
+
 		a {
 			display: block;
 			font-size: 1rem;

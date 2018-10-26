@@ -1,13 +1,15 @@
 // Horizontal list //
 .h-list {
-	// margin-top: $base-spacing * 2;
+	display: flex;
+	flex-wrap: wrap;
 
 	&__item {
-		display: inline-block;
 		list-style: none;
+		flex: 1 1 50%;
+		margin-bottom: $base-spacing;
 
-		& + & {
-			margin-left: $base-spacing * 2;
+		@media (min-width: 768px) {
+			flex: 1 1 20%;
 		}
 	}
 }
