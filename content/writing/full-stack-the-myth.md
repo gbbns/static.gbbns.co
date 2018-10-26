@@ -1,7 +1,7 @@
 +++
 categories = "front end "
 tags = ["front end", "web development"]
-draft = false
+draft = true
 title = "Full Stack: The Myth & the Bullshit"
 date = 2018-07-04T08:30:21+01:00
 description = ""
