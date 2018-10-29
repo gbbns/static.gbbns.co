@@ -1,16 +1,16 @@
 {{ define "main" }}
 	<div class="article__main-body article--home">
-		<article>
+		<section>
 			<header class="article__main-header">
 				<h1 class="heading--primary">{{ .Title }}</h1>
 			</header>
 			{{ .Content }}
-		</article>
+		</section>
 
 		<section>
 			<h2>Articles</h2>
 
-			<article class="card">
+			<div class="card">
 				{{ range first 1 (where .Data.Pages "Type" "article") }}
 				<h3 class="heading--primary">
 					<a href="{{ .Permalink }}">
@@ -20,12 +20,12 @@
 				<p class="article__meta-info" itemscope itemtype="http://schema.org/Person">by <span itemprop="author">{{ .Params.Author }}</span> &centerdot; <time datetime="{{ .Date.Format "2006-01-02 15:04" }}" itemProp="datePublished">{{ .Date.Format "January 02, 2006" }}</time> &centerdot; {{ .ReadingTime }} min read</p>
 				<p>{{ if isset .Params "excerpt" }}{{ .Params.excerpt }}{{ else }}{{ .Summary }}{{ end }}</p>
 				{{ end }}
-			</article>
+			</div>
 
-			<article>
+			<div>
 				<h4>Still fresh</h4>
 				<ul>
-					{{ range first 4 (after 1 (where .Data.Pages "Type" "article")) }}
+					{{ range first 4 (after 1 (where .Data.Pages "Type" "div")) }}
 					<li>
 						<a href="{{ .Permalink }}">
 							{{ .Title }}
@@ -34,13 +34,13 @@
 					</li>
 					{{ end }}
 				</ul>
-			</article>
+			</div>
 
 		</section>
 
 		<section>
 			<h3>Latest notes</h3>
-			<article class="card">
+			<div class="card">
 				{{ range first 1 (where .Data.Pages "Type" "note") }}
 					<h3 class="heading--primary">
 						<a href="{{ .Permalink }}">
@@ -50,12 +50,12 @@
 					<p class="article__meta-info">by {{ .Params.Author }} &centerdot; <time datetime="{{ .Date.Format "2006-01-02 15:04" }}">{{ .Date.Format "January 02, 2006" }}</time> &centerdot; {{ .ReadingTime }} min read</p>
 					<p>{{ if isset .Params "excerpt" }}{{ .Params.excerpt }}{{ else }}{{ .Summary }}{{ end }}</p>
 				{{ end }}
-			</article>
+				</div>
 
 			{{ $notes := where .Data.Pages "Type" "note" }}
 
 			{{ if gt 1 (len $notes) }}
-				<article>
+				<div>
 					<h4>Still fresh</h4>
 					<ul>
 					{{ range first 4 (after 1 (where .Data.Pages "Type" "note")) }}
@@ -67,7 +67,7 @@
 						</li>
 					{{ end }}
 					</ul>
-				</article>
+				</div>
 			{{ end }}
 
 		</section>
