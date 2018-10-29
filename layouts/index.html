@@ -1,9 +1,11 @@
 {{ define "main" }}
-	<section class="article__main-body article--home">
-		<header class="article__main-header">
-			<h1 class="heading--primary">{{ .Title }}</h1>
-		</header>
-		{{ .Content }}
+	<div class="article__main-body article--home">
+		<article>
+			<header class="article__main-header">
+				<h1 class="heading--primary">{{ .Title }}</h1>
+			</header>
+			{{ .Content }}
+		</article>
 
 		<section>
 			<h2>Articles</h2>
@@ -70,6 +72,6 @@
 
 		</section>
 
-	</section>
+	</div>
 
 {{ end }}
