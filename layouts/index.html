@@ -17,7 +17,7 @@
 						{{ .Title }}
 					</a>
 				</h3>
-				<p class="article__meta-info">by {{ .Params.Author }} &centerdot; <time datetime="{{ .Date.Format "2006-01-02 15:04" }}">{{ .Date.Format "January 02, 2006" }}</time> &centerdot; {{ .ReadingTime }} min read</p>
+				<p class="article__meta-info" itemscope itemtype="http://schema.org/Person">by <span itemprop="author">{{ .Params.Author }}</span> &centerdot; <time datetime="{{ .Date.Format "2006-01-02 15:04" }}" itemProp="datePublished">{{ .Date.Format "January 02, 2006" }}</time> &centerdot; {{ .ReadingTime }} min read</p>
 				<p>{{ if isset .Params "excerpt" }}{{ .Params.excerpt }}{{ else }}{{ .Summary }}{{ end }}</p>
 				{{ end }}
 			</article>
@@ -30,7 +30,7 @@
 						<a href="{{ .Permalink }}">
 							{{ .Title }}
 						</a>
-						<span><time datetime="{{ .Date.Format "2006-01-02 15:04" }}">{{ .Date.Format "Mon, 2 Jan, 2006" }}</time></span>
+						<span><time datetime="{{ .Date.Format "2006-01-02 15:04" }}" itemProp="datePublished">{{ .Date.Format "Mon, 2 Jan, 2006" }}</time></span>
 					</li>
 					{{ end }}
 				</ul>
