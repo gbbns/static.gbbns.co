@@ -48,7 +48,7 @@ A UX what now?
 
 OK, let me explain.
 
-I've been trying to find an accurate description for myself within the front end (FE) areana for a number years now, especially with the lines of what is expected of a FE-er becoming blurrier.
+I've been trying to find an accurate description for myself within the front end (FE) arena for a number years now, especially with the lines of what is expected of a FE-er becoming blurrier.
 
 It's no exaggeration to say that the FE landscape has changed dramatically in the 15 years I've been in the industry. Task runners such as Grunt and Gulp weren't even twinkles in the eyes of the people who concieved the ideas. Object orientated approaches to frameworks such as Angular and React are commonplace and expected skills to have. Accessibility &amp; inclusive design is rightly gaining in prominence, but not enough for my liking!
 
