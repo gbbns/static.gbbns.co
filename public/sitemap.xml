@@ -8,21 +8,6 @@
   </url>
   
   <url>
-    <loc>/writing/full-stack-the-myth/</loc>
-    <lastmod>2018-07-04T08:30:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/writing/public-speaking/</loc>
-    <lastmod>2018-06-16T12:15:33+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/writing/ux-scotland-2018-roundup/</loc>
-    <lastmod>2018-06-16T12:14:12+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/writing/upcoming-blog-post-ideas/</loc>
     <lastmod>2018-06-16T08:08:01+00:00</lastmod>
   </url>
@@ -60,11 +45,6 @@
   <url>
     <loc>/writing/moving-to-hugo/</loc>
     <lastmod>2017-08-15T20:05:30+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/writing/40-before/</loc>
-    <lastmod>2017-08-15T08:11:35+01:00</lastmod>
   </url>
   
   <url>
@@ -174,30 +154,6 @@
   </url>
   
   <url>
-    <loc>/categories/conferences/</loc>
-    <lastmod>2018-06-16T12:14:12+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/conferences/</loc>
-    <lastmod>2018-06-16T12:15:33+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/front-end/</loc>
-    <lastmod>2018-07-04T08:30:21+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/front-end/</loc>
-    <lastmod>2018-07-04T08:30:21+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/future/</loc>
     <lastmod>2018-06-16T08:08:01+00:00</lastmod>
     <priority>0</priority>
@@ -217,7 +173,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-07-04T08:30:21+01:00</lastmod>
+    <lastmod>2018-06-16T08:08:01+00:00</lastmod>
   </url>
   
   <url>
@@ -229,18 +185,6 @@
   <url>
     <loc>/tags/mentalhealth/</loc>
     <lastmod>2016-10-04T08:30:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/mid-life/</loc>
-    <lastmod>2017-08-15T08:11:35+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/mid-life/</loc>
-    <lastmod>2017-08-15T08:11:35+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -311,18 +255,6 @@
   </url>
   
   <url>
-    <loc>/categories/public-speaking/</loc>
-    <lastmod>2018-06-16T12:15:33+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/public-speaking/</loc>
-    <lastmod>2018-06-16T12:15:33+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/speaking/</loc>
     <lastmod>2018-06-14T08:30:21+01:00</lastmod>
     <priority>0</priority>
@@ -342,7 +274,7 @@
   
   <url>
     <loc>/tags/test/</loc>
-    <lastmod>2018-07-04T08:30:21+01:00</lastmod>
+    <lastmod>2018-06-16T08:08:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -365,12 +297,6 @@
   </url>
   
   <url>
-    <loc>/tags/web-development/</loc>
-    <lastmod>2018-07-04T08:30:21+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/work/</loc>
     <lastmod>2016-10-04T08:30:00+01:00</lastmod>
     <priority>0</priority>
@@ -378,7 +304,7 @@
   
   <url>
     <loc>/writing/</loc>
-    <lastmod>2018-07-04T08:30:21+01:00</lastmod>
+    <lastmod>2018-06-16T08:08:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   

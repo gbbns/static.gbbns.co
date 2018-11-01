@@ -23,47 +23,47 @@ pluralizeListTitles		= false
 
 [[menu.main]]
   name   = "About"
-  url    = "/about/"
+  url    = "/about"
   weight = 1
 
 [[menu.main]]
   name   = "Writing"
-  url    = "/writing/"
+  url    = "/writing"
   weight = 2
 
 [[menu.main]]
   name   = "Speaking"
-  url    = "/speaking/"
+  url    = "/speaking"
   weight = 3
 
 [[menu.main]]
   name   = "Contact"
-  url    = "/contact/"
+  url    = "/contact"
   weight = 4
 
 [[menu.footer]]
   name   = "Colophon"
-  url    = "/colophon/"
+  url    = "/colophon"
   weight = 1
 
 [[menu.footer]]
   name   = "Now"
-  url    = "/now/"
+  url    = "/now"
   weight = 2
 
 [[menu.footer]]
   name   = "Uses"
-  url    = "/uses/"
+  url    = "/uses"
   weight = 3
 
 [[menu.footer]]
   name   = "Categories"
-  url    = "/categories/"
+  url    = "/categories"
   weight = 4
 
 [[menu.footer]]
   name   = "Tags"
-  url    = "/tags/"
+  url    = "/tags"
   weight = 5
 
 
